@@ -1,0 +1,5 @@
+{
+  "buildCommand": "pnpm build:landing",
+  "outputDirectory": "dist",
+  "framework": "vite"
+}

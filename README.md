@@ -1,6 +1,10 @@
 # Pixel Farm Valley — Solana Hackathon
 
 <p align="center">
+  <img src="docs/screenshots/banner.png" alt="Pixel Farm Valley" width="800" />
+</p>
+
+<p align="center">
   <strong>Play-to-Earn game on Solana</strong><br />
   Mine resources • Trade in the market • Claim $PFV to your wallet
 </p>
@@ -71,6 +75,16 @@ Get a WalletConnect project ID at [cloud.reown.com](https://cloud.reown.com).
 - **Arena** — PvE battles for extra rewards
 - **Referrals** — Invite friends, earn bonuses
 
+## Screenshots
+
+| Valley | Mine | Market |
+|--------|------|--------|
+| ![Valley](docs/screenshots/valley.png) | ![Mine](docs/screenshots/mine.png) | ![Market](docs/screenshots/market.png) |
+
+| Wallet | Arena |
+|--------|-------|
+| ![Wallet](docs/screenshots/wallet.png) | ![Arena](docs/screenshots/arena.png) |
+
 ## Project Structure
 
 ```
@@ -92,11 +106,13 @@ pnpm build
 # Output: dist/
 ```
 
-**Landing-only deploy (e.g. GitHub Pages):** when hosting on a different domain, login won't work (API CORS, OAuth redirects). Use `build:landing` so LAUNCH GAME redirects to the live game:
+**Landing-only deploy (Vercel, GitHub Pages, etc.):** when hosting on a different domain, login won't work (API CORS, OAuth redirects). Use `build:landing` so LAUNCH GAME redirects to the live game:
 
 ```bash
 pnpm build:landing
 ```
+
+> **Vercel:** this repo includes `vercel.json` with `buildCommand: pnpm build:landing` — LAUNCH will redirect to pixelvalley.farm automatically.
 
 Preview production build:
 
