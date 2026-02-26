@@ -1,0 +1,108 @@
+{
+  "transitions": [
+    {
+      "from": "dirty road",
+      "to": "grass sparse",
+      "fromId": 9,
+      "toId": 2,
+      "tilesetId": "dc705cf4-9c33-49d3-b062-2a591f27683d",
+      "transitionSize": 0
+    },
+    {
+      "from": "dirt path",
+      "to": "cliff wall",
+      "fromId": 1,
+      "toId": 7,
+      "tilesetId": "5a2ddfd8-8f89-480c-8275-64b44c82591b",
+      "transitionSize": 0
+    },
+    {
+      "from": "dirt path",
+      "to": "dirt ground",
+      "fromId": 1,
+      "toId": 5,
+      "tilesetId": "e77bf0ef-7119-403c-85d1-300027ef5e80",
+      "transitionSize": 0
+    },
+    {
+      "from": "grass sparse",
+      "to": "cliff wall",
+      "fromId": 2,
+      "toId": 7,
+      "tilesetId": "5afd7fb8-e2c9-425f-90cc-994ef625db8e",
+      "transitionSize": 0.5
+    },
+    {
+      "from": "cliff wall",
+      "to": "mountain road",
+      "fromId": 7,
+      "toId": 8,
+      "tilesetId": "0099e8fb-9ac2-4e35-a623-59ce9f89be9a",
+      "transitionSize": 0
+    },
+    {
+      "from": "dirt path",
+      "to": "mountain road",
+      "fromId": 1,
+      "toId": 8,
+      "tilesetId": "13119ff7-401b-49de-a362-af4f1ebe56a5",
+      "transitionSize": 0
+    },
+    {
+      "from": "grass sparse",
+      "to": "grass sparse",
+      "fromId": 2,
+      "toId": 4,
+      "tilesetId": "ed828317-c19f-4f00-854e-5e1191ee5759",
+      "transitionSize": 0
+    },
+    {
+      "from": "dirt path",
+      "to": "grass sparse",
+      "fromId": 1,
+      "toId": 2,
+      "tilesetId": "5eec9e91-fefa-4ba3-8471-b6c305afc07e",
+      "transitionSize": 0
+    },
+    {
+      "from": "desert road",
+      "to": "grass sparse",
+      "fromId": 10,
+      "toId": 2,
+      "tilesetId": "806b5026-6115-426b-9486-9b0cff4dff6f",
+      "transitionSize": 0
+    },
+    {
+      "from": "water stream",
+      "to": "cliff wall",
+      "fromId": 3,
+      "toId": 7,
+      "tilesetId": "41c64c91-9d8e-40cd-9bd1-5bd087007bdb",
+      "transitionSize": 0
+    },
+    {
+      "from": "water stream",
+      "to": "grass sparse",
+      "fromId": 3,
+      "toId": 2,
+      "tilesetId": "a058d350-69d0-41e1-99cd-93ceb3e12012",
+      "transitionSize": 0.5
+    },
+    {
+      "from": "water stream",
+      "to": "dirt path",
+      "fromId": 3,
+      "toId": 1,
+      "tilesetId": "be06e2ce-4840-405f-8a1c-a18a9450b9d3",
+      "transitionSize": 0
+    },
+    {
+      "from": "grass sparse",
+      "to": "dirt ground",
+      "fromId": 2,
+      "toId": 5,
+      "tilesetId": "cfbc2506-1ffb-4959-a24d-87179cc6c3ce",
+      "transitionSize": 0
+    }
+  ]
+}

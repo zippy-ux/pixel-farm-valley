@@ -1,0 +1,270 @@
+{
+  "version": "1.0.0",
+  "name": "Untitled Map",
+  "exportDate": "2026-02-12T18:12:56.391809Z",
+  "engine": "pixellab-map-editor",
+  "mapConfig": {
+    "tileSize": 32,
+    "dimensions": {
+      "width": 52,
+      "height": 33,
+      "pixelWidth": 1664,
+      "pixelHeight": 1056
+    },
+    "boundingBox": {
+      "maxX": 60,
+      "maxY": 34,
+      "minX": 9,
+      "minY": 2
+    }
+  },
+  "terrains": [
+    {
+      "id": 10,
+      "name": "desert road",
+      "color": "#9ca3af",
+      "baseTileId": "0fbe119f-fdaf-4282-9caf-1e8db029fd79"
+    },
+    {
+      "id": 2,
+      "name": "grass sparse",
+      "color": "#22c55e",
+      "baseTileId": "f1aec64d-5f0e-4081-b2ba-7ceed5e485f8"
+    },
+    {
+      "id": 3,
+      "name": "water stream",
+      "color": "#2563eb",
+      "baseTileId": "c19c76f3-fdb7-4a90-8fc4-d4ce14497da4"
+    },
+    {
+      "id": 7,
+      "name": "cliff wall",
+      "color": "#9ca3af",
+      "baseTileId": "f61b9ec3-ceb7-4a8c-b8df-55d0439549f1"
+    },
+    {
+      "id": 5,
+      "name": "dirt ground",
+      "color": "#92400e",
+      "baseTileId": "9afbf5d5-99a2-4043-8918-2e9898565b49"
+    },
+    {
+      "id": 1,
+      "name": "dirt path",
+      "color": "#92400e",
+      "baseTileId": "56f3301e-567a-4c26-b96c-4538bdec4a71"
+    },
+    {
+      "id": 9,
+      "name": "dirty road",
+      "color": "#92400e",
+      "baseTileId": "8d1342f7-73c6-4f32-9456-655eda1af9f3"
+    },
+    {
+      "id": 8,
+      "name": "mountain road",
+      "color": "#4b5563",
+      "baseTileId": "62d31106-00f3-404e-9ac0-8fad1909ce5c"
+    },
+    {
+      "id": 4,
+      "name": "grass sparse",
+      "color": "#22c55e",
+      "baseTileId": "16710698-d7d1-467b-9bb1-7504b75ea068"
+    },
+    {
+      "id": 6,
+      "name": "stone cluster",
+      "color": "#9ca3af",
+      "baseTileId": "b7b35b1b-132c-4305-8d85-52623c1da5f2"
+    }
+  ],
+  "tilesets": [
+    {
+      "id": "dc705cf4-9c33-49d3-b062-2a591f27683d",
+      "filename": "dirty road-grass sparse.png",
+      "lowerTerrain": "dirty road",
+      "upperTerrain": "grass sparse",
+      "lowerTerrainId": 9,
+      "upperTerrainId": 2,
+      "transitionSize": 0,
+      "transitionDescription": "",
+      "tileSize": 32,
+      "gridLayout": "4x4",
+      "wangIndexMapping": "standard"
+    },
+    {
+      "id": "5a2ddfd8-8f89-480c-8275-64b44c82591b",
+      "filename": "dirt path-cliff wall.png",
+      "lowerTerrain": "dirt path",
+      "upperTerrain": "cliff wall",
+      "lowerTerrainId": 1,
+      "upperTerrainId": 7,
+      "transitionSize": 0,
+      "transitionDescription": "",
+      "tileSize": 32,
+      "gridLayout": "4x4",
+      "wangIndexMapping": "standard"
+    },
+    {
+      "id": "e77bf0ef-7119-403c-85d1-300027ef5e80",
+      "filename": "dirt path-dirt ground.png",
+      "lowerTerrain": "dirt path",
+      "upperTerrain": "dirt ground",
+      "lowerTerrainId": 1,
+      "upperTerrainId": 5,
+      "transitionSize": 0,
+      "transitionDescription": "",
+      "tileSize": 32,
+      "gridLayout": "4x4",
+      "wangIndexMapping": "standard"
+    },
+    {
+      "id": "5afd7fb8-e2c9-425f-90cc-994ef625db8e",
+      "filename": "grass sparse-cliff wall.png",
+      "lowerTerrain": "grass sparse",
+      "upperTerrain": "cliff wall",
+      "lowerTerrainId": 2,
+      "upperTerrainId": 7,
+      "transitionSize": 0.5,
+      "transitionDescription": "mixed gravel",
+      "tileSize": 32,
+      "gridLayout": "4x4",
+      "wangIndexMapping": "standard"
+    },
+    {
+      "id": "0099e8fb-9ac2-4e35-a623-59ce9f89be9a",
+      "filename": "cliff wall-mountain road.png",
+      "lowerTerrain": "cliff wall",
+      "upperTerrain": "mountain road",
+      "lowerTerrainId": 7,
+      "upperTerrainId": 8,
+      "transitionSize": 0,
+      "transitionDescription": "",
+      "tileSize": 32,
+      "gridLayout": "4x4",
+      "wangIndexMapping": "standard"
+    },
+    {
+      "id": "13119ff7-401b-49de-a362-af4f1ebe56a5",
+      "filename": "dirt path-mountain road.png",
+      "lowerTerrain": "dirt path",
+      "upperTerrain": "mountain road",
+      "lowerTerrainId": 1,
+      "upperTerrainId": 8,
+      "transitionSize": 0,
+      "transitionDescription": "",
+      "tileSize": 32,
+      "gridLayout": "4x4",
+      "wangIndexMapping": "standard"
+    },
+    {
+      "id": "ed828317-c19f-4f00-854e-5e1191ee5759",
+      "filename": "grass sparse-grass sparse.png",
+      "lowerTerrain": "grass sparse",
+      "upperTerrain": "grass sparse",
+      "lowerTerrainId": 2,
+      "upperTerrainId": 4,
+      "transitionSize": 0,
+      "transitionDescription": "",
+      "tileSize": 32,
+      "gridLayout": "4x4",
+      "wangIndexMapping": "standard"
+    },
+    {
+      "id": "5eec9e91-fefa-4ba3-8471-b6c305afc07e",
+      "filename": "dirt path-grass sparse.png",
+      "lowerTerrain": "dirt path",
+      "upperTerrain": "grass sparse",
+      "lowerTerrainId": 1,
+      "upperTerrainId": 2,
+      "transitionSize": 0,
+      "transitionDescription": "",
+      "tileSize": 32,
+      "gridLayout": "4x4",
+      "wangIndexMapping": "standard"
+    },
+    {
+      "id": "806b5026-6115-426b-9486-9b0cff4dff6f",
+      "filename": "desert road-grass sparse.png",
+      "lowerTerrain": "desert road",
+      "upperTerrain": "grass sparse",
+      "lowerTerrainId": 10,
+      "upperTerrainId": 2,
+      "transitionSize": 0,
+      "transitionDescription": "",
+      "tileSize": 32,
+      "gridLayout": "4x4",
+      "wangIndexMapping": "standard"
+    },
+    {
+      "id": "41c64c91-9d8e-40cd-9bd1-5bd087007bdb",
+      "filename": "water stream-cliff wall.png",
+      "lowerTerrain": "water stream",
+      "upperTerrain": "cliff wall",
+      "lowerTerrainId": 3,
+      "upperTerrainId": 7,
+      "transitionSize": 0,
+      "transitionDescription": "",
+      "tileSize": 32,
+      "gridLayout": "4x4",
+      "wangIndexMapping": "standard"
+    },
+    {
+      "id": "a058d350-69d0-41e1-99cd-93ceb3e12012",
+      "filename": "water stream-grass sparse.png",
+      "lowerTerrain": "water stream",
+      "upperTerrain": "grass sparse",
+      "lowerTerrainId": 3,
+      "upperTerrainId": 2,
+      "transitionSize": 0.5,
+      "transitionDescription": "rough stones",
+      "tileSize": 32,
+      "gridLayout": "4x4",
+      "wangIndexMapping": "standard"
+    },
+    {
+      "id": "be06e2ce-4840-405f-8a1c-a18a9450b9d3",
+      "filename": "water stream-dirt path.png",
+      "lowerTerrain": "water stream",
+      "upperTerrain": "dirt path",
+      "lowerTerrainId": 3,
+      "upperTerrainId": 1,
+      "transitionSize": 0,
+      "transitionDescription": "",
+      "tileSize": 32,
+      "gridLayout": "4x4",
+      "wangIndexMapping": "standard"
+    },
+    {
+      "id": "cfbc2506-1ffb-4959-a24d-87179cc6c3ce",
+      "filename": "grass sparse-dirt ground.png",
+      "lowerTerrain": "grass sparse",
+      "upperTerrain": "dirt ground",
+      "lowerTerrainId": 2,
+      "upperTerrainId": 5,
+      "transitionSize": 0,
+      "transitionDescription": "",
+      "tileSize": 32,
+      "gridLayout": "4x4",
+      "wangIndexMapping": "standard"
+    }
+  ],
+  "overlays": [
+    {
+      "id": 0,
+      "filename": "overlay-0.png",
+      "type": "inpainting",
+      "dimensions": {
+        "width": 1472,
+        "height": 1056
+      },
+      "worldCoordinates": {
+        "x": 288,
+        "y": 64
+      },
+      "layer": "custom"
+    }
+  ]
+}

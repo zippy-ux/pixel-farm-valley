@@ -1,0 +1,128 @@
+/* Level-up overlay — same base as arena result */
+.level-up-overlay {
+  align-items: center;
+  justify-content: center;
+}
+
+.level-up-window {
+  text-align: center;
+  font-family: "Press Start 2P", monospace;
+}
+
+.level-up-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-right: 8px;
+}
+
+.level-up-title {
+  margin: 0;
+  font-size: 12px;
+  color: #fbbf24;
+}
+
+.level-up-close {
+  width: 28px;
+  height: 28px;
+  padding: 0;
+  border: 2px solid #fbbf24;
+  background: #2d2d2d;
+  color: #e0e0e0;
+  cursor: pointer;
+  font-size: 18px;
+  line-height: 1;
+  font-family: inherit;
+}
+
+.level-up-close:hover {
+  background: #3d3d3d;
+  color: #fff;
+}
+
+.level-up-sub {
+  font-size: 10px;
+  color: #fbbf24;
+  margin: 8px 0 12px;
+}
+
+.level-up-avatar-row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+.level-up-avatar {
+  width: 52px;
+  height: 52px;
+  border-radius: 50%;
+  border: 2px solid #fbbf24;
+  object-fit: cover;
+}
+
+.level-up-name {
+  font-size: 10px;
+  color: #e0e0e0;
+}
+
+.level-up-stats {
+  font-size: 8px;
+  color: #e0e0e0;
+  margin-bottom: 12px;
+}
+
+.level-up-stats .sep {
+  color: #e0e0e0;
+  margin: 0 6px;
+}
+
+.level-up-referral {
+  text-align: left;
+  margin-top: 12px;
+}
+
+.level-up-referral-label {
+  display: block;
+  font-size: 8px;
+  color: #e0e0e0;
+  margin-bottom: 4px;
+}
+
+.level-up-referral-row {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 8px;
+}
+
+.level-up-referral-input {
+  flex: 1;
+  font-family: inherit;
+  font-size: 8px;
+  padding: 6px 8px;
+  background: #1a1a1a;
+  border: 1px solid #444;
+  color: #e0e0e0;
+}
+
+.level-up-btn-copy,
+.level-up-btn-twitter {
+  font-family: inherit;
+  font-size: 8px;
+  padding: 6px 10px;
+  border: 2px solid #fbbf24;
+  background: #252525;
+  color: #fbbf24;
+  cursor: pointer;
+}
+
+.level-up-btn-copy:hover,
+.level-up-btn-twitter:hover {
+  background: #333;
+  color: #e0e0e0;
+}
+
+.level-up-btn-twitter {
+  width: 100%;
+}

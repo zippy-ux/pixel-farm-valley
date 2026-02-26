@@ -1,0 +1,2229 @@
+{
+  "version": "1.0.0",
+  "totalObjects": 117,
+  "objects": [
+    {
+      "id": "4f2f72ef-918e-4168-b166-794eb168fc3d",
+      "name": "Object 0",
+      "filename": "4f2f72ef-918e-4168-b166-794eb168fc3d.png",
+      "boundingBox": {
+        "x": 520.5,
+        "y": 478,
+        "width": 177,
+        "height": 126
+      },
+      "layer": 2,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl8.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T14:08:08.746Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "47fd4ea0-d72f-492d-89ff-ae0e74adf6a7",
+      "name": "Object 0 (Copy)",
+      "filename": "47fd4ea0-d72f-492d-89ff-ae0e74adf6a7.png",
+      "boundingBox": {
+        "x": 799.5,
+        "y": 476,
+        "width": 177,
+        "height": 126
+      },
+      "layer": 2,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl8.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T14:08:26.345Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "abf18fbc-a154-4175-8f1d-2db5d03058e5",
+      "name": "Object 0",
+      "filename": "abf18fbc-a154-4175-8f1d-2db5d03058e5.png",
+      "boundingBox": {
+        "x": 272.5,
+        "y": 479,
+        "width": 167,
+        "height": 126
+      },
+      "layer": 8,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl8\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T14:10:43.645Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "7c84f7f2-40b5-4673-b612-2cd7a11ea2dc",
+      "name": "Object 0",
+      "filename": "7c84f7f2-40b5-4673-b612-2cd7a11ea2dc.png",
+      "boundingBox": {
+        "x": 354,
+        "y": 176.5,
+        "width": 126,
+        "height": 174
+      },
+      "layer": 7,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl8\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f 2.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T14:11:37.792Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "b782ec20-035c-4a09-a3d3-b9d6869b62b8",
+      "name": "Object 0",
+      "filename": "b782ec20-035c-4a09-a3d3-b9d6869b62b8.png",
+      "boundingBox": {
+        "x": 614,
+        "y": 256,
+        "width": 146,
+        "height": 126
+      },
+      "layer": 7,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl8\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f 3.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T14:12:37.688Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "26fc80b2-98c7-4964-a207-d66685ceadaa",
+      "name": "Object 0 (Copy)",
+      "filename": "26fc80b2-98c7-4964-a207-d66685ceadaa.png",
+      "boundingBox": {
+        "x": 486.5,
+        "y": 451,
+        "width": 177,
+        "height": 126
+      },
+      "layer": 2,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl8.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T14:12:47.289Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "f4731bae-ba9a-4155-8fe9-34bd9e731174",
+      "name": "Object 0",
+      "filename": "f4731bae-ba9a-4155-8fe9-34bd9e731174.png",
+      "boundingBox": {
+        "x": 862,
+        "y": 420.5,
+        "width": 126,
+        "height": 174
+      },
+      "layer": 9,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl8\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f 2.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T14:13:12.576Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "876f5528-eeee-49ab-9aec-343e309336dc",
+      "name": "Object 0",
+      "filename": "876f5528-eeee-49ab-9aec-343e309336dc.png",
+      "boundingBox": {
+        "x": 260,
+        "y": 173,
+        "width": 26,
+        "height": 124
+      },
+      "layer": 15,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl8\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f 3.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T14:14:58.287Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "9918436a-8a47-423a-bcf4-72bf314621cf",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy)",
+      "filename": "9918436a-8a47-423a-bcf4-72bf314621cf.png",
+      "boundingBox": {
+        "x": 803,
+        "y": 330,
+        "width": 26,
+        "height": 124
+      },
+      "layer": 15,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl8\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f 3.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T14:15:15.854Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "4faa7bc7-4bad-4c9d-a1a6-280c6b10570c",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "4faa7bc7-4bad-4c9d-a1a6-280c6b10570c.png",
+      "boundingBox": {
+        "x": 737,
+        "y": 478,
+        "width": 26,
+        "height": 124
+      },
+      "layer": 15,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl8\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f 3.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T14:15:21.396Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "f8567642-8261-43f3-9993-49fb6b638eb9",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "f8567642-8261-43f3-9993-49fb6b638eb9.png",
+      "boundingBox": {
+        "x": 740,
+        "y": 167,
+        "width": 26,
+        "height": 124
+      },
+      "layer": 15,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl8\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f 3.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T14:15:25.367Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "2b84f136-a1a3-4e20-ad15-6f322fa29945",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "2b84f136-a1a3-4e20-ad15-6f322fa29945.png",
+      "boundingBox": {
+        "x": 517,
+        "y": 169,
+        "width": 26,
+        "height": 124
+      },
+      "layer": 15,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl8\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f 3.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T14:15:36.614Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "b78c6f6d-e9f5-4a8a-b9f9-891e88faec9d",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "b78c6f6d-e9f5-4a8a-b9f9-891e88faec9d.png",
+      "boundingBox": {
+        "x": 546,
+        "y": 186,
+        "width": 26,
+        "height": 124
+      },
+      "layer": 15,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl8\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f 3.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T14:15:41.012Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "92be2057-f888-4d59-8156-54588f55424a",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "92be2057-f888-4d59-8156-54588f55424a.png",
+      "boundingBox": {
+        "x": 517,
+        "y": 303,
+        "width": 26,
+        "height": 124
+      },
+      "layer": 15,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl8\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f 3.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T14:15:44.154Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "0ff3a3ac-53b2-4af3-8090-8eced2464d04",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "0ff3a3ac-53b2-4af3-8090-8eced2464d04.png",
+      "boundingBox": {
+        "x": 543,
+        "y": 323,
+        "width": 26,
+        "height": 124
+      },
+      "layer": 15,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl8\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f 3.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T14:15:50.612Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "a5c0f6aa-edbd-4273-944f-d985f11bdec3",
+      "name": "Object 0",
+      "filename": "a5c0f6aa-edbd-4273-944f-d985f11bdec3.png",
+      "boundingBox": {
+        "x": 821.5,
+        "y": 327,
+        "width": 175,
+        "height": 44
+      },
+      "layer": 27,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl8\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f 4.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T14:16:10.812Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "d5deaa44-8689-463d-8c77-7b11edf83936",
+      "name": "Object 0 (Copy)",
+      "filename": "d5deaa44-8689-463d-8c77-7b11edf83936.png",
+      "boundingBox": {
+        "x": 708.5,
+        "y": 325,
+        "width": 175,
+        "height": 44
+      },
+      "layer": 27,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl8\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f 4.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T14:16:13.524Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "353dc3bf-b54f-4d80-ab0a-0588eab9dbe5",
+      "name": "Object 0 (Copy) (Copy)",
+      "filename": "353dc3bf-b54f-4d80-ab0a-0588eab9dbe5.png",
+      "boundingBox": {
+        "x": 262.5,
+        "y": 167,
+        "width": 175,
+        "height": 44
+      },
+      "layer": 27,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl8\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f 4.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T14:16:25.014Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "d9e3cb4b-7875-4e34-b3c0-5f51ab477329",
+      "name": "Object 0 (Copy) (Copy) (Copy)",
+      "filename": "d9e3cb4b-7875-4e34-b3c0-5f51ab477329.png",
+      "boundingBox": {
+        "x": 625.5,
+        "y": 169,
+        "width": 175,
+        "height": 44
+      },
+      "layer": 27,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl8\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f 4.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T14:16:37.833Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "06d51c9a-e56a-4f7d-90ef-de1b7ba714a9",
+      "name": "Object 0 (Copy)",
+      "filename": "06d51c9a-e56a-4f7d-90ef-de1b7ba714a9.png",
+      "boundingBox": {
+        "x": 447,
+        "y": 185,
+        "width": 26,
+        "height": 124
+      },
+      "layer": 15,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl8\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f 3.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T14:17:37.503Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "6f4e161d-bd10-4d68-8fde-8be4e6c30d9d",
+      "name": "Object 0 (Copy) (Copy)",
+      "filename": "6f4e161d-bd10-4d68-8fde-8be4e6c30d9d.png",
+      "boundingBox": {
+        "x": 376,
+        "y": 205,
+        "width": 26,
+        "height": 124
+      },
+      "layer": 15,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl8\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f 3.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T14:17:42.116Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "baa687c5-7e55-4f1e-b380-a84cde67b1ad",
+      "name": "Object 0",
+      "filename": "baa687c5-7e55-4f1e-b380-a84cde67b1ad.png",
+      "boundingBox": {
+        "x": 240,
+        "y": 110.5,
+        "width": 200,
+        "height": 39
+      },
+      "layer": 33,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: mafficko_a_pixel_art_asset_sheet_for_an_underground_mine_map__c914187e-c689-4266-8f11-197e10caf2d2_1\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T15:25:16.774Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "c6aab984-edba-44ec-951d-886f904f8fbb",
+      "name": "Object 0 (Copy)",
+      "filename": "c6aab984-edba-44ec-951d-886f904f8fbb.png",
+      "boundingBox": {
+        "x": 438,
+        "y": 110.5,
+        "width": 200,
+        "height": 39
+      },
+      "layer": 33,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: mafficko_a_pixel_art_asset_sheet_for_an_underground_mine_map__c914187e-c689-4266-8f11-197e10caf2d2_1\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T15:25:27.197Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "d65bf42a-519c-453f-8673-ab7daec7e66a",
+      "name": "Object 0 (Copy) (Copy)",
+      "filename": "d65bf42a-519c-453f-8673-ab7daec7e66a.png",
+      "boundingBox": {
+        "x": 631,
+        "y": 110.5,
+        "width": 200,
+        "height": 39
+      },
+      "layer": 33,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: mafficko_a_pixel_art_asset_sheet_for_an_underground_mine_map__c914187e-c689-4266-8f11-197e10caf2d2_1\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T15:25:31.480Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "4be17ea9-befb-46f6-bfa1-831dbeacf050",
+      "name": "Object 0 (Copy) (Copy) (Copy)",
+      "filename": "4be17ea9-befb-46f6-bfa1-831dbeacf050.png",
+      "boundingBox": {
+        "x": 808.5,
+        "y": 110,
+        "width": 200,
+        "height": 39
+      },
+      "layer": 33,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: mafficko_a_pixel_art_asset_sheet_for_an_underground_mine_map__c914187e-c689-4266-8f11-197e10caf2d2_1\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T15:25:38.095Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "7b7577f0-a6b2-4c39-8a40-2c6fb2eac17d",
+      "name": "Object 0 (Copy)",
+      "filename": "7b7577f0-a6b2-4c39-8a40-2c6fb2eac17d.png",
+      "boundingBox": {
+        "x": 808.5,
+        "y": 233.5,
+        "width": 175,
+        "height": 44
+      },
+      "layer": 27,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl8\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f 4.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T15:26:13.993Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "57d4e78e-0c57-4e5a-8a09-cd4e1cd9b3f2",
+      "name": "Object 0 (Copy) (Copy)",
+      "filename": "57d4e78e-0c57-4e5a-8a09-cd4e1cd9b3f2.png",
+      "boundingBox": {
+        "x": 807,
+        "y": 165,
+        "width": 175,
+        "height": 44
+      },
+      "layer": 27,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl8\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f 4.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T15:26:14.613Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "3334809f-a35c-4cfc-874d-6976aa5b5f6f",
+      "name": "Object 0",
+      "filename": "3334809f-a35c-4cfc-874d-6976aa5b5f6f.png",
+      "boundingBox": {
+        "x": 807.5,
+        "y": 617.5,
+        "width": 200,
+        "height": 38
+      },
+      "layer": 26,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: mafficko_a_pixel_art_asset_sheet_for_an_underground_mine_map__c914187e-c689-4266-8f11-197e10caf2d2_1\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f (1).png",
+      "metadata": {
+        "generatedAt": "2026-02-04T15:31:27.482Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "0aa8ef1d-697c-4484-b16c-5bbc8b0b8da1",
+      "name": "Object 0 (Copy)",
+      "filename": "0aa8ef1d-697c-4484-b16c-5bbc8b0b8da1.png",
+      "boundingBox": {
+        "x": 612,
+        "y": 617.5,
+        "width": 200,
+        "height": 38
+      },
+      "layer": 42,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: mafficko_a_pixel_art_asset_sheet_for_an_underground_mine_map__c914187e-c689-4266-8f11-197e10caf2d2_1\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f (1).png",
+      "metadata": {
+        "generatedAt": "2026-02-04T15:32:07.417Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "24e520f5-fa83-4420-a4b2-2e1f2fa1acc0",
+      "name": "Object 0 (Copy) (Copy)",
+      "filename": "24e520f5-fa83-4420-a4b2-2e1f2fa1acc0.png",
+      "boundingBox": {
+        "x": 416,
+        "y": 618,
+        "width": 200,
+        "height": 38
+      },
+      "layer": 42,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: mafficko_a_pixel_art_asset_sheet_for_an_underground_mine_map__c914187e-c689-4266-8f11-197e10caf2d2_1\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f (1).png",
+      "metadata": {
+        "generatedAt": "2026-02-04T15:32:15.871Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "297fb0f1-eff7-4ecd-8e6d-977be0491441",
+      "name": "Object 0 (Copy) (Copy) (Copy)",
+      "filename": "297fb0f1-eff7-4ecd-8e6d-977be0491441.png",
+      "boundingBox": {
+        "x": 240,
+        "y": 618,
+        "width": 200,
+        "height": 38
+      },
+      "layer": 42,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: mafficko_a_pixel_art_asset_sheet_for_an_underground_mine_map__c914187e-c689-4266-8f11-197e10caf2d2_1\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f (1).png",
+      "metadata": {
+        "generatedAt": "2026-02-04T15:32:23.646Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "82f03246-796e-4e75-8fd6-2cbfa03624be",
+      "name": "Object 0",
+      "filename": "82f03246-796e-4e75-8fd6-2cbfa03624be.png",
+      "boundingBox": {
+        "x": 639,
+        "y": 391.5,
+        "width": 55,
+        "height": 33
+      },
+      "layer": 42,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: pixellab-a-pixel-art-asset-sheet-for-an-1770218372132\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T15:46:14.148Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "fb5055a0-ce59-425f-8940-4ec4bc26dc35",
+      "name": "Object 0",
+      "filename": "fb5055a0-ce59-425f-8940-4ec4bc26dc35.png",
+      "boundingBox": {
+        "x": 887.5,
+        "y": 376,
+        "width": 48,
+        "height": 31
+      },
+      "layer": 43,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: pixellab-a-pixel-art-asset-sheet-for-an-1770218372132 (1)\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f 4.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T15:48:45.159Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "ce573b84-89a7-4a7e-a479-e48690437ddb",
+      "name": "Object 0",
+      "filename": "ce573b84-89a7-4a7e-a479-e48690437ddb.png",
+      "boundingBox": {
+        "x": 412,
+        "y": 435,
+        "width": 32,
+        "height": 22
+      },
+      "layer": 44,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: pixellab-a-pixel-art-asset-sheet-for-an-1770218372132 (1)\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f 3.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T15:48:48.444Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "6ebbd137-9f12-4813-9d97-7905f58434be",
+      "name": "Object 0",
+      "filename": "6ebbd137-9f12-4813-9d97-7905f58434be.png",
+      "boundingBox": {
+        "x": 420,
+        "y": 420.5,
+        "width": 18,
+        "height": 21
+      },
+      "layer": 45,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: pixellab-a-pixel-art-asset-sheet-for-an-1770218372132 (1)\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f 2.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T15:48:51.856Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "ab2c1751-7d08-4529-802e-613e4a949666",
+      "name": "Object 0",
+      "filename": "ab2c1751-7d08-4529-802e-613e4a949666.png",
+      "boundingBox": {
+        "x": 582.5,
+        "y": 195.5,
+        "width": 18,
+        "height": 20
+      },
+      "layer": 46,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: pixellab-a-pixel-art-asset-sheet-for-an-1770218372132 (1)\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T15:48:56.609Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "7396eb7c-634b-4208-a0e0-eaa825a234e9",
+      "name": "Object 0",
+      "filename": "7396eb7c-634b-4208-a0e0-eaa825a234e9.png",
+      "boundingBox": {
+        "x": 1049,
+        "y": 466.5,
+        "width": 32,
+        "height": 42
+      },
+      "layer": 47,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: pixellab-a-pixel-art-asset-sheet-for-an-1770218372132\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f 4.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T15:49:03.196Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "091c194f-fd4f-4e00-b9d9-5e5bab22ee82",
+      "name": "Object 0",
+      "filename": "091c194f-fd4f-4e00-b9d9-5e5bab22ee82.png",
+      "boundingBox": {
+        "x": 841.5,
+        "y": 281.5,
+        "width": 35,
+        "height": 32
+      },
+      "layer": 50,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: pixellab-a-pixel-art-asset-sheet-for-an-1770218372132.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T15:49:16.626Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "dd7722f9-ce47-411a-bc39-85ff08f17363",
+      "name": "Object 0 (Copy)",
+      "filename": "dd7722f9-ce47-411a-bc39-85ff08f17363.png",
+      "boundingBox": {
+        "x": 487.5,
+        "y": 195.5,
+        "width": 18,
+        "height": 20
+      },
+      "layer": 46,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: pixellab-a-pixel-art-asset-sheet-for-an-1770218372132 (1)\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T15:50:49.046Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "2aaaa849-1f02-4923-b0bd-1cf2989057ac",
+      "name": "Object 0 (Copy)",
+      "filename": "2aaaa849-1f02-4923-b0bd-1cf2989057ac.png",
+      "boundingBox": {
+        "x": 965.5,
+        "y": 287.5,
+        "width": 18,
+        "height": 20
+      },
+      "layer": 46,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: pixellab-a-pixel-art-asset-sheet-for-an-1770218372132 (1)\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T15:50:57.252Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "c56bd389-f691-486e-8445-e1ade873f472",
+      "name": "Object 0 (Copy) (Copy)",
+      "filename": "c56bd389-f691-486e-8445-e1ade873f472.png",
+      "boundingBox": {
+        "x": 966.5,
+        "y": 385.5,
+        "width": 18,
+        "height": 20
+      },
+      "layer": 46,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: pixellab-a-pixel-art-asset-sheet-for-an-1770218372132 (1)\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T15:51:02.597Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "fa6be875-b38a-4b66-a512-4f643b961f3c",
+      "name": "Object 0 (Copy) (Copy) (Copy)",
+      "filename": "fa6be875-b38a-4b66-a512-4f643b961f3c.png",
+      "boundingBox": {
+        "x": 837.5,
+        "y": 484.5,
+        "width": 18,
+        "height": 20
+      },
+      "layer": 46,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: pixellab-a-pixel-art-asset-sheet-for-an-1770218372132 (1)\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T15:51:14.110Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "92d23e20-c8d8-428f-8449-e600a73b8171",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy)",
+      "filename": "92d23e20-c8d8-428f-8449-e600a73b8171.png",
+      "boundingBox": {
+        "x": 775.5,
+        "y": 385.5,
+        "width": 18,
+        "height": 20
+      },
+      "layer": 46,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: pixellab-a-pixel-art-asset-sheet-for-an-1770218372132 (1)\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T15:51:17.110Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "755a4cb7-7f51-4736-b0aa-bc7f7a47cfcd",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "755a4cb7-7f51-4736-b0aa-bc7f7a47cfcd.png",
+      "boundingBox": {
+        "x": 710.5,
+        "y": 510.5,
+        "width": 18,
+        "height": 20
+      },
+      "layer": 46,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: pixellab-a-pixel-art-asset-sheet-for-an-1770218372132 (1)\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T15:51:20.516Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "f9ef7c6e-4d44-464c-be6b-0f9686bf339c",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "f9ef7c6e-4d44-464c-be6b-0f9686bf339c.png",
+      "boundingBox": {
+        "x": 453.5,
+        "y": 541.5,
+        "width": 18,
+        "height": 20
+      },
+      "layer": 46,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: pixellab-a-pixel-art-asset-sheet-for-an-1770218372132 (1)\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T15:51:24.574Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "e220e8c0-cf3c-41fa-9d91-a9fb51c9ef81",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "e220e8c0-cf3c-41fa-9d91-a9fb51c9ef81.png",
+      "boundingBox": {
+        "x": 287.5,
+        "y": 541.5,
+        "width": 18,
+        "height": 20
+      },
+      "layer": 46,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: pixellab-a-pixel-art-asset-sheet-for-an-1770218372132 (1)\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T15:51:28.122Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "7cb4025f-879c-4ea0-a53c-5edb16ab70e6",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "7cb4025f-879c-4ea0-a53c-5edb16ab70e6.png",
+      "boundingBox": {
+        "x": 330.5,
+        "y": 349.5,
+        "width": 18,
+        "height": 20
+      },
+      "layer": 46,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: pixellab-a-pixel-art-asset-sheet-for-an-1770218372132 (1)\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T15:51:54.927Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "db4aa86c-5a52-4634-9ac9-3788700af879",
+      "name": "Object 0 (Copy)",
+      "filename": "db4aa86c-5a52-4634-9ac9-3788700af879.png",
+      "boundingBox": {
+        "x": 634.5,
+        "y": 218,
+        "width": 48,
+        "height": 31
+      },
+      "layer": 43,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: pixellab-a-pixel-art-asset-sheet-for-an-1770218372132 (1)\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f 4.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T15:52:03.390Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "585d23ef-46bf-44eb-a4e6-a0a3b1930d9f",
+      "name": "Object 0 (Copy)",
+      "filename": "585d23ef-46bf-44eb-a4e6-a0a3b1930d9f.png",
+      "boundingBox": {
+        "x": 305.5,
+        "y": 265.5,
+        "width": 35,
+        "height": 32
+      },
+      "layer": 50,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: pixellab-a-pixel-art-asset-sheet-for-an-1770218372132.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T15:52:08.331Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "b17adef1-d5c9-44b5-b121-fc75559acb1a",
+      "name": "Object 0 (Copy) (Copy)",
+      "filename": "b17adef1-d5c9-44b5-b121-fc75559acb1a.png",
+      "boundingBox": {
+        "x": 483.5,
+        "y": 317.5,
+        "width": 18,
+        "height": 20
+      },
+      "layer": 46,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: pixellab-a-pixel-art-asset-sheet-for-an-1770218372132 (1)\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T15:52:35.948Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "c2e7914c-0ec8-4610-9d3d-9f16bb0a7c54",
+      "name": "Object 0 (Copy) (Copy) (Copy)",
+      "filename": "c2e7914c-0ec8-4610-9d3d-9f16bb0a7c54.png",
+      "boundingBox": {
+        "x": 774.5,
+        "y": 227.5,
+        "width": 18,
+        "height": 20
+      },
+      "layer": 46,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: pixellab-a-pixel-art-asset-sheet-for-an-1770218372132 (1)\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T15:52:41.489Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "517fd3b1-e4dc-4f94-b90b-3e7deadc9219",
+      "name": "Object 0 (Copy)",
+      "filename": "517fd3b1-e4dc-4f94-b90b-3e7deadc9219.png",
+      "boundingBox": {
+        "x": 768,
+        "y": 522.5,
+        "width": 32,
+        "height": 42
+      },
+      "layer": 47,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: pixellab-a-pixel-art-asset-sheet-for-an-1770218372132\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f 4.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T15:53:06.742Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "b4f697c9-8eca-4e15-adf3-a1efbf3770b6",
+      "name": "Object 0 (Copy) (Copy)",
+      "filename": "b4f697c9-8eca-4e15-adf3-a1efbf3770b6.png",
+      "boundingBox": {
+        "x": 296.5,
+        "y": 473,
+        "width": 48,
+        "height": 31
+      },
+      "layer": 43,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: pixellab-a-pixel-art-asset-sheet-for-an-1770218372132 (1)\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f 4.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T15:53:29.099Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "35c9b6d8-0c48-4045-883b-bbed56f41b45",
+      "name": "Object 0 (Copy)",
+      "filename": "35c9b6d8-0c48-4045-883b-bbed56f41b45.png",
+      "boundingBox": {
+        "x": 620.5,
+        "y": 396.5,
+        "width": 35,
+        "height": 32
+      },
+      "layer": 50,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: pixellab-a-pixel-art-asset-sheet-for-an-1770218372132.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T15:54:21.827Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "dd202f8f-20ed-4fbf-a7f9-530c5c8fa7c7",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy)",
+      "filename": "dd202f8f-20ed-4fbf-a7f9-530c5c8fa7c7.png",
+      "boundingBox": {
+        "x": 760,
+        "y": 420,
+        "width": 26,
+        "height": 124
+      },
+      "layer": 15,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl8\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f 3.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T15:57:44.694Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "7be80815-e2c8-42b1-a6b0-a184a3d747c3",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy)",
+      "filename": "7be80815-e2c8-42b1-a6b0-a184a3d747c3.png",
+      "boundingBox": {
+        "x": 1122,
+        "y": 320,
+        "width": 26,
+        "height": 124
+      },
+      "layer": 15,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl8\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f 3.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T15:57:49.435Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "945c3437-c8f1-4846-9ef6-eabbd087608f",
+      "name": "Object 0",
+      "filename": "945c3437-c8f1-4846-9ef6-eabbd087608f.png",
+      "boundingBox": {
+        "x": 1034,
+        "y": 370.5,
+        "width": 48,
+        "height": 62
+      },
+      "layer": 67,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl8\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f 5.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T15:58:42.807Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "6c1b08d8-3aed-4871-97c4-dda5dcf31047",
+      "name": "Object 0 (Copy)",
+      "filename": "6c1b08d8-3aed-4871-97c4-dda5dcf31047.png",
+      "boundingBox": {
+        "x": 455,
+        "y": 351.5,
+        "width": 48,
+        "height": 62
+      },
+      "layer": 67,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl8\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f 5.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T15:58:49.181Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "c1c231c6-6aa4-4b12-ae51-8f2be124e606",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy)",
+      "filename": "c1c231c6-6aa4-4b12-ae51-8f2be124e606.png",
+      "boundingBox": {
+        "x": 112,
+        "y": 618,
+        "width": 200,
+        "height": 38
+      },
+      "layer": 42,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: mafficko_a_pixel_art_asset_sheet_for_an_underground_mine_map__c914187e-c689-4266-8f11-197e10caf2d2_1\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f (1).png",
+      "metadata": {
+        "generatedAt": "2026-02-04T15:59:19.111Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "6096e03c-0df3-4594-af25-4ac97449dadb",
+      "name": "Object 0 (Copy)",
+      "filename": "6096e03c-0df3-4594-af25-4ac97449dadb.png",
+      "boundingBox": {
+        "x": 969.5,
+        "y": 617.5,
+        "width": 200,
+        "height": 38
+      },
+      "layer": 26,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: mafficko_a_pixel_art_asset_sheet_for_an_underground_mine_map__c914187e-c689-4266-8f11-197e10caf2d2_1\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f (1).png",
+      "metadata": {
+        "generatedAt": "2026-02-04T15:59:29.499Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "a7da8198-ac99-4eb8-86a6-b8a4e68e4513",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy)",
+      "filename": "a7da8198-ac99-4eb8-86a6-b8a4e68e4513.png",
+      "boundingBox": {
+        "x": 968.5,
+        "y": 111,
+        "width": 200,
+        "height": 39
+      },
+      "layer": 33,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: mafficko_a_pixel_art_asset_sheet_for_an_underground_mine_map__c914187e-c689-4266-8f11-197e10caf2d2_1\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T15:59:41.196Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "4d375d5b-2069-4ec0-b1aa-cfb0d0f47a13",
+      "name": "Object 0 (Copy)",
+      "filename": "4d375d5b-2069-4ec0-b1aa-cfb0d0f47a13.png",
+      "boundingBox": {
+        "x": 113,
+        "y": 110.5,
+        "width": 200,
+        "height": 39
+      },
+      "layer": 33,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: mafficko_a_pixel_art_asset_sheet_for_an_underground_mine_map__c914187e-c689-4266-8f11-197e10caf2d2_1\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T15:59:52.123Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "3c5c2c95-355a-4e5b-9924-213f44b3c1a7",
+      "name": "Object 0 (Copy) (Copy) (Copy)",
+      "filename": "3c5c2c95-355a-4e5b-9924-213f44b3c1a7.png",
+      "boundingBox": {
+        "x": 120.5,
+        "y": 453,
+        "width": 48,
+        "height": 31
+      },
+      "layer": 43,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: pixellab-a-pixel-art-asset-sheet-for-an-1770218372132 (1)\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f 4.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T16:00:08.475Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "c7829e30-05ae-47a9-b2ec-d2f13dd58fe0",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy)",
+      "filename": "c7829e30-05ae-47a9-b2ec-d2f13dd58fe0.png",
+      "boundingBox": {
+        "x": 127.5,
+        "y": 479,
+        "width": 48,
+        "height": 31
+      },
+      "layer": 43,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: pixellab-a-pixel-art-asset-sheet-for-an-1770218372132 (1)\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f 4.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T16:00:12.886Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "601ed9ee-179c-4c7e-bedb-a3b6f0d735f3",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "601ed9ee-179c-4c7e-bedb-a3b6f0d735f3.png",
+      "boundingBox": {
+        "x": 161.5,
+        "y": 481,
+        "width": 48,
+        "height": 31
+      },
+      "layer": 43,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: pixellab-a-pixel-art-asset-sheet-for-an-1770218372132 (1)\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f 4.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T16:00:16.214Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "530086e3-5307-4bd8-848b-f3706afadce5",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "530086e3-5307-4bd8-848b-f3706afadce5.png",
+      "boundingBox": {
+        "x": 135.5,
+        "y": 516,
+        "width": 48,
+        "height": 31
+      },
+      "layer": 43,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: pixellab-a-pixel-art-asset-sheet-for-an-1770218372132 (1)\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f 4.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T16:00:19.293Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "6de05193-aadc-4584-bf75-95209f758fa5",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "6de05193-aadc-4584-bf75-95209f758fa5.png",
+      "boundingBox": {
+        "x": 162.5,
+        "y": 502,
+        "width": 48,
+        "height": 31
+      },
+      "layer": 43,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: pixellab-a-pixel-art-asset-sheet-for-an-1770218372132 (1)\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f 4.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T16:00:19.784Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "0b1a18bf-19d2-4f89-87ad-6a96641d2e80",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "0b1a18bf-19d2-4f89-87ad-6a96641d2e80.png",
+      "boundingBox": {
+        "x": 164.5,
+        "y": 531,
+        "width": 48,
+        "height": 31
+      },
+      "layer": 43,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: pixellab-a-pixel-art-asset-sheet-for-an-1770218372132 (1)\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f 4.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T16:00:20.109Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "32183853-d42d-4c62-9852-c3b946f82c2c",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "32183853-d42d-4c62-9852-c3b946f82c2c.png",
+      "boundingBox": {
+        "x": 191.5,
+        "y": 537,
+        "width": 48,
+        "height": 31
+      },
+      "layer": 43,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: pixellab-a-pixel-art-asset-sheet-for-an-1770218372132 (1)\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f 4.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T16:01:06.570Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "d5d34576-1a7b-4a67-a59c-dcdc7c5ffbe8",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "d5d34576-1a7b-4a67-a59c-dcdc7c5ffbe8.png",
+      "boundingBox": {
+        "x": 143.5,
+        "y": 549,
+        "width": 48,
+        "height": 31
+      },
+      "layer": 43,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: pixellab-a-pixel-art-asset-sheet-for-an-1770218372132 (1)\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f 4.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T16:01:14.839Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "75805b87-9f13-46e0-bf21-3fa206ab65df",
+      "name": "Object 0 (Copy)",
+      "filename": "75805b87-9f13-46e0-bf21-3fa206ab65df.png",
+      "boundingBox": {
+        "x": 207,
+        "y": 377,
+        "width": 32,
+        "height": 22
+      },
+      "layer": 44,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: pixellab-a-pixel-art-asset-sheet-for-an-1770218372132 (1)\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f 3.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T16:01:21.008Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "0c595de4-abce-4dbc-acfb-046d0421e02c",
+      "name": "Object 0 (Copy)",
+      "filename": "0c595de4-abce-4dbc-acfb-046d0421e02c.png",
+      "boundingBox": {
+        "x": 214,
+        "y": 364.5,
+        "width": 18,
+        "height": 21
+      },
+      "layer": 45,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: pixellab-a-pixel-art-asset-sheet-for-an-1770218372132 (1)\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f 2.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T16:01:26.303Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "a98041ff-8dcf-485d-a718-a74088884eeb",
+      "name": "Object 0 (Copy)",
+      "filename": "a98041ff-8dcf-485d-a718-a74088884eeb.png",
+      "boundingBox": {
+        "x": 188,
+        "y": 553.5,
+        "width": 32,
+        "height": 42
+      },
+      "layer": 47,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: pixellab-a-pixel-art-asset-sheet-for-an-1770218372132\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f 4.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T16:01:45.608Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "9ff535a2-48f3-4445-ad80-994913353618",
+      "name": "Object 0 (Copy) (Copy)",
+      "filename": "9ff535a2-48f3-4445-ad80-994913353618.png",
+      "boundingBox": {
+        "x": 1021.5,
+        "y": 486.5,
+        "width": 35,
+        "height": 32
+      },
+      "layer": 50,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: pixellab-a-pixel-art-asset-sheet-for-an-1770218372132.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T16:01:56.237Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "0244774c-99d8-4315-8f49-e39444f3eacc",
+      "name": "Object 0 (Copy) (Copy) (Copy)",
+      "filename": "0244774c-99d8-4315-8f49-e39444f3eacc.png",
+      "boundingBox": {
+        "x": 1048.5,
+        "y": 494.5,
+        "width": 35,
+        "height": 32
+      },
+      "layer": 50,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: pixellab-a-pixel-art-asset-sheet-for-an-1770218372132.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T16:02:04.651Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "e904cdc7-474e-4755-a927-d4a9f630a8db",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy)",
+      "filename": "e904cdc7-474e-4755-a927-d4a9f630a8db.png",
+      "boundingBox": {
+        "x": 1025.5,
+        "y": 510.5,
+        "width": 35,
+        "height": 32
+      },
+      "layer": 50,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: pixellab-a-pixel-art-asset-sheet-for-an-1770218372132.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T16:02:04.809Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "7c9fef8d-3406-47c3-a725-c45ecb971d8c",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "7c9fef8d-3406-47c3-a725-c45ecb971d8c.png",
+      "boundingBox": {
+        "x": 1058.5,
+        "y": 519.5,
+        "width": 35,
+        "height": 32
+      },
+      "layer": 50,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: pixellab-a-pixel-art-asset-sheet-for-an-1770218372132.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T16:02:04.983Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "a2703294-d7d4-4c85-9f2b-09dc246b9802",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "a2703294-d7d4-4c85-9f2b-09dc246b9802.png",
+      "boundingBox": {
+        "x": 1039.5,
+        "y": 535.5,
+        "width": 35,
+        "height": 32
+      },
+      "layer": 50,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: pixellab-a-pixel-art-asset-sheet-for-an-1770218372132.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T16:02:05.124Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "5600378f-a4e5-4a36-96b2-280576fa9911",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "5600378f-a4e5-4a36-96b2-280576fa9911.png",
+      "boundingBox": {
+        "x": 1070.5,
+        "y": 544.5,
+        "width": 35,
+        "height": 32
+      },
+      "layer": 50,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: pixellab-a-pixel-art-asset-sheet-for-an-1770218372132.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T16:02:11.378Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "723955f2-3a1d-4d93-9126-6c5ee48c6a8a",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "723955f2-3a1d-4d93-9126-6c5ee48c6a8a.png",
+      "boundingBox": {
+        "x": 1090.5,
+        "y": 534.5,
+        "width": 35,
+        "height": 32
+      },
+      "layer": 50,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: pixellab-a-pixel-art-asset-sheet-for-an-1770218372132.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T16:02:11.554Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "63b9822e-eeed-4518-ab20-e1233df0cde8",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "63b9822e-eeed-4518-ab20-e1233df0cde8.png",
+      "boundingBox": {
+        "x": 1106.5,
+        "y": 548.5,
+        "width": 35,
+        "height": 32
+      },
+      "layer": 50,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: pixellab-a-pixel-art-asset-sheet-for-an-1770218372132.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T16:02:11.694Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "c8bc9fd9-9338-48ff-9c17-bf5d4e4e6bb5",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "c8bc9fd9-9338-48ff-9c17-bf5d4e4e6bb5.png",
+      "boundingBox": {
+        "x": 1033.5,
+        "y": 555.5,
+        "width": 35,
+        "height": 32
+      },
+      "layer": 50,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: pixellab-a-pixel-art-asset-sheet-for-an-1770218372132.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T16:02:11.904Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "0da1ed31-58b3-4897-be20-51ed1d9793d7",
+      "name": "Object 0 (Copy)",
+      "filename": "0da1ed31-58b3-4897-be20-51ed1d9793d7.png",
+      "boundingBox": {
+        "x": 1085,
+        "y": 506.5,
+        "width": 55,
+        "height": 33
+      },
+      "layer": 42,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: pixellab-a-pixel-art-asset-sheet-for-an-1770218372132\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T16:02:21.821Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "a39a9158-a0a8-4ea0-9400-ab465c5e17b9",
+      "name": "Object 0 (Copy) (Copy)",
+      "filename": "a39a9158-a0a8-4ea0-9400-ab465c5e17b9.png",
+      "boundingBox": {
+        "x": 1095.5,
+        "y": 382.5,
+        "width": 18,
+        "height": 20
+      },
+      "layer": 46,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: pixellab-a-pixel-art-asset-sheet-for-an-1770218372132 (1)\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T16:02:32.875Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "3384338f-dfed-46d8-adbd-136b45961ce9",
+      "name": "Object 0 (Copy) (Copy) (Copy)",
+      "filename": "3384338f-dfed-46d8-adbd-136b45961ce9.png",
+      "boundingBox": {
+        "x": 1099.5,
+        "y": 450.5,
+        "width": 18,
+        "height": 20
+      },
+      "layer": 46,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: pixellab-a-pixel-art-asset-sheet-for-an-1770218372132 (1)\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T16:02:35.803Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "64c4c85f-f115-4309-baca-7262463cbce1",
+      "name": "Object 0 (Copy)",
+      "filename": "64c4c85f-f115-4309-baca-7262463cbce1.png",
+      "boundingBox": {
+        "x": 380,
+        "y": 347.5,
+        "width": 32,
+        "height": 42
+      },
+      "layer": 47,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: pixellab-a-pixel-art-asset-sheet-for-an-1770218372132\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f 4.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T16:02:50.668Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "a1723e25-c818-44fa-891f-278b8b69bbf1",
+      "name": "Object 0 (Copy)",
+      "filename": "a1723e25-c818-44fa-891f-278b8b69bbf1.png",
+      "boundingBox": {
+        "x": 993.5,
+        "y": 161,
+        "width": 177,
+        "height": 126
+      },
+      "layer": 2,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl8.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T16:06:01.335Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "474eb8b6-7da7-44a5-af3c-9be349f4498d",
+      "name": "Object 0 (Copy) (Copy)",
+      "filename": "474eb8b6-7da7-44a5-af3c-9be349f4498d.png",
+      "boundingBox": {
+        "x": 990.5,
+        "y": 271,
+        "width": 177,
+        "height": 126
+      },
+      "layer": 2,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl8.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T16:06:06.435Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "64c6cb7d-c1c4-4e39-93f9-4268f4069c27",
+      "name": "Object 0 (Copy) (Copy) (Copy)",
+      "filename": "64c6cb7d-c1c4-4e39-93f9-4268f4069c27.png",
+      "boundingBox": {
+        "x": 112.5,
+        "y": 153,
+        "width": 177,
+        "height": 126
+      },
+      "layer": 2,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl8.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T16:06:11.992Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "ff35a70a-b4c5-4804-a668-ee1917c45709",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy)",
+      "filename": "ff35a70a-b4c5-4804-a668-ee1917c45709.png",
+      "boundingBox": {
+        "x": 114.5,
+        "y": 264,
+        "width": 177,
+        "height": 126
+      },
+      "layer": 2,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl8.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T16:06:15.952Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "85318794-e530-43ac-a278-8589409cdeec",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "85318794-e530-43ac-a278-8589409cdeec.png",
+      "boundingBox": {
+        "x": 114.5,
+        "y": 490,
+        "width": 177,
+        "height": 126
+      },
+      "layer": 2,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl8.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T16:06:20.416Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "e11828d1-cd16-4392-aa8c-88997fc9899c",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "e11828d1-cd16-4392-aa8c-88997fc9899c.png",
+      "boundingBox": {
+        "x": 120.5,
+        "y": 349,
+        "width": 177,
+        "height": 126
+      },
+      "layer": 2,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl8.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T16:06:26.306Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "4eefafe4-269b-4ad4-8b9b-6d9c3550000c",
+      "name": "Object 0 (Copy) (Copy) (Copy)",
+      "filename": "4eefafe4-269b-4ad4-8b9b-6d9c3550000c.png",
+      "boundingBox": {
+        "x": 984.5,
+        "y": 480,
+        "width": 177,
+        "height": 126
+      },
+      "layer": 2,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl8.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T16:06:37.665Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "602d30e9-5cf0-4d6e-ba55-2d22f2c96b73",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "602d30e9-5cf0-4d6e-ba55-2d22f2c96b73.png",
+      "boundingBox": {
+        "x": 321.5,
+        "y": 375,
+        "width": 177,
+        "height": 126
+      },
+      "layer": 2,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl8.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T16:07:06.581Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "1763c165-aa75-4fb3-8366-10d1f4ca0041",
+      "name": "entrance",
+      "filename": "1763c165-aa75-4fb3-8366-10d1f4ca0041.png",
+      "boundingBox": {
+        "x": 1007.5,
+        "y": 98.5,
+        "width": 168,
+        "height": 128
+      },
+      "layer": 102,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: pixellab-pixel-art-cave-exit-for-an-und-1770221399274 (2).png",
+      "metadata": {
+        "generatedAt": "2026-02-04T16:26:36.824Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "823ea67e-d1c0-41fc-8fe8-efc3d70504c7",
+      "name": "Season3",
+      "filename": "823ea67e-d1c0-41fc-8fe8-efc3d70504c7.png",
+      "boundingBox": {
+        "x": 107.5,
+        "y": 169.5,
+        "width": 116,
+        "height": 143
+      },
+      "layer": 103,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: pixellab-pixel-art-cave-exit-for-an-und-1770222543080 (1).png",
+      "metadata": {
+        "generatedAt": "2026-02-04T16:32:28.082Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "18b8607f-a3a4-4b26-a900-30eba12a59ee",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "18b8607f-a3a4-4b26-a900-30eba12a59ee.png",
+      "boundingBox": {
+        "x": 192.5,
+        "y": 505,
+        "width": 48,
+        "height": 31
+      },
+      "layer": 43,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: pixellab-a-pixel-art-asset-sheet-for-an-1770218372132 (1)\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f 4.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T16:32:49.159Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "aeebd6ea-431a-4316-bafb-5856f6b85434",
+      "name": "Object 0 (Copy) (Copy)",
+      "filename": "aeebd6ea-431a-4316-bafb-5856f6b85434.png",
+      "boundingBox": {
+        "x": 124,
+        "y": 381,
+        "width": 32,
+        "height": 22
+      },
+      "layer": 44,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: pixellab-a-pixel-art-asset-sheet-for-an-1770218372132 (1)\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f 3.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T16:33:20.261Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "e9bdf537-1968-456d-9d55-301d71404070",
+      "name": "Object 0 (Copy) (Copy)",
+      "filename": "e9bdf537-1968-456d-9d55-301d71404070.png",
+      "boundingBox": {
+        "x": 131,
+        "y": 366.5,
+        "width": 18,
+        "height": 21
+      },
+      "layer": 45,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: pixellab-a-pixel-art-asset-sheet-for-an-1770218372132 (1)\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f 2.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T16:33:24.723Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "b60a07e0-de6a-420d-9507-0defb8f0e8d1",
+      "name": "Object 0",
+      "filename": "b60a07e0-de6a-420d-9507-0defb8f0e8d1.png",
+      "boundingBox": {
+        "x": 167.5,
+        "y": 261,
+        "width": 48,
+        "height": 31
+      },
+      "layer": 106,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: pixellab-a-pixel-art-asset-sheet-for-an-1770218372132 (1)\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f 4.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T16:36:47.003Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "3d56b4ad-987b-49d9-8c69-0ba554ee6417",
+      "name": "Object 0 (Copy)",
+      "filename": "3d56b4ad-987b-49d9-8c69-0ba554ee6417.png",
+      "boundingBox": {
+        "x": 179.5,
+        "y": 275,
+        "width": 48,
+        "height": 31
+      },
+      "layer": 106,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: pixellab-a-pixel-art-asset-sheet-for-an-1770218372132 (1)\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f 4.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T16:36:55.906Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "77e5510a-4916-4a04-9b6b-dd1c4acbb530",
+      "name": "Object 0 (Copy) (Copy)",
+      "filename": "77e5510a-4916-4a04-9b6b-dd1c4acbb530.png",
+      "boundingBox": {
+        "x": 151.5,
+        "y": 284,
+        "width": 48,
+        "height": 31
+      },
+      "layer": 106,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: pixellab-a-pixel-art-asset-sheet-for-an-1770218372132 (1)\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f 4.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T16:36:56.145Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "2fd3db79-0ab2-4743-ac29-114a4fc0f0a5",
+      "name": "Object 0 (Copy) (Copy) (Copy)",
+      "filename": "2fd3db79-0ab2-4743-ac29-114a4fc0f0a5.png",
+      "boundingBox": {
+        "x": 154.5,
+        "y": 300,
+        "width": 48,
+        "height": 31
+      },
+      "layer": 106,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: pixellab-a-pixel-art-asset-sheet-for-an-1770218372132 (1)\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f 4.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T16:36:56.334Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "d8caeafa-b30b-4828-a3a2-143e5b74fb3a",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy)",
+      "filename": "d8caeafa-b30b-4828-a3a2-143e5b74fb3a.png",
+      "boundingBox": {
+        "x": 147.5,
+        "y": 316,
+        "width": 48,
+        "height": 31
+      },
+      "layer": 106,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: pixellab-a-pixel-art-asset-sheet-for-an-1770218372132 (1)\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f 4.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T16:37:21.137Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "95296310-7f83-4c23-9915-5c520b436340",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy)",
+      "filename": "95296310-7f83-4c23-9915-5c520b436340.png",
+      "boundingBox": {
+        "x": 199.5,
+        "y": 220,
+        "width": 48,
+        "height": 31
+      },
+      "layer": 43,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: pixellab-a-pixel-art-asset-sheet-for-an-1770218372132 (1)\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f 4.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T16:37:38.843Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "f7206c15-d4bb-4685-ba82-2b44608462ce",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "f7206c15-d4bb-4685-ba82-2b44608462ce.png",
+      "boundingBox": {
+        "x": 203.5,
+        "y": 240,
+        "width": 48,
+        "height": 31
+      },
+      "layer": 43,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: pixellab-a-pixel-art-asset-sheet-for-an-1770218372132 (1)\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f 4.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T16:37:46.504Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "feebd5b0-2807-475f-bfc7-2c691ab23857",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "feebd5b0-2807-475f-bfc7-2c691ab23857.png",
+      "boundingBox": {
+        "x": 209.5,
+        "y": 256,
+        "width": 48,
+        "height": 31
+      },
+      "layer": 43,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: pixellab-a-pixel-art-asset-sheet-for-an-1770218372132 (1)\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f 4.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T16:37:47.207Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "11234887-d87d-4039-b4d2-425b2623885c",
+      "name": "Object 0 (Copy)",
+      "filename": "11234887-d87d-4039-b4d2-425b2623885c.png",
+      "boundingBox": {
+        "x": 111.5,
+        "y": 292,
+        "width": 48,
+        "height": 31
+      },
+      "layer": 106,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: pixellab-a-pixel-art-asset-sheet-for-an-1770218372132 (1)\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f 4.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T16:37:57.341Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "7c557d3f-c70a-4dac-8b1e-0bb191863966",
+      "name": "Object 0 (Copy) (Copy)",
+      "filename": "7c557d3f-c70a-4dac-8b1e-0bb191863966.png",
+      "boundingBox": {
+        "x": 123.5,
+        "y": 313,
+        "width": 48,
+        "height": 31
+      },
+      "layer": 106,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: pixellab-a-pixel-art-asset-sheet-for-an-1770218372132 (1)\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f 4.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T16:38:03.001Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "6d83f1dd-4cf8-431c-bcf1-fe402b28b0a2",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "6d83f1dd-4cf8-431c-bcf1-fe402b28b0a2.png",
+      "boundingBox": {
+        "x": 208.5,
+        "y": 268,
+        "width": 48,
+        "height": 31
+      },
+      "layer": 43,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: pixellab-a-pixel-art-asset-sheet-for-an-1770218372132 (1)\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f 4.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T16:38:12.842Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "b020315e-afc1-4525-9a0a-fb949feea0fd",
+      "name": "Object 0 (Copy) (Copy)",
+      "filename": "b020315e-afc1-4525-9a0a-fb949feea0fd.png",
+      "boundingBox": {
+        "x": 1116.5,
+        "y": 246.5,
+        "width": 35,
+        "height": 32
+      },
+      "layer": 50,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: pixellab-a-pixel-art-asset-sheet-for-an-1770218372132.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T16:38:35.838Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "8d22e928-5541-4ae1-82d7-574f8d3c04e2",
+      "name": "Object 0 (Copy) (Copy) (Copy)",
+      "filename": "8d22e928-5541-4ae1-82d7-574f8d3c04e2.png",
+      "boundingBox": {
+        "x": 1041.5,
+        "y": 319.5,
+        "width": 18,
+        "height": 20
+      },
+      "layer": 46,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: pixellab-a-pixel-art-asset-sheet-for-an-1770218372132 (1)\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T16:38:46.495Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "5f370c6f-b4ad-4fb5-a619-b6508f418591",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy)",
+      "filename": "5f370c6f-b4ad-4fb5-a619-b6508f418591.png",
+      "boundingBox": {
+        "x": 1034.5,
+        "y": 217.5,
+        "width": 18,
+        "height": 20
+      },
+      "layer": 46,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: pixellab-a-pixel-art-asset-sheet-for-an-1770218372132 (1)\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T16:38:50.196Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "5aac3f81-15e6-4cce-aa55-1554bfb39704",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "5aac3f81-15e6-4cce-aa55-1554bfb39704.png",
+      "boundingBox": {
+        "x": 1093.5,
+        "y": 242.5,
+        "width": 18,
+        "height": 20
+      },
+      "layer": 46,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: pixellab-a-pixel-art-asset-sheet-for-an-1770218372132 (1)\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T16:38:54.062Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "12c9ef2e-b9d8-40cf-bd73-2f99a43d15cf",
+      "name": "Object 0 (Copy) (Copy)",
+      "filename": "12c9ef2e-b9d8-40cf-bd73-2f99a43d15cf.png",
+      "boundingBox": {
+        "x": 991,
+        "y": 251.5,
+        "width": 32,
+        "height": 42
+      },
+      "layer": 47,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: pixellab-a-pixel-art-asset-sheet-for-an-1770218372132\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f 4.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T16:39:04.788Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "1f4793c7-737d-417b-bf0e-190e3182f205",
+      "name": "Object 0 (Copy) (Copy) (Copy)",
+      "filename": "1f4793c7-737d-417b-bf0e-190e3182f205.png",
+      "boundingBox": {
+        "x": 582.5,
+        "y": 348.5,
+        "width": 18,
+        "height": 20
+      },
+      "layer": 46,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: pixellab-a-pixel-art-asset-sheet-for-an-1770218372132 (1)\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T16:39:16.862Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "17e32f82-bc7f-4c5a-b6ba-e2df9978ede8",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "17e32f82-bc7f-4c5a-b6ba-e2df9978ede8.png",
+      "boundingBox": {
+        "x": 325.5,
+        "y": 221.5,
+        "width": 18,
+        "height": 20
+      },
+      "layer": 46,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: pixellab-a-pixel-art-asset-sheet-for-an-1770218372132 (1)\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f.png",
+      "metadata": {
+        "generatedAt": "2026-02-04T16:39:26.638Z"
+      },
+      "isProgress": false
+    }
+  ]
+}

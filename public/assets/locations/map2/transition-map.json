@@ -1,0 +1,5513 @@
+{
+  "format": "sparse",
+  "transitions": [
+    {
+      "x": 9,
+      "y": 5,
+      "edges": {
+        "south": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 10,
+      "y": 5,
+      "edges": {
+        "south": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 11,
+      "y": 5,
+      "edges": {
+        "south": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 12,
+      "y": 5,
+      "edges": {
+        "south": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 13,
+      "y": 5,
+      "edges": {
+        "south": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 14,
+      "y": 5,
+      "edges": {
+        "south": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 15,
+      "y": 5,
+      "edges": {
+        "south": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 16,
+      "y": 5,
+      "edges": {
+        "south": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 17,
+      "y": 5,
+      "edges": {
+        "south": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 18,
+      "y": 5,
+      "edges": {
+        "south": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 19,
+      "y": 5,
+      "edges": {
+        "south": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 20,
+      "y": 5,
+      "edges": {
+        "south": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 21,
+      "y": 5,
+      "edges": {
+        "south": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 22,
+      "y": 5,
+      "edges": {
+        "south": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 23,
+      "y": 5,
+      "edges": {
+        "south": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 24,
+      "y": 5,
+      "edges": {
+        "south": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 25,
+      "y": 5,
+      "edges": {
+        "south": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 26,
+      "y": 5,
+      "edges": {
+        "south": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 27,
+      "y": 5,
+      "edges": {
+        "south": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 28,
+      "y": 5,
+      "edges": {
+        "south": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 29,
+      "y": 5,
+      "edges": {
+        "south": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 30,
+      "y": 5,
+      "edges": {
+        "south": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 31,
+      "y": 5,
+      "edges": {
+        "south": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 8,
+      "y": 6,
+      "edges": {
+        "east": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 9,
+      "y": 6,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 10,
+      "y": 6,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 11,
+      "y": 6,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 12,
+      "y": 6,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 13,
+      "y": 6,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 14,
+      "y": 6,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 15,
+      "y": 6,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 16,
+      "y": 6,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 17,
+      "y": 6,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 18,
+      "y": 6,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 19,
+      "y": 6,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 20,
+      "y": 6,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 21,
+      "y": 6,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 22,
+      "y": 6,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 23,
+      "y": 6,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 24,
+      "y": 6,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 25,
+      "y": 6,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 26,
+      "y": 6,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 27,
+      "y": 6,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 28,
+      "y": 6,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 29,
+      "y": 6,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 30,
+      "y": 6,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 31,
+      "y": 6,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "east": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 32,
+      "y": 6,
+      "edges": {
+        "west": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 35,
+      "y": 6,
+      "edges": {
+        "south": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 8,
+      "y": 7,
+      "edges": {
+        "east": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 9,
+      "y": 7,
+      "edges": {
+        "west": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 11,
+      "y": 7,
+      "edges": {
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 15,
+      "y": 7,
+      "edges": {
+        "east": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 16,
+      "y": 7,
+      "edges": {
+        "north": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "east": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 17,
+      "y": 7,
+      "edges": {
+        "west": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 18,
+      "y": 7,
+      "edges": {
+        "east": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 19,
+      "y": 7,
+      "edges": {
+        "north": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "east": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 20,
+      "y": 7,
+      "edges": {
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 21,
+      "y": 7,
+      "edges": {
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 22,
+      "y": 7,
+      "edges": {
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 23,
+      "y": 7,
+      "edges": {
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 25,
+      "y": 7,
+      "edges": {
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 31,
+      "y": 7,
+      "edges": {
+        "east": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 32,
+      "y": 7,
+      "edges": {
+        "west": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 34,
+      "y": 7,
+      "edges": {
+        "east": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "south": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 35,
+      "y": 7,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "east": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 36,
+      "y": 7,
+      "edges": {
+        "west": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 8,
+      "y": 8,
+      "edges": {
+        "east": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 9,
+      "y": 8,
+      "edges": {
+        "west": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 10,
+      "y": 8,
+      "edges": {
+        "east": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 11,
+      "y": 8,
+      "edges": {
+        "north": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "east": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 12,
+      "y": 8,
+      "edges": {
+        "west": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 15,
+      "y": 8,
+      "edges": {
+        "east": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 16,
+      "y": 8,
+      "edges": {
+        "east": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 17,
+      "y": 8,
+      "edges": {
+        "west": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 18,
+      "y": 8,
+      "edges": {
+        "east": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 19,
+      "y": 8,
+      "edges": {
+        "west": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 20,
+      "y": 8,
+      "edges": {
+        "north": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "south": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 21,
+      "y": 8,
+      "edges": {
+        "north": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "south": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 22,
+      "y": 8,
+      "edges": {
+        "north": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "south": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 23,
+      "y": 8,
+      "edges": {
+        "north": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "east": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "south": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 24,
+      "y": 8,
+      "edges": {
+        "east": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 25,
+      "y": 8,
+      "edges": {
+        "north": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "east": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 26,
+      "y": 8,
+      "edges": {
+        "west": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 31,
+      "y": 8,
+      "edges": {
+        "east": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 32,
+      "y": 8,
+      "edges": {
+        "west": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 33,
+      "y": 8,
+      "edges": {
+        "east": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "south": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 34,
+      "y": 8,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 35,
+      "y": 8,
+      "edges": {
+        "east": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 36,
+      "y": 8,
+      "edges": {
+        "west": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 8,
+      "y": 9,
+      "edges": {
+        "east": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 9,
+      "y": 9,
+      "edges": {
+        "east": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 10,
+      "y": 9,
+      "edges": {
+        "north": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 11,
+      "y": 9,
+      "edges": {
+        "east": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 12,
+      "y": 9,
+      "edges": {
+        "west": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 15,
+      "y": 9,
+      "edges": {
+        "east": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 16,
+      "y": 9,
+      "edges": {
+        "east": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 17,
+      "y": 9,
+      "edges": {
+        "west": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 18,
+      "y": 9,
+      "edges": {
+        "east": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 19,
+      "y": 9,
+      "edges": {
+        "east": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 20,
+      "y": 9,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 21,
+      "y": 9,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 22,
+      "y": 9,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 23,
+      "y": 9,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 24,
+      "y": 9,
+      "edges": {
+        "east": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 25,
+      "y": 9,
+      "edges": {
+        "east": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 26,
+      "y": 9,
+      "edges": {
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 27,
+      "y": 9,
+      "edges": {
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 28,
+      "y": 9,
+      "edges": {
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 29,
+      "y": 9,
+      "edges": {
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 30,
+      "y": 9,
+      "edges": {
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 31,
+      "y": 9,
+      "edges": {
+        "east": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 32,
+      "y": 9,
+      "edges": {
+        "east": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 33,
+      "y": 9,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 34,
+      "y": 9,
+      "edges": {
+        "east": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 35,
+      "y": 9,
+      "edges": {
+        "north": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "south": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 36,
+      "y": 9,
+      "edges": {
+        "south": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 6,
+      "y": 10,
+      "edges": {
+        "south": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 8,
+      "y": 10,
+      "edges": {
+        "east": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 9,
+      "y": 10,
+      "edges": {
+        "east": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 10,
+      "y": 10,
+      "edges": {
+        "south": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 11,
+      "y": 10,
+      "edges": {
+        "east": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 12,
+      "y": 10,
+      "edges": {
+        "west": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 14,
+      "y": 10,
+      "edges": {
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 15,
+      "y": 10,
+      "edges": {
+        "east": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 16,
+      "y": 10,
+      "edges": {
+        "east": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 17,
+      "y": 10,
+      "edges": {
+        "west": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 18,
+      "y": 10,
+      "edges": {
+        "east": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 19,
+      "y": 10,
+      "edges": {
+        "east": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 20,
+      "y": 10,
+      "edges": {
+        "west": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 24,
+      "y": 10,
+      "edges": {
+        "east": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 25,
+      "y": 10,
+      "edges": {
+        "south": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 26,
+      "y": 10,
+      "edges": {
+        "north": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "south": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 27,
+      "y": 10,
+      "edges": {
+        "north": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "south": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 28,
+      "y": 10,
+      "edges": {
+        "north": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "south": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 29,
+      "y": 10,
+      "edges": {
+        "north": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "south": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 30,
+      "y": 10,
+      "edges": {
+        "north": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "south": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 31,
+      "y": 10,
+      "edges": {
+        "north": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "south": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 32,
+      "y": 10,
+      "edges": {
+        "east": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 33,
+      "y": 10,
+      "edges": {
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 34,
+      "y": 10,
+      "edges": {
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 35,
+      "y": 10,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 36,
+      "y": 10,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "east": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 37,
+      "y": 10,
+      "edges": {
+        "west": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 5,
+      "y": 11,
+      "edges": {
+        "east": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 6,
+      "y": 11,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "east": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 7,
+      "y": 11,
+      "edges": {
+        "west": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 8,
+      "y": 11,
+      "edges": {
+        "east": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 9,
+      "y": 11,
+      "edges": {
+        "west": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 10,
+      "y": 11,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "east": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 11,
+      "y": 11,
+      "edges": {
+        "east": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 12,
+      "y": 11,
+      "edges": {
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 13,
+      "y": 11,
+      "edges": {
+        "east": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 14,
+      "y": 11,
+      "edges": {
+        "north": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 15,
+      "y": 11,
+      "edges": {
+        "north": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "south": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 16,
+      "y": 11,
+      "edges": {
+        "east": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "south": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 17,
+      "y": 11,
+      "edges": {
+        "west": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 18,
+      "y": 11,
+      "edges": {
+        "east": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 19,
+      "y": 11,
+      "edges": {
+        "east": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 20,
+      "y": 11,
+      "edges": {
+        "west": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 25,
+      "y": 11,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 26,
+      "y": 11,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 27,
+      "y": 11,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 28,
+      "y": 11,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 29,
+      "y": 11,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 30,
+      "y": 11,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 31,
+      "y": 11,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "east": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 32,
+      "y": 11,
+      "edges": {
+        "south": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 33,
+      "y": 11,
+      "edges": {
+        "north": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "south": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 34,
+      "y": 11,
+      "edges": {
+        "north": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "south": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 35,
+      "y": 11,
+      "edges": {
+        "north": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "east": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 36,
+      "y": 11,
+      "edges": {
+        "east": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 37,
+      "y": 11,
+      "edges": {
+        "west": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 5,
+      "y": 12,
+      "edges": {
+        "east": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 6,
+      "y": 12,
+      "edges": {
+        "east": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 7,
+      "y": 12,
+      "edges": {
+        "west": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 8,
+      "y": 12,
+      "edges": {
+        "east": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 9,
+      "y": 12,
+      "edges": {
+        "west": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 10,
+      "y": 12,
+      "edges": {
+        "east": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 11,
+      "y": 12,
+      "edges": {
+        "south": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 12,
+      "y": 12,
+      "edges": {
+        "north": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "south": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 13,
+      "y": 12,
+      "edges": {
+        "north": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 14,
+      "y": 12,
+      "edges": {
+        "east": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "south": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 15,
+      "y": 12,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 16,
+      "y": 12,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 18,
+      "y": 12,
+      "edges": {
+        "east": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 19,
+      "y": 12,
+      "edges": {
+        "east": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 20,
+      "y": 12,
+      "edges": {
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 21,
+      "y": 12,
+      "edges": {
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 22,
+      "y": 12,
+      "edges": {
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 23,
+      "y": 12,
+      "edges": {
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 25,
+      "y": 12,
+      "edges": {
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 27,
+      "y": 12,
+      "edges": {
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 28,
+      "y": 12,
+      "edges": {
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 29,
+      "y": 12,
+      "edges": {
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 30,
+      "y": 12,
+      "edges": {
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 31,
+      "y": 12,
+      "edges": {
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 32,
+      "y": 12,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 33,
+      "y": 12,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 34,
+      "y": 12,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "east": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 35,
+      "y": 12,
+      "edges": {
+        "east": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 36,
+      "y": 12,
+      "edges": {
+        "east": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 37,
+      "y": 12,
+      "edges": {
+        "west": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 5,
+      "y": 13,
+      "edges": {
+        "east": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 6,
+      "y": 13,
+      "edges": {
+        "east": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 7,
+      "y": 13,
+      "edges": {
+        "south": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 8,
+      "y": 13,
+      "edges": {
+        "east": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "south": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 9,
+      "y": 13,
+      "edges": {
+        "west": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 11,
+      "y": 13,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 12,
+      "y": 13,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "east": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 13,
+      "y": 13,
+      "edges": {
+        "east": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 14,
+      "y": 13,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 15,
+      "y": 13,
+      "edges": {
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 18,
+      "y": 13,
+      "edges": {
+        "east": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 19,
+      "y": 13,
+      "edges": {
+        "west": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 20,
+      "y": 13,
+      "edges": {
+        "north": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 21,
+      "y": 13,
+      "edges": {
+        "north": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 22,
+      "y": 13,
+      "edges": {
+        "north": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 23,
+      "y": 13,
+      "edges": {
+        "north": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "east": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 24,
+      "y": 13,
+      "edges": {
+        "east": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 25,
+      "y": 13,
+      "edges": {
+        "north": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "east": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 26,
+      "y": 13,
+      "edges": {
+        "east": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 27,
+      "y": 13,
+      "edges": {
+        "north": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 28,
+      "y": 13,
+      "edges": {
+        "north": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "south": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 29,
+      "y": 13,
+      "edges": {
+        "north": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "south": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 30,
+      "y": 13,
+      "edges": {
+        "north": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "south": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 31,
+      "y": 13,
+      "edges": {
+        "north": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "south": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 32,
+      "y": 13,
+      "edges": {
+        "north": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "east": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 33,
+      "y": 13,
+      "edges": {
+        "west": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 34,
+      "y": 13,
+      "edges": {
+        "east": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 35,
+      "y": 13,
+      "edges": {
+        "east": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "south": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 36,
+      "y": 13,
+      "edges": {
+        "east": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 37,
+      "y": 13,
+      "edges": {
+        "west": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 5,
+      "y": 14,
+      "edges": {
+        "east": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 6,
+      "y": 14,
+      "edges": {
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 7,
+      "y": 14,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 8,
+      "y": 14,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 10,
+      "y": 14,
+      "edges": {
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 11,
+      "y": 14,
+      "edges": {
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 12,
+      "y": 14,
+      "edges": {
+        "east": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 13,
+      "y": 14,
+      "edges": {
+        "west": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 14,
+      "y": 14,
+      "edges": {
+        "north": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 15,
+      "y": 14,
+      "edges": {
+        "north": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "east": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 16,
+      "y": 14,
+      "edges": {
+        "west": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 18,
+      "y": 14,
+      "edges": {
+        "east": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 19,
+      "y": 14,
+      "edges": {
+        "south": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 20,
+      "y": 14,
+      "edges": {
+        "south": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 21,
+      "y": 14,
+      "edges": {
+        "south": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 22,
+      "y": 14,
+      "edges": {
+        "south": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 23,
+      "y": 14,
+      "edges": {
+        "east": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 24,
+      "y": 14,
+      "edges": {
+        "east": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 25,
+      "y": 14,
+      "edges": {
+        "east": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 26,
+      "y": 14,
+      "edges": {
+        "east": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 27,
+      "y": 14,
+      "edges": {
+        "east": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 28,
+      "y": 14,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 29,
+      "y": 14,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 30,
+      "y": 14,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 31,
+      "y": 14,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "east": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 32,
+      "y": 14,
+      "edges": {
+        "east": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 33,
+      "y": 14,
+      "edges": {
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 34,
+      "y": 14,
+      "edges": {
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 35,
+      "y": 14,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 36,
+      "y": 14,
+      "edges": {
+        "east": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 37,
+      "y": 14,
+      "edges": {
+        "west": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 6,
+      "y": 15,
+      "edges": {
+        "north": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "east": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 7,
+      "y": 15,
+      "edges": {
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 8,
+      "y": 15,
+      "edges": {
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 9,
+      "y": 15,
+      "edges": {
+        "east": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 10,
+      "y": 15,
+      "edges": {
+        "north": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 11,
+      "y": 15,
+      "edges": {
+        "north": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 12,
+      "y": 15,
+      "edges": {
+        "north": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 13,
+      "y": 15,
+      "edges": {
+        "south": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 14,
+      "y": 15,
+      "edges": {
+        "south": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 15,
+      "y": 15,
+      "edges": {
+        "east": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 16,
+      "y": 15,
+      "edges": {
+        "west": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 19,
+      "y": 15,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 20,
+      "y": 15,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 21,
+      "y": 15,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 22,
+      "y": 15,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "east": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 23,
+      "y": 15,
+      "edges": {
+        "east": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 24,
+      "y": 15,
+      "edges": {
+        "east": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 25,
+      "y": 15,
+      "edges": {
+        "east": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 26,
+      "y": 15,
+      "edges": {
+        "east": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 27,
+      "y": 15,
+      "edges": {
+        "east": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 28,
+      "y": 15,
+      "edges": {
+        "west": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 31,
+      "y": 15,
+      "edges": {
+        "east": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 32,
+      "y": 15,
+      "edges": {
+        "west": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 33,
+      "y": 15,
+      "edges": {
+        "north": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 34,
+      "y": 15,
+      "edges": {
+        "north": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 35,
+      "y": 15,
+      "edges": {
+        "north": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 36,
+      "y": 15,
+      "edges": {
+        "north": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 7,
+      "y": 16,
+      "edges": {
+        "north": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 8,
+      "y": 16,
+      "edges": {
+        "north": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 9,
+      "y": 16,
+      "edges": {
+        "north": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 11,
+      "y": 16,
+      "edges": {
+        "south": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 12,
+      "y": 16,
+      "edges": {
+        "east": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "south": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 13,
+      "y": 16,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 14,
+      "y": 16,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "east": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 15,
+      "y": 16,
+      "edges": {
+        "east": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 16,
+      "y": 16,
+      "edges": {
+        "west": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 22,
+      "y": 16,
+      "edges": {
+        "east": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 23,
+      "y": 16,
+      "edges": {
+        "east": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 24,
+      "y": 16,
+      "edges": {
+        "east": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 25,
+      "y": 16,
+      "edges": {
+        "east": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 26,
+      "y": 16,
+      "edges": {
+        "east": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 27,
+      "y": 16,
+      "edges": {
+        "east": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "south": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 28,
+      "y": 16,
+      "edges": {
+        "west": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 31,
+      "y": 16,
+      "edges": {
+        "east": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 32,
+      "y": 16,
+      "edges": {
+        "west": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 10,
+      "y": 17,
+      "edges": {
+        "east": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 11,
+      "y": 17,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 12,
+      "y": 17,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 14,
+      "y": 17,
+      "edges": {
+        "east": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 15,
+      "y": 17,
+      "edges": {
+        "east": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 16,
+      "y": 17,
+      "edges": {
+        "west": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 22,
+      "y": 17,
+      "edges": {
+        "east": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 23,
+      "y": 17,
+      "edges": {
+        "east": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "south": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 24,
+      "y": 17,
+      "edges": {
+        "east": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 25,
+      "y": 17,
+      "edges": {
+        "east": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 26,
+      "y": 17,
+      "edges": {
+        "west": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 27,
+      "y": 17,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 31,
+      "y": 17,
+      "edges": {
+        "east": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 32,
+      "y": 17,
+      "edges": {
+        "west": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 9,
+      "y": 18,
+      "edges": {
+        "south": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 10,
+      "y": 18,
+      "edges": {
+        "east": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "south": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 11,
+      "y": 18,
+      "edges": {
+        "west": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 14,
+      "y": 18,
+      "edges": {
+        "east": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 15,
+      "y": 18,
+      "edges": {
+        "east": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "south": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 16,
+      "y": 18,
+      "edges": {
+        "west": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 23,
+      "y": 18,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 24,
+      "y": 18,
+      "edges": {
+        "east": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 25,
+      "y": 18,
+      "edges": {
+        "east": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 26,
+      "y": 18,
+      "edges": {
+        "west": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 31,
+      "y": 18,
+      "edges": {
+        "east": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 32,
+      "y": 18,
+      "edges": {
+        "west": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 8,
+      "y": 19,
+      "edges": {
+        "east": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 9,
+      "y": 19,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 10,
+      "y": 19,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 11,
+      "y": 19,
+      "edges": {
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 12,
+      "y": 19,
+      "edges": {
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 13,
+      "y": 19,
+      "edges": {
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 14,
+      "y": 19,
+      "edges": {
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 15,
+      "y": 19,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 16,
+      "y": 19,
+      "edges": {
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 17,
+      "y": 19,
+      "edges": {
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 18,
+      "y": 19,
+      "edges": {
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 19,
+      "y": 19,
+      "edges": {
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 20,
+      "y": 19,
+      "edges": {
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 21,
+      "y": 19,
+      "edges": {
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 22,
+      "y": 19,
+      "edges": {
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 23,
+      "y": 19,
+      "edges": {
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 24,
+      "y": 19,
+      "edges": {
+        "east": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 25,
+      "y": 19,
+      "edges": {
+        "east": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 26,
+      "y": 19,
+      "edges": {
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 27,
+      "y": 19,
+      "edges": {
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 28,
+      "y": 19,
+      "edges": {
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 29,
+      "y": 19,
+      "edges": {
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 30,
+      "y": 19,
+      "edges": {
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 31,
+      "y": 19,
+      "edges": {
+        "east": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        },
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "cave stone floor tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 32,
+      "y": 19,
+      "edges": {
+        "west": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 9,
+      "y": 20,
+      "edges": {
+        "north": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 10,
+      "y": 20,
+      "edges": {
+        "north": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 11,
+      "y": 20,
+      "edges": {
+        "north": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 12,
+      "y": 20,
+      "edges": {
+        "north": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 13,
+      "y": 20,
+      "edges": {
+        "north": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 14,
+      "y": 20,
+      "edges": {
+        "north": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 15,
+      "y": 20,
+      "edges": {
+        "north": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 16,
+      "y": 20,
+      "edges": {
+        "north": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 17,
+      "y": 20,
+      "edges": {
+        "north": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 18,
+      "y": 20,
+      "edges": {
+        "north": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 19,
+      "y": 20,
+      "edges": {
+        "north": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 20,
+      "y": 20,
+      "edges": {
+        "north": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 21,
+      "y": 20,
+      "edges": {
+        "north": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 22,
+      "y": 20,
+      "edges": {
+        "north": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 23,
+      "y": 20,
+      "edges": {
+        "north": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 24,
+      "y": 20,
+      "edges": {
+        "north": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 26,
+      "y": 20,
+      "edges": {
+        "north": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 27,
+      "y": 20,
+      "edges": {
+        "north": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 28,
+      "y": 20,
+      "edges": {
+        "north": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 29,
+      "y": 20,
+      "edges": {
+        "north": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 30,
+      "y": 20,
+      "edges": {
+        "north": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 31,
+      "y": 20,
+      "edges": {
+        "north": {
+          "fromTerrain": "cave stone floor tile",
+          "toTerrain": "mine path tile",
+          "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+          "transitionSize": 0
+        }
+      }
+    }
+  ]
+}

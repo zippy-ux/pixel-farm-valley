@@ -1,0 +1,36 @@
+{
+  "transitions": [
+    {
+      "from": "mine path tile",
+      "to": "cave stone floor tile",
+      "fromId": 1,
+      "toId": 2,
+      "tilesetId": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+      "transitionSize": 0
+    },
+    {
+      "from": "mine path tile",
+      "to": "earth",
+      "fromId": 1,
+      "toId": 3,
+      "tilesetId": "241746a4-c099-4947-b5ef-250a6057ba8b",
+      "transitionSize": 0
+    },
+    {
+      "from": "mine path tile",
+      "to": "earth road",
+      "fromId": 1,
+      "toId": 4,
+      "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+      "transitionSize": 0
+    },
+    {
+      "from": "mine path tile",
+      "to": "sand road",
+      "fromId": 1,
+      "toId": 5,
+      "tilesetId": "0eb929b3-098d-41f8-8ae5-e0ac9620874f",
+      "transitionSize": 0
+    }
+  ]
+}

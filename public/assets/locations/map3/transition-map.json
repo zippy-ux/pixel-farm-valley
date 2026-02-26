@@ -1,0 +1,1205 @@
+{
+  "format": "sparse",
+  "transitions": [
+    {
+      "x": 24,
+      "y": 8,
+      "edges": {
+        "south": {
+          "fromTerrain": "earth road",
+          "toTerrain": "mine path tile",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 20,
+      "y": 9,
+      "edges": {
+        "south": {
+          "fromTerrain": "earth road",
+          "toTerrain": "mine path tile",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 21,
+      "y": 9,
+      "edges": {
+        "south": {
+          "fromTerrain": "earth road",
+          "toTerrain": "mine path tile",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 22,
+      "y": 9,
+      "edges": {
+        "south": {
+          "fromTerrain": "earth road",
+          "toTerrain": "mine path tile",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 23,
+      "y": 9,
+      "edges": {
+        "east": {
+          "fromTerrain": "earth road",
+          "toTerrain": "mine path tile",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        },
+        "south": {
+          "fromTerrain": "earth road",
+          "toTerrain": "mine path tile",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 24,
+      "y": 9,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "earth road",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        },
+        "east": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "earth road",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "earth road",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 25,
+      "y": 9,
+      "edges": {
+        "south": {
+          "fromTerrain": "earth road",
+          "toTerrain": "mine path tile",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "earth road",
+          "toTerrain": "mine path tile",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 26,
+      "y": 9,
+      "edges": {
+        "south": {
+          "fromTerrain": "earth road",
+          "toTerrain": "mine path tile",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 27,
+      "y": 9,
+      "edges": {
+        "south": {
+          "fromTerrain": "earth road",
+          "toTerrain": "mine path tile",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 28,
+      "y": 9,
+      "edges": {
+        "south": {
+          "fromTerrain": "earth road",
+          "toTerrain": "mine path tile",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 19,
+      "y": 10,
+      "edges": {
+        "east": {
+          "fromTerrain": "earth road",
+          "toTerrain": "mine path tile",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        },
+        "south": {
+          "fromTerrain": "earth road",
+          "toTerrain": "mine path tile",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 20,
+      "y": 10,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "earth road",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "earth road",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 21,
+      "y": 10,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "earth road",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 22,
+      "y": 10,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "earth road",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 23,
+      "y": 10,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "earth road",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 25,
+      "y": 10,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "earth road",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 26,
+      "y": 10,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "earth road",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 27,
+      "y": 10,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "earth road",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 28,
+      "y": 10,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "earth road",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        },
+        "east": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "earth road",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 29,
+      "y": 10,
+      "edges": {
+        "south": {
+          "fromTerrain": "earth road",
+          "toTerrain": "mine path tile",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "earth road",
+          "toTerrain": "mine path tile",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 17,
+      "y": 11,
+      "edges": {
+        "south": {
+          "fromTerrain": "earth road",
+          "toTerrain": "mine path tile",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 18,
+      "y": 11,
+      "edges": {
+        "east": {
+          "fromTerrain": "earth road",
+          "toTerrain": "mine path tile",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        },
+        "south": {
+          "fromTerrain": "earth road",
+          "toTerrain": "mine path tile",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 19,
+      "y": 11,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "earth road",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "earth road",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 29,
+      "y": 11,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "earth road",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        },
+        "east": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "earth road",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 30,
+      "y": 11,
+      "edges": {
+        "south": {
+          "fromTerrain": "earth road",
+          "toTerrain": "mine path tile",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "earth road",
+          "toTerrain": "mine path tile",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 31,
+      "y": 11,
+      "edges": {
+        "south": {
+          "fromTerrain": "earth road",
+          "toTerrain": "mine path tile",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 16,
+      "y": 12,
+      "edges": {
+        "east": {
+          "fromTerrain": "earth road",
+          "toTerrain": "mine path tile",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 17,
+      "y": 12,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "earth road",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "earth road",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 18,
+      "y": 12,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "earth road",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 30,
+      "y": 12,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "earth road",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 31,
+      "y": 12,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "earth road",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        },
+        "east": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "earth road",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 32,
+      "y": 12,
+      "edges": {
+        "west": {
+          "fromTerrain": "earth road",
+          "toTerrain": "mine path tile",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 16,
+      "y": 13,
+      "edges": {
+        "east": {
+          "fromTerrain": "earth road",
+          "toTerrain": "mine path tile",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        },
+        "south": {
+          "fromTerrain": "earth road",
+          "toTerrain": "mine path tile",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 17,
+      "y": 13,
+      "edges": {
+        "west": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "earth road",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 31,
+      "y": 13,
+      "edges": {
+        "east": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "earth road",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 32,
+      "y": 13,
+      "edges": {
+        "south": {
+          "fromTerrain": "earth road",
+          "toTerrain": "mine path tile",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "earth road",
+          "toTerrain": "mine path tile",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 15,
+      "y": 14,
+      "edges": {
+        "east": {
+          "fromTerrain": "earth road",
+          "toTerrain": "mine path tile",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 16,
+      "y": 14,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "earth road",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "earth road",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 32,
+      "y": 14,
+      "edges": {
+        "north": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "earth road",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        },
+        "east": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "earth road",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 33,
+      "y": 14,
+      "edges": {
+        "west": {
+          "fromTerrain": "earth road",
+          "toTerrain": "mine path tile",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 15,
+      "y": 15,
+      "edges": {
+        "east": {
+          "fromTerrain": "earth road",
+          "toTerrain": "mine path tile",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 16,
+      "y": 15,
+      "edges": {
+        "west": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "earth road",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 32,
+      "y": 15,
+      "edges": {
+        "east": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "earth road",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 33,
+      "y": 15,
+      "edges": {
+        "west": {
+          "fromTerrain": "earth road",
+          "toTerrain": "mine path tile",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 15,
+      "y": 16,
+      "edges": {
+        "east": {
+          "fromTerrain": "earth road",
+          "toTerrain": "mine path tile",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 16,
+      "y": 16,
+      "edges": {
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "earth road",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "earth road",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 32,
+      "y": 16,
+      "edges": {
+        "east": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "earth road",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        },
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "earth road",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 33,
+      "y": 16,
+      "edges": {
+        "west": {
+          "fromTerrain": "earth road",
+          "toTerrain": "mine path tile",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 16,
+      "y": 17,
+      "edges": {
+        "north": {
+          "fromTerrain": "earth road",
+          "toTerrain": "mine path tile",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        },
+        "east": {
+          "fromTerrain": "earth road",
+          "toTerrain": "mine path tile",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 17,
+      "y": 17,
+      "edges": {
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "earth road",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "earth road",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 31,
+      "y": 17,
+      "edges": {
+        "east": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "earth road",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        },
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "earth road",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 32,
+      "y": 17,
+      "edges": {
+        "north": {
+          "fromTerrain": "earth road",
+          "toTerrain": "mine path tile",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "earth road",
+          "toTerrain": "mine path tile",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 17,
+      "y": 18,
+      "edges": {
+        "north": {
+          "fromTerrain": "earth road",
+          "toTerrain": "mine path tile",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        },
+        "east": {
+          "fromTerrain": "earth road",
+          "toTerrain": "mine path tile",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 18,
+      "y": 18,
+      "edges": {
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "earth road",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "earth road",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 30,
+      "y": 18,
+      "edges": {
+        "east": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "earth road",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        },
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "earth road",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 31,
+      "y": 18,
+      "edges": {
+        "north": {
+          "fromTerrain": "earth road",
+          "toTerrain": "mine path tile",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "earth road",
+          "toTerrain": "mine path tile",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 18,
+      "y": 19,
+      "edges": {
+        "north": {
+          "fromTerrain": "earth road",
+          "toTerrain": "mine path tile",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        },
+        "east": {
+          "fromTerrain": "earth road",
+          "toTerrain": "mine path tile",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 19,
+      "y": 19,
+      "edges": {
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "earth road",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "earth road",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 20,
+      "y": 19,
+      "edges": {
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "earth road",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 23,
+      "y": 19,
+      "edges": {
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "earth road",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 24,
+      "y": 19,
+      "edges": {
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "earth road",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 25,
+      "y": 19,
+      "edges": {
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "earth road",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 28,
+      "y": 19,
+      "edges": {
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "earth road",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 29,
+      "y": 19,
+      "edges": {
+        "east": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "earth road",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        },
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "earth road",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 30,
+      "y": 19,
+      "edges": {
+        "north": {
+          "fromTerrain": "earth road",
+          "toTerrain": "mine path tile",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "earth road",
+          "toTerrain": "mine path tile",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 19,
+      "y": 20,
+      "edges": {
+        "north": {
+          "fromTerrain": "earth road",
+          "toTerrain": "mine path tile",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 20,
+      "y": 20,
+      "edges": {
+        "north": {
+          "fromTerrain": "earth road",
+          "toTerrain": "mine path tile",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        },
+        "east": {
+          "fromTerrain": "earth road",
+          "toTerrain": "mine path tile",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 21,
+      "y": 20,
+      "edges": {
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "earth road",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "earth road",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 22,
+      "y": 20,
+      "edges": {
+        "east": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "earth road",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        },
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "earth road",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 23,
+      "y": 20,
+      "edges": {
+        "north": {
+          "fromTerrain": "earth road",
+          "toTerrain": "mine path tile",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "earth road",
+          "toTerrain": "mine path tile",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 24,
+      "y": 20,
+      "edges": {
+        "north": {
+          "fromTerrain": "earth road",
+          "toTerrain": "mine path tile",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 25,
+      "y": 20,
+      "edges": {
+        "north": {
+          "fromTerrain": "earth road",
+          "toTerrain": "mine path tile",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        },
+        "east": {
+          "fromTerrain": "earth road",
+          "toTerrain": "mine path tile",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 26,
+      "y": 20,
+      "edges": {
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "earth road",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "earth road",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 27,
+      "y": 20,
+      "edges": {
+        "east": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "earth road",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        },
+        "south": {
+          "fromTerrain": "mine path tile",
+          "toTerrain": "earth road",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 28,
+      "y": 20,
+      "edges": {
+        "north": {
+          "fromTerrain": "earth road",
+          "toTerrain": "mine path tile",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        },
+        "west": {
+          "fromTerrain": "earth road",
+          "toTerrain": "mine path tile",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 29,
+      "y": 20,
+      "edges": {
+        "north": {
+          "fromTerrain": "earth road",
+          "toTerrain": "mine path tile",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 21,
+      "y": 21,
+      "edges": {
+        "north": {
+          "fromTerrain": "earth road",
+          "toTerrain": "mine path tile",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 22,
+      "y": 21,
+      "edges": {
+        "north": {
+          "fromTerrain": "earth road",
+          "toTerrain": "mine path tile",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 26,
+      "y": 21,
+      "edges": {
+        "north": {
+          "fromTerrain": "earth road",
+          "toTerrain": "mine path tile",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        }
+      }
+    },
+    {
+      "x": 27,
+      "y": 21,
+      "edges": {
+        "north": {
+          "fromTerrain": "earth road",
+          "toTerrain": "mine path tile",
+          "tilesetId": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+          "transitionSize": 0
+        }
+      }
+    }
+  ]
+}

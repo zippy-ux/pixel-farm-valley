@@ -1,0 +1,147 @@
+/* Mine window — pixel-art overlay */
+
+.mine-window-overlay {
+  display: none;
+  position: fixed;
+  inset: 0;
+  z-index: 10002;
+  align-items: center;
+  justify-content: center;
+  background: rgba(0, 0, 0, 0.6);
+  font-family: "Press Start 2P", monospace;
+}
+
+.mine-window-overlay.level-up-overlay {
+  z-index: 10003;
+}
+
+.mine-window {
+  width: min(420px, 90vw);
+  max-height: 85vh;
+  overflow-y: auto;
+  background: #1e1e1e;
+  color: #e0e0e0;
+  border: 2px solid #fbbf24;
+  outline: 2px solid #fbbf24;
+  outline-offset: -2px;
+  box-shadow: 0 0 0 1px #222;
+  padding: 0;
+}
+
+.mine-window-header {
+  padding: 12px 14px 8px;
+  border-bottom: 2px solid #333;
+}
+
+.mine-window-title-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+}
+
+.mine-window-title {
+  font-size: 12px;
+  font-weight: 400;
+  color: #fff;
+  margin: 0;
+}
+
+.mine-window-close {
+  font-size: 18px;
+  line-height: 1;
+  width: 28px;
+  height: 28px;
+  padding: 0;
+  border: 2px solid #fbbf24;
+  background: #2d2d2d;
+  color: #e0e0e0;
+  cursor: pointer;
+  font-family: inherit;
+}
+
+.mine-window-close:hover {
+  background: #3d3d3d;
+  color: #fff;
+}
+
+.mine-window-subtitle {
+  font-size: 8px;
+  color: #cececf;
+  margin: 6px 0 0;
+}
+
+.mine-window-desc {
+  font-size: 8px;
+  color: #cececf;
+  margin: 8px 0 0;
+  line-height: 1.6;
+}
+
+.mine-window-body {
+  padding: 12px 14px 14px;
+}
+
+.mine-block {
+  margin-bottom: 14px;
+}
+
+.mine-block:last-child {
+  margin-bottom: 0;
+}
+
+.mine-info-row {
+  font-size: 8px;
+  padding: 6px 0;
+  border-bottom: 1px solid #333;
+}
+
+.mine-info-row:last-child {
+  border-bottom: none;
+}
+
+.mine-info-label {
+  color: #cececf;
+}
+
+.mine-info-value {
+  color: #22c55e;
+}
+
+.mine-warning {
+  font-size: 8px;
+  color: #fbbf24;
+  margin: 0 0 12px;
+  padding: 8px 0;
+  border-bottom: 1px solid #333;
+}
+
+.mine-buttons-row {
+  display: flex;
+  gap: 12px;
+}
+
+.mine-buttons-row .mine-btn-enter {
+  flex: 1;
+}
+
+.mine-btn-enter {
+  font-family: "Press Start 2P", monospace;
+  font-size: 10px;
+  padding: 12px 16px;
+  border: 2px solid #fbbf24;
+  background: #2d2d2d;
+  color: #e0e0e0;
+  cursor: pointer;
+  width: 100%;
+}
+
+.mine-btn-enter:hover:not(:disabled) {
+  background: #3d3d3d;
+  color: #fff;
+}
+
+.mine-btn-enter:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}

@@ -1,0 +1,108 @@
+{
+  "version": "1.0.0",
+  "name": "Untitled Map",
+  "exportDate": "2026-02-12T11:55:15.195210Z",
+  "engine": "pixellab-map-editor",
+  "mapConfig": {
+    "tileSize": 32,
+    "dimensions": {
+      "width": 25,
+      "height": 19,
+      "pixelWidth": 800,
+      "pixelHeight": 608
+    },
+    "boundingBox": {
+      "maxX": 36,
+      "maxY": 23,
+      "minX": 12,
+      "minY": 5
+    }
+  },
+  "terrains": [
+    {
+      "id": 1,
+      "name": "mine path tile",
+      "color": "#a16207",
+      "baseTileId": "c2fb7781-f7f0-4fd7-b7b8-5dbd489c42f5"
+    },
+    {
+      "id": 2,
+      "name": "earth road",
+      "color": "#9ca3af",
+      "baseTileId": "96fa7fb7-38ff-42db-b869-052f09b0c58d"
+    },
+    {
+      "id": 3,
+      "name": "cave stone floor tile",
+      "color": "#9ca3af",
+      "baseTileId": "a1efae91-96db-42b8-8c88-494c4b0cacbd"
+    },
+    {
+      "id": 4,
+      "name": "sand road",
+      "color": "#f59e0b",
+      "baseTileId": "98a6d267-dfd1-4250-86fe-0bfb0d4c8732"
+    },
+    {
+      "id": 5,
+      "name": "earth",
+      "color": "#9ca3af",
+      "baseTileId": "a2640765-c342-4f04-b974-5a212e5d29ea"
+    }
+  ],
+  "tilesets": [
+    {
+      "id": "5504922e-3de8-4e85-84fc-e91f18d9a81a",
+      "filename": "mine path tile-cave stone floor tile.png",
+      "lowerTerrain": "mine path tile",
+      "upperTerrain": "cave stone floor tile",
+      "lowerTerrainId": 1,
+      "upperTerrainId": 3,
+      "transitionSize": 0,
+      "transitionDescription": "",
+      "tileSize": 32,
+      "gridLayout": "4x4",
+      "wangIndexMapping": "standard"
+    },
+    {
+      "id": "f567bab5-9a00-40c8-a1e9-2a744fa9a123",
+      "filename": "mine path tile-earth road.png",
+      "lowerTerrain": "mine path tile",
+      "upperTerrain": "earth road",
+      "lowerTerrainId": 1,
+      "upperTerrainId": 2,
+      "transitionSize": 0,
+      "transitionDescription": "",
+      "tileSize": 32,
+      "gridLayout": "4x4",
+      "wangIndexMapping": "standard"
+    },
+    {
+      "id": "0eb929b3-098d-41f8-8ae5-e0ac9620874f",
+      "filename": "mine path tile-sand road.png",
+      "lowerTerrain": "mine path tile",
+      "upperTerrain": "sand road",
+      "lowerTerrainId": 1,
+      "upperTerrainId": 4,
+      "transitionSize": 0,
+      "transitionDescription": "",
+      "tileSize": 32,
+      "gridLayout": "4x4",
+      "wangIndexMapping": "standard"
+    },
+    {
+      "id": "241746a4-c099-4947-b5ef-250a6057ba8b",
+      "filename": "mine path tile-earth.png",
+      "lowerTerrain": "mine path tile",
+      "upperTerrain": "earth",
+      "lowerTerrainId": 1,
+      "upperTerrainId": 5,
+      "transitionSize": 0,
+      "transitionDescription": "",
+      "tileSize": 32,
+      "gridLayout": "4x4",
+      "wangIndexMapping": "standard"
+    }
+  ],
+  "overlays": []
+}

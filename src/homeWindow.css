@@ -1,0 +1,516 @@
+/* Home window — same top as Player, stats with Upgrade, upgrade popup */
+
+.home-window-overlay {
+  display: none;
+  position: fixed;
+  inset: 0;
+  z-index: 10000;
+  align-items: center;
+  justify-content: center;
+  background: rgba(0, 0, 0, 0.6);
+  font-family: "Press Start 2P", monospace;
+}
+
+.home-window {
+  width: min(400px, 94vw);
+  max-height: 90vh;
+  overflow-y: auto;
+  background: #1e1e1e;
+  color: #e0e0e0;
+  border: 2px solid #fbbf24;
+  outline: 2px solid #fbbf24;
+  outline-offset: -2px;
+  box-shadow: 0 0 0 1px #222;
+  padding: 0;
+}
+
+.home-window-header {
+  padding: 12px 14px 8px;
+  border-bottom: 2px solid #333;
+}
+
+.home-window-title-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+}
+
+.home-window-title {
+  font-size: 12px;
+  font-weight: 400;
+  color: #fff;
+  margin: 0;
+}
+
+.home-window-close {
+  font-size: 18px;
+  line-height: 1;
+  width: 28px;
+  height: 28px;
+  padding: 0;
+  border: 2px solid #fbbf24;
+  background: #2d2d2d;
+  color: #e0e0e0;
+  cursor: pointer;
+  font-family: inherit;
+}
+
+.home-window-close:hover {
+  background: #3d3d3d;
+  color: #fff;
+}
+
+.home-window-body {
+  padding: 14px 16px 18px;
+}
+
+/* Top: avatar + name (same as Player) */
+.home-top {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 14px;
+}
+
+.home-avatar-wrap {
+  width: 52px;
+  height: 52px;
+  border-radius: 50%;
+  overflow: hidden;
+  border: 2px solid #fbbf24;
+  background: #252525;
+  flex-shrink: 0;
+}
+
+.home-avatar {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.home-name {
+  font-size: 12px;
+  color: #e0e0e0;
+}
+
+/* Level + XP bar */
+.home-level-row {
+  margin-bottom: 10px;
+}
+
+.home-level-label {
+  font-size: 10px;
+  color: #e0e0e0;
+  display: block;
+  margin-bottom: 6px;
+}
+
+.home-level-label span { color: #fbbf24; }
+
+.home-xp-bar-wrap {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+}
+
+.home-xp-bar-track {
+  flex: 1;
+  min-width: 0;
+  height: 10px;
+  background: #1a1a1a;
+  border: 1px solid #444;
+  border-radius: 2px;
+  overflow: hidden;
+}
+
+.home-xp-bar-fill {
+  height: 100%;
+  background: #fbbf24;
+  transition: width 0.2s ease;
+}
+
+.home-xp-text {
+  font-size: 8px;
+  color: #888;
+  white-space: nowrap;
+  min-width: 72px;
+  text-align: right;
+}
+
+.home-hp-row {
+  margin-bottom: 14px;
+}
+
+.home-hp-bar-wrap {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+}
+
+.home-hp-bar-track {
+  flex: 1;
+  min-width: 0;
+  height: 8px;
+  background: #1a1a1a;
+  border: 1px solid #444;
+  border-radius: 2px;
+  overflow: hidden;
+}
+
+.home-hp-bar-fill {
+  height: 100%;
+  background: #22c55e;
+  transition: width 0.2s ease;
+}
+
+.home-hp-text {
+  font-size: 8px;
+  color: #888;
+  white-space: nowrap;
+  min-width: 72px;
+  text-align: right;
+}
+
+/* Stats with Upgrade button */
+.home-stats {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.home-stat-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  font-size: 8px;
+  padding: 6px 0;
+  min-height: 28px;
+  border-bottom: 1px solid #333;
+}
+
+.home-stat-row:last-child { border-bottom: none; }
+
+.home-stat-label {
+  color: #e0e0e0;
+  flex: 1;
+}
+
+.home-stat-value {
+  color: #fbbf24;
+  min-width: 48px;
+  text-align: right;
+}
+
+.home-btn-upgrade {
+  font-family: "Press Start 2P", monospace;
+  font-size: 6px;
+  padding: 4px 8px;
+  border: 2px solid #fbbf24;
+  background: #2d2d2d;
+  color: #fbbf24;
+  cursor: pointer;
+}
+
+.home-btn-upgrade:hover {
+  background: #3d3d3d;
+  color: #e0e0e0;
+}
+
+/* Upgrade popup */
+.home-upgrade-popup {
+  position: fixed;
+  inset: 0;
+  z-index: 10002;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(0, 0, 0, 0.5);
+}
+
+.home-upgrade-popup.hidden {
+  display: none !important;
+}
+
+.home-upgrade-popup-inner {
+  width: min(300px, 90vw);
+  background: #1e1e1e;
+  border: 2px solid #fbbf24;
+  padding: 0;
+}
+
+.home-upgrade-popup-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 12px;
+  border-bottom: 2px solid #333;
+}
+
+.home-upgrade-popup-title {
+  font-size: 12px;
+  color: #fff;
+  margin: 0;
+}
+
+.home-upgrade-close {
+  font-size: 18px;
+  line-height: 1;
+  width: 28px;
+  height: 28px;
+  padding: 0;
+  border: 2px solid #fbbf24;
+  background: #2d2d2d;
+  color: #e0e0e0;
+  cursor: pointer;
+  font-family: inherit;
+}
+
+.home-upgrade-close:hover {
+  background: #3d3d3d;
+  color: #fff;
+}
+
+.home-upgrade-popup-body {
+  padding: 14px 16px 0;
+  font-size: 10px;
+  color: #e0e0e0;
+}
+
+.home-upgrade-row {
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+  margin-bottom: 12px;
+}
+
+.home-upgrade-row-max {
+  justify-content: center;
+}
+
+.home-upgrade-side {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 6px;
+}
+
+.home-upgrade-row-icons .home-upgrade-side {
+  gap: 6px;
+}
+
+.home-upgrade-side-multiline {
+  gap: 8px;
+  align-items: center;
+}
+
+.home-upgrade-side-multiline .home-upgrade-icon {
+  margin-bottom: 2px;
+}
+
+.home-upgrade-side-multiline .home-upgrade-icon-level {
+  margin-top: 2px;
+}
+
+.home-upgrade-side-multiline .home-upgrade-value-lines {
+  margin-top: 4px;
+}
+
+.home-upgrade-label {
+  font-size: 8px;
+  color: #e0e0e0;
+}
+
+.home-upgrade-value {
+  font-size: 10px;
+  color: #fbbf24;
+}
+
+.home-upgrade-next {
+  color: #22c55e !important;
+}
+
+.home-upgrade-icon {
+  display: block;
+  image-rendering: pixelated;
+  image-rendering: crisp-edges;
+}
+
+.home-upgrade-icon-level {
+  font-size: 8px;
+  color: #e0e0e0;
+}
+
+.home-upgrade-value-lines {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+}
+
+.home-upgrade-value-lines > div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  height: 10px;
+  width: 100%;
+}
+
+.home-upgrade-benefit-pct {
+  display: inline-block;
+  min-width: 3.5em;
+  font-size: 8px !important;
+}
+
+.home-upgrade-benefit-text {
+  font-size: 8px !important;
+}
+
+.home-upgrade-value-lines .home-upgrade-benefit-icon {
+  width: 10px;
+  height: 10px;
+  object-fit: contain;
+}
+
+.home-upgrade-benefit-icon {
+  display: inline-block;
+  vertical-align: middle;
+  flex-shrink: 0;
+  image-rendering: pixelated;
+  image-rendering: crisp-edges;
+}
+
+.home-mining-inline-icon {
+  display: inline-block;
+  vertical-align: middle;
+  image-rendering: pixelated;
+  image-rendering: crisp-edges;
+}
+
+.home-upgrade-row-with-arrow {
+  align-items: center;
+}
+
+.home-upgrade-row-with-arrow .home-upgrade-side {
+  flex: 1;
+}
+
+.home-upgrade-arrow-wrap {
+  flex-shrink: 0;
+  padding: 0 4px;
+}
+
+.home-upgrade-arrow {
+  color: #22c55e;
+  font-size: 16px;
+  line-height: 1;
+}
+
+.home-upgrade-req {
+  font-size: 8px;
+  color: #e0e0e0;
+  margin: 0 0 12px;
+}
+
+.home-upgrade-req-center {
+  text-align: center;
+  margin-left: -16px;
+  margin-right: -16px;
+  padding: 12px 16px 0;
+  border-top: 2px solid #333;
+}
+
+.home-upgrade-req-block {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: nowrap;
+  gap: 6px;
+  font-size: 8px;
+  margin-bottom: 0;
+  margin-left: -16px;
+  margin-right: -16px;
+  padding: 12px 16px 0;
+  border-top: 2px solid #333;
+}
+
+.home-upgrade-req-block .home-upgrade-req-gold {
+  margin-left: 10px;
+}
+
+.home-upgrade-req-level,
+.home-upgrade-req-gold,
+.home-upgrade-req-silver {
+  font-family: "Press Start 2P", monospace;
+}
+
+.home-upgrade-req-block .home-upgrade-req-silver {
+  margin-left: 6px;
+}
+
+.home-upgrade-req-ok {
+  color: #22c55e;
+}
+
+.home-upgrade-req-fail {
+  color: #ef4444;
+}
+
+.home-upgrade-req-gold-icon,
+.home-upgrade-req-silver-icon {
+  display: block;
+  image-rendering: pixelated;
+  image-rendering: crisp-edges;
+}
+
+.home-upgrade-msg {
+  font-size: 8px;
+  text-align: center;
+  min-height: 0;
+  margin: 0;
+  padding: 0;
+  display: none;
+}
+
+.home-upgrade-msg:not(:empty) {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 18px;
+  margin-top: 10px;
+}
+
+.home-upgrade-msg-error {
+  color: #ef4444;
+}
+
+.home-upgrade-msg-success {
+  color: #22c55e;
+}
+
+.home-upgrade-popup-footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px 14px;
+}
+
+.home-upgrade-confirm {
+  font-family: "Press Start 2P", monospace;
+  font-size: 10px;
+  width: 100%;
+  padding: 10px 12px;
+  border: 2px solid #fbbf24;
+  background: #2d2d2d;
+  color: #fbbf24;
+  cursor: pointer;
+}
+
+.home-upgrade-confirm:hover {
+  background: #3d3d3d;
+  color: #e0e0e0;
+}

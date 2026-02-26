@@ -1,0 +1,1393 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <script>
+    (function () {
+      var v = navigator.vendor;
+      if (v === "Google Inc." || (v === "" && /Chrome\//.test(navigator.userAgent) && !/Edg|OPR/.test(navigator.userAgent))) {
+        document.documentElement.classList.add("browser-chrome");
+      }
+      if (v && v.indexOf("Apple") !== -1 || (/Safari\//.test(navigator.userAgent) && !/Chrome|Chromium/.test(navigator.userAgent))) {
+        document.documentElement.classList.add("browser-safari");
+      }
+      if ("ontouchstart" in window || navigator.maxTouchPoints > 0) document.documentElement.classList.add("touch-device");
+      function checkMobile() {
+        if (window.innerWidth <= 768) document.documentElement.classList.add("mobile-view");
+        else document.documentElement.classList.remove("mobile-view");
+      }
+      checkMobile();
+      window.addEventListener("resize", checkMobile);
+    })();
+  </script>
+  <title>Pixel Farm Valley</title>
+  <meta name="description" content="Play-to-Earn economy built on Solana. Resource driven game focused on mining raw materials and easy conversion to the $PFV token." />
+  <link rel="icon" type="image/png" href="/favicon.png" sizes="32x32" />
+  <link rel="shortcut icon" type="image/png" href="/favicon.png" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="Pixel Farm Valley" />
+  <meta property="og:description" content="Play-to-Earn economy built on Solana. Resource driven game focused on mining raw materials and easy conversion to the $PFV token." />
+  <meta property="og:image" content="https://pixelvalley.farm/favicon.png" />
+  <meta property="og:url" content="https://pixelvalley.farm/" />
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="Pixel Farm Valley" />
+  <meta name="twitter:description" content="Play-to-Earn economy built on Solana. Resource driven game focused on mining raw materials and easy conversion to the $PFV token." />
+  <meta name="twitter:image" content="https://pixelvalley.farm/favicon.png" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet" />
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    html {
+      -webkit-text-size-adjust: 100%;
+      text-size-adjust: 100%;
+    }
+    .ui-scale-wrapper {
+      position: fixed;
+      inset: 0;
+      z-index: 10;
+      pointer-events: none;
+      display: flex;
+      flex-direction: column;
+    }
+    .ui-scale-wrapper > * {
+      pointer-events: auto;
+    }
+    html.browser-chrome .ui-scale-wrapper,
+    html.browser-safari .ui-scale-wrapper {
+      zoom: 1.25;
+    }
+    html.browser-chrome .ui-bottom,
+    html.browser-safari .ui-bottom {
+      zoom: 1.25;
+    }
+    body {
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+      background: #1a1a1a;
+      font-family: "Press Start 2P", monospace;
+      color: #e0e0e0;
+      font-size: 10px;
+      line-height: 1.4;
+      display: flex;
+      flex-direction: column;
+    }
+    /* Game UI (header, minimap, footer) hidden until user enters game */
+    body:not(.game-ui-visible) .ui-top,
+    body:not(.game-ui-visible) .ui-system-menu-bar,
+    body:not(.game-ui-visible) .ui-bottom-bar,
+    body:not(.game-ui-visible) .ui-bottom {
+      display: none !important;
+    }
+    /* Top bar — z-index above game-wrapper so dropdown receives clicks */
+    .ui-top {
+      flex-shrink: 0;
+      min-height: 48px;
+      position: relative;
+      z-index: 50;
+      background: #2d2d2d;
+      border-bottom: 4px solid #fbbf24;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 12px;
+      gap: 12px;
+      flex-wrap: wrap;
+      image-rendering: pixelated;
+      image-rendering: crisp-edges;
+    }
+    .ui-top-left {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .ui-top-info {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .ui-top-name-level {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+    .ui-top-resources {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+    .ui-top-left .ui-top-resources .ui-top-resource:first-of-type { margin-left: 15px; }
+    .ui-top-avatar-wrap {
+      flex-shrink: 0;
+      width: 32px;
+      height: 32px;
+      border-radius: 50%;
+      overflow: hidden;
+      border: 2px solid #fbbf24;
+      background: #252525;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 0;
+    }
+    .ui-top-avatar-wrap:hover { background: #3d3d3d; border-color: #e5b010; }
+    .ui-top-avatar {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      image-rendering: auto;
+    }
+    .ui-top-player-name {
+      font-size: 8px;
+      color: #e0e0e0;
+    }
+    .ui-top-level {
+      font-size: 8px;
+      color: #e0e0e0;
+    }
+    .ui-top-level .value { color: #fbbf24; }
+    .ui-top-resource {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 8px;
+    }
+    .ui-top-resource .label { color: #e0e0e0; }
+    .ui-top-resource .value { color: #e0e0e0; }
+    .ui-top-resource-icon {
+      width: 16px;
+      height: 16px;
+      flex-shrink: 0;
+      image-rendering: pixelated;
+      image-rendering: crisp-edges;
+      object-fit: contain;
+    }
+    .ui-top-right {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+    }
+    .ui-top-pfv {
+      font-size: 8px;
+    }
+    .ui-top-pfv .label { color: #e0e0e0; }
+    .ui-top-pfv .value { color: #22c55e; }
+    .ui-top-pfv .ui-pfv-currency { color: #22c55e; }
+    .ui-top-pool {
+      font-size: 8px;
+      color: #e0e0e0;
+    }
+    .ui-top-pool .value { color: #22c55e; }
+    .ui-wallet-wrap {
+      position: relative;
+    }
+    .ui-wallet-btn {
+      font-family: "Press Start 2P", monospace;
+      font-size: 8px;
+      height: 24px;
+      min-height: 24px;
+      padding: 0 10px;
+      box-sizing: border-box;
+      border: 2px solid #fbbf24;
+      background: #252525;
+      color: #fbbf24;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+    }
+    .ui-wallet-btn:hover { background: #333; color: #e0e0e0; }
+    .ui-wallet-btn:focus { outline: none; }
+    .ui-wallet-btn-arrow { margin-left: 4px; font-size: 8px; opacity: 0.9; }
+    .ui-wallet-btn[aria-expanded="true"] .ui-wallet-btn-arrow { transform: rotate(180deg); }
+    .ui-wallet-btn:focus-visible { outline: 2px solid #fbbf24; outline-offset: 2px; }
+    .ui-wallet-dropdown {
+      display: none;
+      position: absolute;
+      top: 100%;
+      right: 0;
+      margin-top: 4px;
+      min-width: 160px;
+      background: #252525;
+      border: 2px solid #fbbf24;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.5);
+      z-index: 99999;
+      pointer-events: auto;
+    }
+    .ui-wallet-dropdown.open { display: block; }
+    .ui-wallet-dropdown-item {
+      font-family: "Press Start 2P", monospace;
+      font-size: 7px;
+      width: 100%;
+      padding: 8px 12px;
+      text-align: left;
+      border: none;
+      background: transparent;
+      color: #e0e0e0;
+      cursor: pointer;
+    }
+    .ui-wallet-dropdown-item:hover { background: #333; color: #fbbf24; }
+    .ui-wallet-dropdown-item.ui-wallet-copied { color: #fbbf24; }
+    .ui-chat-wrap {
+      position: relative;
+      display: flex;
+      justify-content: flex-end;
+    }
+    .ui-btn-chat {
+      font-family: "Press Start 2P", monospace;
+      font-size: 8px;
+      height: 24px;
+      min-height: 24px;
+      padding: 0 10px;
+      box-sizing: border-box;
+      border: 2px solid #fbbf24;
+      border-bottom: none;
+      background: #252525;
+      color: #fbbf24;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+    }
+    .ui-btn-chat:hover { background: #333; color: #e0e0e0; }
+    .ui-btn-chat:focus { outline: none; }
+    .ui-btn-chat:focus-visible { outline: 2px solid #fbbf24; outline-offset: 2px; }
+    .ui-bottom-bar-right {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-end;
+      gap: 6px;
+    }
+    .ui-chat-panel {
+      display: none;
+      position: absolute;
+      right: 0;
+      bottom: 100%;
+      width: 340px;
+      height: 420px;
+      max-height: 70vh;
+      margin-bottom: 4px;
+      flex-direction: column;
+      background: #252525;
+      border: 2px solid #333;
+      border-bottom: none;
+      box-shadow: 0 -4px 12px rgba(0,0,0,0.3);
+    }
+    .ui-chat-panel.open { display: flex; }
+    .ui-chat-panel-title {
+      font-size: 8px;
+      color: #cececf;
+      padding: 8px 10px;
+      border-bottom: 2px solid #333;
+    }
+    .ui-chat-panel-messages {
+      flex: 1;
+      overflow-y: auto;
+      padding: 10px;
+      font-size: 8px;
+      color: #cececf;
+      min-height: 120px;
+    }
+    .ui-chat-msg {
+      padding: 6px 0;
+      border-bottom: 1px solid #2a2a2a;
+    }
+    .ui-chat-msg:last-child { border-bottom: none; }
+    .ui-chat-author {
+      color: #22c55e;
+      text-decoration: none;
+      margin-right: 4px;
+    }
+    .ui-chat-author:hover { text-decoration: underline; color: #4ade80; }
+    .ui-chat-msg-text { color: #cececf; word-break: break-word; }
+    .ui-chat-msg-time { color: #6b7280; font-size: 7px; margin-left: 4px; }
+    .ui-chat-msg-system { color: #6b7280; font-style: italic; }
+    .ui-chat-panel-input-wrap {
+      padding: 8px 10px;
+      border-top: 2px solid #333;
+    }
+    .ui-chat-panel-input {
+      width: 100%;
+      font-family: "Press Start 2P", monospace;
+      font-size: 8px;
+      padding: 8px 10px;
+      border: 2px solid #444;
+      background: #1a1a1a;
+      color: #e0e0e0;
+    }
+    .ui-chat-panel-input::placeholder { color: #6b7280; }
+
+    /* System menu — centered above map */
+    .ui-system-menu-bar {
+      position: absolute;
+      left: 50%;
+      transform: translateX(-50%);
+      top: 48px;
+      z-index: 100;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      padding: 0;
+    }
+    .ui-btn-system-menu,
+    .ui-btn-guide {
+      font-family: "Press Start 2P", monospace;
+      font-size: 8px;
+      padding: 6px 10px;
+      width: 160px;
+      min-width: 160px;
+      height: 34px;
+      min-height: 34px;
+      justify-content: center;
+      border: 2px solid #fbbf24;
+      border-top: none;
+      background: #252525;
+      color: #fbbf24;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      image-rendering: pixelated;
+      text-decoration: none;
+      box-sizing: border-box;
+    }
+    .ui-btn-system-menu:hover,
+    .ui-btn-guide:hover { background: #333; color: #e0e0e0; }
+    .ui-arena-hud {
+      position: absolute;
+      left: 50%;
+      transform: translateX(-50%);
+      top: 84px;
+      z-index: 99;
+      font-family: "Press Start 2P", monospace;
+      font-size: 10px;
+      color: #fbbf24;
+      text-align: center;
+      pointer-events: none;
+      padding: 6px 10px;
+      border: 2px solid #fbbf24;
+      background: #252525;
+      border-radius: 0;
+    }
+
+    /* Game area */
+    .game-wrapper {
+      flex: 1;
+      min-height: 0;
+      position: relative;
+      z-index: 1;
+    }
+    #game-container {
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+    }
+    #game-container canvas {
+      display: block;
+      width: 100% !important;
+      height: 100% !important;
+      object-fit: cover;
+      image-rendering: pixelated;
+      image-rendering: crisp-edges;
+    }
+
+    /* Bottom bar — clicks pass through except minimap, console, buttons */
+    .ui-bottom-bar {
+      position: absolute;
+      left: 0;
+      right: 0;
+      bottom: 48px;
+      z-index: 100;
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-end;
+      padding: 0 12px;
+      pointer-events: none;
+    }
+    .ui-bottom-bar .ui-minimap,
+    .ui-bottom-bar .ui-actions,
+    .ui-bottom-bar .ui-bottom-bar-right {
+      pointer-events: auto;
+    }
+    .ui-joystick {
+      display: none;
+    }
+    .ui-bottom-bar-left {
+      display: flex;
+      align-items: flex-end;
+      gap: 15px;
+      flex-shrink: 0;
+    }
+    .ui-minimap {
+      flex-shrink: 0;
+      margin-bottom: 8px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .ui-minimap-inner {
+      width: 120px;
+      height: 120px;
+      flex-shrink: 0;
+      border: 4px solid #fbbf24;
+      border-radius: 50%;
+      overflow: hidden;
+      background: #252525;
+      box-sizing: border-box;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+    }
+    .ui-minimap-inner canvas {
+      display: block;
+      width: 112px;
+      height: 112px;
+      image-rendering: pixelated;
+      image-rendering: crisp-edges;
+    }
+    /* Last action — 15px right of minimap */
+    .ui-actions {
+      width: 300px;
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      position: relative;
+    }
+    .ui-actions-trigger {
+      font-family: "Press Start 2P", monospace;
+      font-size: 8px;
+      height: 24px;
+      min-height: 24px;
+      padding: 0 10px;
+      box-sizing: border-box;
+      border: 2px solid #fbbf24;
+      border-bottom: none;
+      background: #252525;
+      color: #fbbf24;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 6px;
+      image-rendering: pixelated;
+    }
+    .ui-actions-trigger:hover { background: #333; color: #e0e0e0; }
+    .ui-actions-trigger .ui-actions-arrow { font-size: 8px; flex-shrink: 0; }
+    .ui-actions-console {
+      display: none;
+      flex-direction: column;
+      position: absolute;
+      left: 0;
+      right: 0;
+      bottom: 100%;
+      width: 300px;
+      max-height: 140px;
+      overflow-y: auto;
+      font-size: 8px;
+      color: #cececf;
+      padding: 6px 10px;
+      background: #252525;
+      border: 2px solid #fbbf24;
+      border-bottom: none;
+    }
+    .ui-actions-console.open { display: flex; border-color: #4a4a4a; }
+    .ui-actions.open .ui-actions-arrow { transform: rotate(180deg); }
+    .ui-actions-console .entry {
+      padding: 4px 0;
+      color: #cececf;
+    }
+
+    /* Bottom bar */
+    .ui-bottom {
+      flex-shrink: 0;
+      height: 48px;
+      min-height: 48px;
+      background: #2d2d2d;
+      border-top: 4px solid #fbbf24;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 16px;
+      line-height: 1;
+      image-rendering: pixelated;
+      image-rendering: crisp-edges;
+    }
+    .ui-bottom-left { flex: 1; display: flex; align-items: center; }
+    .ui-bottom-center { flex: 0 0 auto; text-align: center; }
+    .ui-bottom-right { flex: 1; display: flex; align-items: center; justify-content: flex-end; gap: 12px; line-height: 1; }
+    .ui-bottom .hint {
+      color: #e0e0e0;
+      font-size: 8px;
+      line-height: 1;
+    }
+    .ui-bottom .hint-mobile { display: none; }
+    .ui-bottom-timer {
+      font-size: 8px;
+      color: #e0e0e0;
+      line-height: 1;
+    }
+    .ui-bottom-timer .value { color: #22c55e; }
+    .ui-bottom-sound {
+      font-size: 8px;
+      margin-left: 0;
+      cursor: pointer;
+      user-select: none;
+      color: #22c55e;
+      line-height: 1;
+    }
+    .ui-bottom-sound:hover { text-decoration: underline; }
+    .ui-bottom-sound.sound-off { color: #ef4444; }
+    .ui-volume-wrap {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+    .ui-volume-icon {
+      display: flex;
+      align-items: center;
+      color: #fbbf24;
+      flex-shrink: 0;
+    }
+    .ui-volume-icon svg { display: block; }
+    .ui-volume-slider {
+      -webkit-appearance: none;
+      appearance: none;
+      width: 56px;
+      height: 6px;
+      background: #444;
+      border: 1px solid #555;
+      border-radius: 0;
+      outline: none;
+    }
+    .ui-volume-slider::-webkit-slider-thumb {
+      -webkit-appearance: none;
+      width: 8px;
+      height: 10px;
+      background: #fbbf24;
+      border: 1px solid #e5a90e;
+      cursor: pointer;
+      border-radius: 0;
+    }
+    .ui-volume-slider::-moz-range-thumb {
+      width: 8px;
+      height: 10px;
+      background: #fbbf24;
+      border: 1px solid #e5a90e;
+      cursor: pointer;
+      border-radius: 0;
+    }
+    .ui-volume-slider:disabled { opacity: 0.5; cursor: not-allowed; }
+    #ui-sound-toggle.sound-off ~ .ui-volume-wrap .ui-volume-icon { color: #666; }
+    #ui-sound-toggle.sound-off ~ .ui-volume-wrap .ui-volume-slider { opacity: 0.5; }
+
+    /* System menu overlay + popup (same style as Home) */
+    .ui-system-overlay {
+      display: none;
+      position: fixed;
+      inset: 0;
+      z-index: 9999;
+      align-items: center;
+      justify-content: center;
+      background: rgba(0, 0, 0, 0.6);
+      font-family: "Press Start 2P", monospace;
+    }
+    .ui-system-overlay.open { display: flex; }
+    .ui-system-popup {
+      width: 480px;
+      max-height: 85vh;
+      overflow-y: auto;
+      background: #1e1e1e;
+      color: #e0e0e0;
+      border: 2px solid #fbbf24;
+      outline: 2px solid #fbbf24;
+      outline-offset: -2px;
+      box-shadow: 0 0 0 1px #222;
+      padding: 0;
+    }
+    .ui-system-popup-header {
+      padding: 12px 14px 8px;
+      border-bottom: 2px solid #333;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 8px;
+    }
+    .ui-system-popup-title-row {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .ui-system-popup-title-block {
+      display: flex;
+      flex-direction: column;
+      gap: 7px;
+      justify-content: center;
+    }
+    .ui-system-popup-logo {
+      width: 40px;
+      height: 40px;
+      image-rendering: pixelated;
+      image-rendering: crisp-edges;
+      flex-shrink: 0;
+    }
+    .ui-system-popup-title {
+      font-size: 8px;
+      color: #fff;
+      letter-spacing: 0.02em;
+    }
+    .ui-system-popup-close {
+      font-size: 18px;
+      line-height: 1;
+      width: 28px;
+      height: 28px;
+      padding: 0;
+      border: 2px solid #fbbf24;
+      background: #2d2d2d;
+      color: #e0e0e0;
+      cursor: pointer;
+      font-family: inherit;
+    }
+    .ui-system-popup-close:hover { background: #3d3d3d; color: #fff; }
+    .ui-system-popup-body {
+      padding: 14px 16px 16px;
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      justify-content: flex-start;
+      gap: 16px;
+    }
+    .ui-system-popup-links {
+      display: flex;
+      flex-direction: row;
+      gap: 16px;
+      align-items: center;
+    }
+    .ui-system-popup-links a {
+      font-size: 8px;
+      color: #22c55e;
+      text-decoration: none;
+    }
+    .ui-system-popup-links a:hover { color: #4ade80; text-decoration: underline; }
+    .ui-system-popup-links .ui-system-popup-links-btn {
+      background: none; border: none; font-family: inherit; font-size: 8px; color: #22c55e;
+      cursor: pointer; padding: 0; text-decoration: none;
+    }
+    .ui-system-popup-links .ui-system-popup-links-btn:hover { color: #4ade80; text-decoration: underline; }
+    .ui-system-info {
+      font-size: 6px;
+      color: #cececf;
+      display: flex;
+      flex-direction: row;
+      gap: 8px;
+      align-items: center;
+    }
+    .ui-system-info .sep { color: #6b7280; }
+    .ui-system-info .value { color: #22c55e; }
+
+    /* Map window overlay (full map like minimap) */
+    .ui-map-overlay {
+      display: none;
+      position: fixed;
+      inset: 0;
+      z-index: 9999;
+      align-items: center;
+      justify-content: center;
+      background: rgba(0, 0, 0, 0.6);
+      font-family: "Press Start 2P", monospace;
+    }
+    .ui-map-overlay.open { display: flex; }
+    .ui-map-popup {
+      width: 560px;
+      max-width: 95vw;
+      max-height: 85vh;
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      background: #1e1e1e;
+      color: #e0e0e0;
+      border: 2px solid #fbbf24;
+      outline: 2px solid #fbbf24;
+      outline-offset: -2px;
+      box-shadow: 0 0 0 1px #222;
+      padding: 0;
+    }
+    .ui-map-popup-header {
+      padding: 12px 14px 8px;
+      border-bottom: 2px solid #333;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 8px;
+    }
+    .ui-map-popup-title {
+      font-size: 12px;
+      font-weight: 400;
+      color: #fff;
+    }
+    .ui-map-popup-close {
+      font-size: 18px;
+      line-height: 1;
+      width: 28px;
+      height: 28px;
+      padding: 0;
+      border: 2px solid #fbbf24;
+      background: #2d2d2d;
+      color: #e0e0e0;
+      cursor: pointer;
+      font-family: inherit;
+    }
+    .ui-map-popup-close:hover { background: #3d3d3d; color: #fff; }
+    .ui-map-popup-body {
+      padding: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 200px;
+      margin-bottom: 1px;
+    }
+    .ui-map-popup-body canvas {
+      display: block;
+      max-width: 100%;
+      max-height: 70vh;
+      image-rendering: pixelated;
+      image-rendering: crisp-edges;
+    }
+
+    /* Mobile: compact layout — 3 blocks: avatar | nick+level + resources | balance + pool */
+    @media (max-width: 768px) {
+      .ui-top {
+        min-height: 56px;
+        padding: 4px 8px 4px 6px;
+        padding-right: 14px;
+        gap: 10px;
+        border-bottom-width: 2px;
+        align-items: center;
+      }
+      .ui-top-left {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        flex: 1;
+        min-width: 0;
+      }
+      /* Block 1: avatar (reduced 30% from 48px ≈ 34px) */
+      .ui-top-avatar-wrap {
+        width: 34px;
+        height: 34px;
+        flex-shrink: 0;
+      }
+      .ui-top-avatar { width: 100%; height: 100%; }
+      /* Block 2: 2 lines — nick+level, then resources, left-aligned */
+      .ui-top-info {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: center;
+        gap: 7px;
+        min-width: 0;
+      }
+      .ui-top-name-level {
+        display: flex;
+        align-items: center;
+        gap: 6px;
+      }
+      .ui-top-resources {
+        display: flex;
+        align-items: center;
+        gap: 6px;
+      }
+      .ui-top-left .ui-top-resources .ui-top-resource:first-of-type { margin-left: 0; }
+      .ui-top-player-name, .ui-top-level { font-size: 6px; white-space: nowrap; }
+      .ui-top-resource { font-size: 6px; }
+      .ui-top-resource-icon { width: 12px; height: 12px; }
+      /* Block 3: 2 lines — balance, pool, left-aligned */
+      .ui-top-right {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: center;
+        gap: 7px;
+        margin-left: 0;
+        padding-top: 0;
+        text-align: left;
+      }
+      .ui-top-pfv, .ui-top-pool, .ui-wallet-btn { font-size: 6px; white-space: nowrap; }
+      .ui-btn-chat {
+        font-size: 6px;
+        height: 20px;
+        min-height: 20px;
+        padding: 0 6px;
+      }
+      .ui-system-menu-bar { top: 56px; }
+      .ui-btn-system-menu,
+      .ui-btn-guide { font-size: 6px; padding: 4px 6px; height: 22px; min-height: 22px; width: 120px; min-width: 120px; box-sizing: border-box; }
+      .ui-bottom-bar {
+        bottom: 36px;
+        padding: 0 6px 0 6px;
+        padding-right: 14px;
+      }
+      .ui-bottom-bar-left { gap: 8px; }
+      .ui-minimap { margin-bottom: 4px; }
+      .ui-minimap-inner {
+        width: 72px;
+        height: 72px;
+        border-width: 2px;
+      }
+      .ui-minimap-inner canvas { width: 68px; height: 68px; }
+      .ui-actions {
+        width: auto;
+        max-width: 92px;
+      }
+      .ui-actions-trigger {
+        font-size: 7px;
+        height: 20px;
+        min-height: 20px;
+        padding: 0 6px;
+        max-width: 100%;
+        min-width: 0;
+        overflow: hidden;
+      }
+      .ui-actions-trigger .ui-actions-label {
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+      }
+      .ui-actions-console {
+        width: min(130px, calc(100vw - 24px));
+        max-width: 130px;
+        max-height: 100px;
+        font-size: 6px;
+        padding: 4px 6px;
+      }
+      .ui-bottom-bar-right {
+        max-width: calc(100vw - 20px);
+        justify-content: flex-start;
+        padding-right: 14px;
+      }
+      .ui-chat-wrap {
+        max-width: 100%;
+      }
+      .ui-chat-panel {
+        position: fixed;
+        left: 12px;
+        right: 12px;
+        width: auto;
+        max-width: none;
+        max-height: min(320px, 50vh);
+        height: auto;
+        bottom: 78px;
+        margin-bottom: 0;
+      }
+      .ui-chat-panel-messages { min-height: 60px; }
+      .ui-joystick {
+        display: none !important;
+      }
+      .ui-joystick-track {
+        position: relative;
+        width: 100%;
+        height: 100%;
+        border-radius: 50%;
+        background: #252525;
+        border: 3px solid #fbbf24;
+        touch-action: none;
+      }
+      .ui-joystick-stick {
+        position: absolute;
+        width: 28px;
+        height: 28px;
+        left: 50%;
+        top: 50%;
+        margin-left: -14px;
+        margin-top: -14px;
+        border-radius: 50%;
+        background: #fbbf24;
+        pointer-events: none;
+        transition: none;
+      }
+      .ui-joystick-track.joystick-active .ui-joystick-stick {
+        transition: none;
+      }
+      .ui-bottom-bar-right {
+        flex-direction: column;
+        align-items: flex-end;
+      }
+      .ui-btn-chat {
+        font-size: 7px;
+        max-width: 100%;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        margin-right: 4px;
+      }
+      .ui-bottom {
+        height: 36px;
+        min-height: 36px;
+        padding: 0 8px;
+        border-top-width: 2px;
+      }
+      .ui-bottom .hint, .ui-bottom-timer, .ui-bottom-sound { font-size: 6px; }
+      .ui-bottom .hint-desktop { display: none; }
+      .ui-bottom .hint-mobile { display: inline; }
+      .ui-bottom .ui-volume-wrap { display: none; }
+      .ui-map-popup { width: 95vw; max-width: 95vw; }
+      .ui-map-popup-header { padding: 8px 10px 6px; }
+      .ui-map-popup-title { font-size: 8px; }
+      .ui-map-popup-close { width: 24px; height: 24px; font-size: 16px; }
+      /* System menu popup: window padding, logo+title left-aligned, close button right */
+      .ui-system-popup {
+        position: relative;
+        width: calc(100vw - 24px);
+        max-width: 480px;
+        margin: 0 12px;
+        padding: 0;
+      }
+      .ui-system-popup-header {
+        padding: 12px 36px 8px 14px;
+      }
+      .ui-system-popup-title-row {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 8px;
+        flex: 1;
+        min-width: 0;
+      }
+      .ui-system-popup-title-block {
+        align-items: flex-start;
+        text-align: left;
+      }
+      .ui-system-popup-close {
+        position: absolute;
+        top: 8px;
+        right: 8px;
+      }
+    }
+
+    /* Object labels — crisp pixel font (Chrome + Safari) */
+    .obj-label,
+    .obj-label-sm {
+      font-family: "Press Start 2P", monospace;
+      -webkit-font-smoothing: none;
+      -moz-osx-font-smoothing: unset;
+      text-rendering: optimizeSpeed;
+    }
+    .obj-label {
+      font-size: 10px;
+      color: #fbbf24;
+      background: rgba(0, 0, 0, 0.75);
+      border: 2px solid #fbbf24;
+      outline: 2px solid #fbbf24;
+      outline-offset: -2px;
+      padding: 4px 6px;
+      white-space: nowrap;
+      pointer-events: none;
+      image-rendering: pixelated;
+      image-rendering: crisp-edges;
+    }
+    .obj-label-sm {
+      font-size: 8px;
+      line-height: 1.3;
+      padding: 2px 4px;
+      border: 1px solid #fbbf24;
+      outline: none;
+    }
+    .obj-label-toly {
+      font-size: 10px;
+      line-height: 1.3;
+      padding: 3px 6px;
+      border: 1px solid #fbbf24;
+      outline: none;
+      color: #fbbf24;
+      background: rgba(0, 0, 0, 0.75);
+      white-space: nowrap;
+      pointer-events: none;
+      font-family: "Press Start 2P", monospace;
+      -webkit-font-smoothing: none;
+      -moz-osx-font-smoothing: unset;
+      text-rendering: optimizeSpeed;
+      image-rendering: pixelated;
+      image-rendering: crisp-edges;
+    }
+    .toly-speech {
+      font-family: "Press Start 2P", monospace;
+      font-size: 8px;
+      line-height: 1.5;
+      color: #e0e0e0;
+      background: #1e1e1e;
+      border: 1px solid #fbbf24;
+      padding: 5px 8px;
+      max-width: 180px;
+      pointer-events: none;
+      -webkit-font-smoothing: none;
+      -moz-osx-font-smoothing: unset;
+      position: relative;
+      overflow: visible;
+      text-align: center;
+    }
+    .toly-speech-text {
+      display: block;
+      font-size: 8px;
+      color: #e0e0e0;
+      white-space: pre-line;
+      text-align: center;
+    }
+    .toly-speech-tail {
+      position: absolute;
+      left: 50%;
+      top: 100%;
+      transform: translateX(-50%) rotate(180deg);
+      width: 0;
+      height: 0;
+      border-left: 8px solid transparent;
+      border-right: 8px solid transparent;
+      border-bottom: 10px solid #fbbf24;
+    }
+
+    /* Rock progress bar (100% scale, fill % set in JS) */
+    .rock-progress-bar {
+      width: 48px;
+      pointer-events: none;
+      overflow: visible;
+    }
+    .rock-progress-track {
+      position: relative;
+      width: 100%;
+      height: 5px;
+      background: rgba(0, 0, 0, 0.8);
+      border: 1px solid #fbbf24;
+      box-sizing: border-box;
+      overflow: visible;
+    }
+    .rock-progress-pct {
+      position: absolute;
+      left: 50%;
+      top: -100%;
+      transform: translate(-50%, -100%);
+      font-family: "Press Start 2P", monospace;
+      font-size: 8px;
+      color: #fbbf24;
+      line-height: 1;
+      white-space: nowrap;
+      z-index: 1;
+      pointer-events: none;
+      -webkit-font-smoothing: none;
+      -moz-osx-font-smoothing: unset;
+      text-rendering: optimizeSpeed;
+    }
+    .rock-progress-fill {
+      position: absolute;
+      left: 0;
+      top: 0;
+      height: 100%;
+      min-width: 0;
+      background: #fbbf24;
+      transition: width 0.15s ease-out;
+      box-sizing: border-box;
+      z-index: 0;
+    }
+
+    /* Floating mining text above player — crisp, no blur */
+    .mining-float-text {
+      position: absolute;
+      pointer-events: none;
+      z-index: 10001;
+      font-family: "Press Start 2P", monospace;
+      font-size: 10px;
+      line-height: 1;
+      white-space: nowrap;
+      transform: translate(-50%, -50%);
+      -webkit-font-smoothing: none;
+      -moz-osx-font-smoothing: unset;
+      text-rendering: optimizeSpeed;
+      text-shadow: 0 0 0 1px rgba(0,0,0,0.8);
+    }
+
+    /* Game preloader */
+    .game-preloader {
+      position: fixed;
+      inset: 0;
+      z-index: 10001;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 12px;
+      background: #1a1a1a;
+      font-family: "Press Start 2P", monospace;
+    }
+    .game-preloader.hidden { display: none !important; }
+    .game-preloader-logo {
+      width: 80px;
+      height: 80px;
+      image-rendering: pixelated;
+      image-rendering: crisp-edges;
+    }
+    .game-preloader-text {
+      font-size: 8px;
+      color: #cececf;
+    }
+    .game-preloader-dots span {
+      animation: preloader-dot 1.4s ease-in-out infinite;
+    }
+    .game-preloader-dots span:nth-child(2) { animation-delay: 0.2s; }
+    .game-preloader-dots span:nth-child(3) { animation-delay: 0.4s; }
+    @keyframes preloader-dot {
+      0%, 80%, 100% { opacity: 0.2; }
+      40% { opacity: 1; }
+    }
+  </style>
+</head>
+<body>
+  <div class="ui-scale-wrapper">
+  <div class="game-preloader hidden" id="game-preloader">
+    <img class="game-preloader-logo" src="/assets/characters/pixm.png" alt="" width="80" height="80" />
+    <div class="game-preloader-text">Loading<span class="game-preloader-dots"><span>.</span><span>.</span><span>.</span></span></div>
+  </div>
+  <header class="ui-top">
+    <div class="ui-top-left">
+      <button type="button" class="ui-top-avatar-wrap" id="ui-avatar-btn" aria-label="Backpack" title="Backpack">
+        <img class="ui-top-avatar" id="ui-top-avatar" src="/assets/characters/pixm.png" alt="" width="32" height="32" />
+      </button>
+      <div class="ui-top-info">
+        <div class="ui-top-name-level">
+          <span class="ui-top-player-name" id="ui-player-name">Pix</span>
+          <span class="ui-top-level">Lv.<span class="value" id="ui-level">1</span></span>
+        </div>
+        <div class="ui-top-resources">
+          <div class="ui-top-resource">
+            <img class="ui-top-resource-icon" id="ui-icon-gold" src="/assets/interface/gold.png" alt="" width="16" height="16" />
+            <span class="value" id="ui-gold">0</span>
+          </div>
+          <div class="ui-top-resource">
+            <img class="ui-top-resource-icon" id="ui-icon-silver" src="/assets/interface/silver.png" alt="" width="16" height="16" />
+            <span class="value" id="ui-silver">0</span>
+          </div>
+          <div class="ui-top-resource">
+            <img class="ui-top-resource-icon" id="ui-icon-bronze" src="/assets/interface/bronze.png" alt="" width="16" height="16" />
+            <span class="value" id="ui-bronze">0</span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="ui-top-right">
+      <div class="ui-top-pool">POOL: <span class="value" id="ui-pool-pfv">—</span></div>
+      <div class="ui-top-pfv"><span class="label">BALANCE:</span> <span class="value" id="ui-pfv">0</span> <span class="value ui-pfv-currency">$PFV</span></div>
+      <div class="ui-wallet-wrap">
+        <button type="button" class="ui-wallet-btn" id="ui-wallet-btn" aria-haspopup="true" aria-expanded="false"><span class="ui-wallet-btn-text">CONNECT</span><span class="ui-wallet-btn-arrow" aria-hidden="true">&#9660;</span></button>
+        <div class="ui-wallet-dropdown" id="ui-wallet-dropdown" role="menu" aria-hidden="true">
+          <button type="button" class="ui-wallet-dropdown-item" data-wallet-action="deposit">Deposit PFV</button>
+          <button type="button" class="ui-wallet-dropdown-item" data-wallet-action="claim">Request Claim</button>
+          <button type="button" class="ui-wallet-dropdown-item" data-wallet-action="copy">Copy Address</button>
+          <button type="button" class="ui-wallet-dropdown-item" data-wallet-action="disconnect">Disconnect</button>
+        </div>
+      </div>
+    </div>
+  </header>
+  <div class="ui-system-menu-bar">
+    <button type="button" class="ui-btn-system-menu" id="ui-system-menu-btn" title="System menu">SYSTEM MENU</button>
+    <a href="https://pixel-farm-valley.gitbook.io/pixel-farm-docs/play-to-earn/game-start-guide" target="_blank" rel="noopener noreferrer" class="ui-btn-guide" id="ui-guide-btn" title="Game Start Guide">START GUIDE</a>
+  </div>
+  <div id="ui-arena-hud" class="ui-arena-hud" style="display: none;"></div>
+  <div class="ui-system-overlay" id="ui-system-overlay" aria-hidden="true">
+    <div class="ui-system-popup" id="ui-system-popup" role="dialog" aria-label="System menu">
+      <div class="ui-system-popup-header">
+        <div class="ui-system-popup-title-row">
+          <img class="ui-system-popup-logo" src="/assets/characters/pixm.png" alt="" width="40" height="40" />
+          <div class="ui-system-popup-title-block">
+            <span class="ui-system-popup-title">PIXEL FARM VALLEY</span>
+            <div class="ui-system-info">
+              <span>Season: <span class="value">1</span></span>
+              <span class="sep">|</span>
+              <span>Network: <span class="value">Solana</span></span>
+              <span class="sep">|</span>
+              <span>In game: <span class="value" id="ui-system-online-count">—</span></span>
+            </div>
+          </div>
+        </div>
+        <button type="button" class="ui-system-popup-close" id="ui-system-close" aria-label="Close">&times;</button>
+      </div>
+      <div class="ui-system-popup-body">
+        <div class="ui-system-popup-links">
+          <a href="https://pixel-farm-valley.gitbook.io/pixel-farm-docs" id="ui-system-docs" target="_blank" rel="noopener noreferrer">DOCS</a>
+          <a href="https://x.com/pixelfarmvalley" id="ui-system-twitter" target="_blank" rel="noopener noreferrer">TWITTER</a>
+          <a href="https://t.me/pixelfarmvalley" id="ui-system-telegram" target="_blank" rel="noopener noreferrer">TELEGRAM</a>
+          <button type="button" class="ui-system-popup-links-btn" id="ui-logout-btn">LOGOUT</button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="ui-map-overlay" id="ui-map-overlay" aria-hidden="true">
+    <div class="ui-map-popup" id="ui-map-popup" role="dialog" aria-label="Map">
+      <div class="ui-map-popup-header">
+        <span class="ui-map-popup-title">MAP</span>
+        <button type="button" class="ui-map-popup-close" id="ui-map-close" aria-label="Close">&times;</button>
+      </div>
+      <div class="ui-map-popup-body">
+        <canvas id="map-window-canvas" width="520" height="400"></canvas>
+      </div>
+    </div>
+  </div>
+  <div class="ui-bottom-bar">
+    <div class="ui-bottom-bar-left">
+      <div class="ui-minimap" aria-label="Minimap">
+        <div class="ui-minimap-inner">
+          <canvas id="minimap-canvas" width="112" height="112"></canvas>
+        </div>
+      </div>
+      <div class="ui-actions" id="ui-actions-bar">
+      <div class="ui-actions-trigger" id="ui-last-action" title="Click to expand/collapse">
+        <span class="ui-actions-label">Last: —</span>
+        <span class="ui-actions-arrow">▲</span>
+      </div>
+      <div class="ui-actions-console" id="ui-actions-console" aria-label="Action history">
+      </div>
+    </div>
+    </div>
+    <div class="ui-bottom-bar-right">
+      <div class="ui-joystick" id="ui-joystick" aria-label="Movement joystick">
+        <div class="ui-joystick-track" id="ui-joystick-track">
+          <div class="ui-joystick-stick" id="ui-joystick-stick"></div>
+        </div>
+      </div>
+      <div class="ui-chat-wrap">
+      <div class="ui-chat-panel" id="ui-chat-panel" aria-label="Chat">
+        <div class="ui-chat-panel-title">CHAT</div>
+        <div class="ui-chat-panel-messages" id="ui-chat-panel-messages">
+          <div class="ui-chat-msg ui-chat-msg-system">Loading...</div>
+        </div>
+        <div class="ui-chat-panel-input-wrap">
+          <input type="text" class="ui-chat-panel-input" placeholder="Type a message..." disabled />
+        </div>
+      </div>
+      <button type="button" class="ui-btn-chat" id="ui-chat-btn">CHAT</button>
+    </div>
+    </div>
+  </div>
+  </div>
+  <main class="game-wrapper">
+    <div id="game-container"></div>
+  </main>
+  <footer class="ui-bottom">
+    <div class="ui-bottom-left"><span class="hint hint-desktop">WASD / ARROWS — move</span><span class="hint hint-mobile">Tap to move</span></div>
+    <div class="ui-bottom-right ui-bottom-sound-area"><span class="ui-bottom-sound" id="ui-sound-toggle" role="button" tabindex="0" aria-label="Toggle sound">SOUND: ON</span><span class="ui-volume-wrap" aria-label="Volume"><span class="ui-volume-icon" aria-hidden="true"><svg width="14" height="12" viewBox="0 0 14 12" fill="currentColor"><rect x="0" y="4" width="4" height="4"/><rect x="4" y="3" width="3" height="6"/><rect x="7" y="2" width="3" height="8"/><rect x="10" y="1" width="3" height="10"/></svg></span><input type="range" class="ui-volume-slider" id="ui-volume-slider" min="0" max="100" value="35" aria-label="Volume level"/></span><span class="ui-bottom-timer"><span class="value" id="ui-days">0</span>D <span class="value" id="ui-hours">0</span>H <span class="value" id="ui-minutes">0</span>M <span class="value" id="ui-seconds">0</span>S</span></div>
+  </footer>
+  <script type="module" src="/src/main.ts"></script>
+  <script>
+    document.getElementById('ui-last-action').addEventListener('click', function () {
+      var bar = document.getElementById('ui-actions-bar');
+      var consoleEl = document.getElementById('ui-actions-console');
+      consoleEl.classList.toggle('open');
+      bar.classList.toggle('open', consoleEl.classList.contains('open'));
+    });
+    (function () {
+      var btn = document.getElementById('ui-system-menu-btn');
+      var overlay = document.getElementById('ui-system-overlay');
+      var closeBtn = document.getElementById('ui-system-close');
+      function openSystemMenu() {
+        if (overlay) {
+          overlay.classList.add('open');
+          overlay.setAttribute('aria-hidden', 'false');
+        }
+      }
+      function closeSystemMenu() {
+        if (overlay) {
+          overlay.classList.remove('open');
+          overlay.setAttribute('aria-hidden', 'true');
+        }
+      }
+      if (btn) btn.addEventListener('click', function () {
+        if (overlay && overlay.classList.contains('open')) closeSystemMenu();
+        else openSystemMenu();
+      });
+      if (closeBtn) closeBtn.addEventListener('click', closeSystemMenu);
+      if (overlay) {
+        overlay.addEventListener('click', function (e) {
+          if (e.target === overlay) closeSystemMenu();
+        });
+        document.addEventListener('keydown', function (e) {
+          if (e.key === 'Escape' && overlay.classList.contains('open')) closeSystemMenu();
+        });
+      }
+    })();
+    (function () {
+      var mapOverlay = document.getElementById('ui-map-overlay');
+      var mapClose = document.getElementById('ui-map-close');
+      var mapCanvas = document.getElementById('map-window-canvas');
+      var minimapEl = document.querySelector('.ui-minimap-inner');
+      function openMapWindow() {
+        if (mapOverlay) {
+          mapOverlay.classList.add('open');
+          mapOverlay.setAttribute('aria-hidden', 'false');
+        }
+        if (mapCanvas && typeof window.__drawFullMap === 'function') window.__drawFullMap(mapCanvas);
+      }
+      function closeMapWindow() {
+        if (mapOverlay) {
+          mapOverlay.classList.remove('open');
+          mapOverlay.setAttribute('aria-hidden', 'true');
+        }
+      }
+      if (minimapEl) minimapEl.addEventListener('click', openMapWindow);
+      if (mapClose) mapClose.addEventListener('click', closeMapWindow);
+      if (mapOverlay) {
+        mapOverlay.addEventListener('click', function (e) {
+          if (e.target === mapOverlay) closeMapWindow();
+        });
+        document.addEventListener('keydown', function (e) {
+          if (e.key === 'Escape' && mapOverlay.classList.contains('open')) closeMapWindow();
+        });
+      }
+    })();
+    (function () {
+      window.__joystickDir = { x: 0, y: 0 };
+      var track = document.getElementById('ui-joystick-track');
+      var stick = document.getElementById('ui-joystick-stick');
+      if (!track || !stick) return;
+      var active = false;
+      var trackRect = { left: 0, top: 0, width: 0, height: 0 };
+      var centerX = 0, centerY = 0, radius = 0;
+      var deadzone = 0.25;
+      function getTrackRect() {
+        var r = track.getBoundingClientRect();
+        trackRect = { left: r.left, top: r.top, width: r.width, height: r.height };
+        centerX = trackRect.left + trackRect.width / 2;
+        centerY = trackRect.top + trackRect.height / 2;
+        radius = Math.min(trackRect.width, trackRect.height) / 2 - 4;
+      }
+      function setStick(px, py) {
+        var dx = (px - centerX) / radius;
+        var dy = (py - centerY) / radius;
+        var len = Math.sqrt(dx * dx + dy * dy);
+        if (len > 1) { dx /= len; dy /= len; }
+        stick.style.transform = 'translate(' + (dx * radius * 0.7) + 'px, ' + (dy * radius * 0.7) + 'px)';
+        var x = 0, y = 0;
+        if (Math.abs(dx) > deadzone) x = dx > 0 ? 1 : -1;
+        if (Math.abs(dy) > deadzone) y = dy > 0 ? 1 : -1;
+        if (window.__joystickDir) { window.__joystickDir.x = x; window.__joystickDir.y = y; }
+      }
+      function resetStick() {
+        active = false;
+        track.classList.remove('joystick-active');
+        stick.style.transform = '';
+        if (window.__joystickDir) { window.__joystickDir.x = 0; window.__joystickDir.y = 0; }
+      }
+      track.addEventListener('pointerdown', function (e) {
+        e.preventDefault();
+        track.setPointerCapture(e.pointerId);
+        getTrackRect();
+        active = true;
+        track.classList.add('joystick-active');
+        setStick(e.clientX, e.clientY);
+      });
+      track.addEventListener('pointermove', function (e) {
+        if (!active) return;
+        setStick(e.clientX, e.clientY);
+      });
+      track.addEventListener('pointerup', resetStick);
+      track.addEventListener('pointerleave', resetStick);
+      track.addEventListener('pointercancel', resetStick);
+    })();
+  </script>
+</body>
+</html>

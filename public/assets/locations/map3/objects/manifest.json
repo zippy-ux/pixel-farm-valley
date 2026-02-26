@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "totalObjects": 1,
+  "objects": [
+    {
+      "id": "d5adc2fc-c170-4caf-89bc-4ac1acdb4f02",
+      "name": "Object 0",
+      "filename": "d5adc2fc-c170-4caf-89bc-4ac1acdb4f02.png",
+      "boundingBox": {
+        "x": 337.5,
+        "y": 118.5,
+        "width": 829,
+        "height": 629
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: bg2.png",
+      "metadata": {
+        "generatedAt": "2026-02-12T11:47:09.534Z"
+      },
+      "isProgress": false
+    }
+  ]
+}

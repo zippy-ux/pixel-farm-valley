@@ -1,0 +1,455 @@
+/* Player window — larger fonts, 5x3 grid, fixed panel height */
+
+.backpack-window-overlay.player-window-overlay {
+  display: none;
+  position: fixed;
+  inset: 0;
+  z-index: 10000;
+  align-items: center;
+  justify-content: center;
+  background: rgba(0, 0, 0, 0.6);
+  font-family: "Press Start 2P", monospace;
+}
+
+.player-window {
+  width: min(400px, 94vw);
+  max-height: 90vh;
+  overflow-y: auto;
+}
+
+.player-window-body {
+  padding: 14px 16px 18px;
+}
+
+.player-top {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 14px;
+}
+
+.player-avatar-wrap {
+  width: 52px;
+  height: 52px;
+  border-radius: 50%;
+  overflow: hidden;
+  border: 2px solid #fbbf24;
+  background: #252525;
+  flex-shrink: 0;
+}
+
+.player-avatar {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.player-name {
+  font-size: 12px;
+  color: #e0e0e0;
+}
+
+.player-level-row {
+  margin-bottom: 10px;
+}
+
+.player-level-label {
+  font-size: 10px;
+  color: #e0e0e0;
+  display: block;
+  margin-bottom: 6px;
+}
+
+.player-level-label .value,
+.player-level-label span:not(.player-level-label) { color: #fbbf24; }
+
+.player-xp-bar-wrap {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+}
+
+.player-xp-bar-track {
+  flex: 1;
+  min-width: 0;
+  height: 10px;
+  background: #1a1a1a;
+  border: 1px solid #444;
+  border-radius: 2px;
+  overflow: hidden;
+}
+
+.player-xp-bar-fill {
+  height: 100%;
+  background: #fbbf24;
+  transition: width 0.2s ease;
+}
+
+.player-xp-text {
+  font-size: 8px;
+  color: #888;
+  white-space: nowrap;
+  min-width: 72px;
+  text-align: right;
+}
+
+.player-hp-row {
+  margin-bottom: 14px;
+}
+
+.player-hp-bar-wrap {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+}
+
+.player-hp-bar-track {
+  flex: 1;
+  min-width: 0;
+  height: 8px;
+  background: #1a1a1a;
+  border: 1px solid #444;
+  border-radius: 2px;
+  overflow: hidden;
+}
+
+.player-hp-bar-fill {
+  height: 100%;
+  background: #22c55e;
+  transition: width 0.2s ease;
+}
+
+.player-hp-text {
+  font-size: 8px;
+  color: #888;
+  white-space: nowrap;
+  min-width: 72px;
+  text-align: right;
+}
+
+.player-stats {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+  margin-bottom: 14px;
+  font-size: 8px;
+  color: #cececf;
+}
+
+.player-stat {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  min-height: 24px;
+  padding: 4px 0;
+  border-bottom: 1px solid #333;
+}
+
+.player-stat:last-child { border-bottom: none; }
+
+.player-stat-label { color: #e0e0e0; }
+.player-stat-value { color: #fbbf24; }
+
+.player-tabs {
+  display: flex;
+  gap: 0;
+  margin-bottom: 12px;
+  border-bottom: 2px solid #444;
+}
+
+.player-tab {
+  font-family: "Press Start 2P", monospace;
+  font-size: 8px;
+  padding: 8px 12px;
+  border: 2px solid transparent;
+  border-bottom: none;
+  background: #2d2d2d;
+  color: #e0e0e0;
+  cursor: pointer;
+}
+
+.player-tab:hover { color: #e0e0e0; }
+.player-tab.active {
+  background: #1e1e1e;
+  color: #fbbf24;
+  border-color: #fbbf24;
+  margin-bottom: -2px;
+  padding-bottom: 10px;
+}
+
+/* Fixed height so window does not resize when switching tabs */
+.player-tab-panel {
+  min-height: 200px;
+}
+
+.player-tab-panel.hidden {
+  display: none !important;
+}
+
+/* Settings tab */
+.settings-section {
+  margin-bottom: 18px;
+}
+.settings-section.hidden {
+  display: none !important;
+}
+.settings-section-title {
+  font-size: 10px;
+  color: #fbbf24;
+  margin-bottom: 10px;
+}
+.settings-hint,
+.settings-format-hint {
+  font-size: 6px;
+  color: #888;
+  margin: 0 0 8px;
+}
+.settings-hint.hidden {
+  display: none !important;
+}
+.settings-form.hidden {
+  display: none !important;
+}
+.settings-form {
+  margin-top: 8px;
+}
+.settings-label {
+  display: block;
+  font-size: 6px;
+  color: #aaa;
+  margin-bottom: 4px;
+}
+.settings-input {
+  display: block;
+  width: 100%;
+  box-sizing: border-box;
+  margin-bottom: 10px;
+  padding: 8px 10px;
+  font-family: "Press Start 2P", monospace;
+  font-size: 8px;
+  border: 2px solid #444;
+  border-radius: 4px;
+  background: #1a1a1a;
+  color: #e0e0e0;
+}
+.settings-error {
+  font-size: 6px;
+  color: #f87171;
+  margin-bottom: 8px;
+  min-height: 1em;
+}
+.settings-avatar-row {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin-top: 10px;
+}
+.settings-avatar-preview {
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid #22c55e;
+  background: #252525;
+}
+.settings-file-input {
+  font-size: 8px;
+  margin-bottom: 8px;
+  display: block;
+}
+
+/* Backpack tab */
+.backpack-top-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 12px;
+  font-size: 8px;
+  color: #e0e0e0;
+}
+
+.backpack-count { color: #fbbf24; }
+
+.backpack-pfv-row { color: #e0e0e0; }
+.backpack-pfv-row .backpack-pfv-value { color: #22c55e; }
+.backpack-pfv-reserved { color: #fbbf24 !important; }
+
+.backpack-grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 8px;
+}
+
+.backpack-cell {
+  position: relative;
+  aspect-ratio: 1;
+  min-width: 0;
+  min-height: 0;
+  background: #2d2d2d;
+  border: 2px solid #444;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+}
+
+.backpack-cell-icon {
+  display: block;
+  image-rendering: pixelated;
+  image-rendering: crisp-edges;
+  max-width: 40px;
+  max-height: 40px;
+}
+
+.backpack-cell-tool { cursor: help; }
+
+.backpack-cell-count {
+  position: absolute;
+  right: 3px;
+  bottom: 2px;
+  font-size: 8px;
+  color: #fff;
+  text-shadow: 0 0 2px #000, 0 1px 2px #000;
+}
+
+/* Tooltip next to icon */
+.player-tooltip {
+  position: fixed;
+  z-index: 10001;
+  width: 220px;
+  box-sizing: border-box;
+  padding: 10px 12px;
+  font-size: 8px;
+  line-height: 1.6;
+  color: #e0e0e0;
+  background: #1e1e1e;
+  border: 2px solid #fbbf24;
+  pointer-events: none;
+}
+
+.player-tooltip .tooltip-line1 { display: block; margin-bottom: 4px; }
+.player-tooltip .tooltip-lv { color: #fbbf24; }
+.player-tooltip .tooltip-line2 { display: block; color: #fbbf24; }
+
+.player-tooltip.hidden {
+  display: none !important;
+}
+
+/* Referrals tab */
+.referrals-count {
+  font-size: 8px;
+  color: #e0e0e0;
+  margin-bottom: 20px;
+}
+
+.referrals-count span { color: #fbbf24; }
+
+.referrals-link-wrap {
+  margin-bottom: 14px;
+}
+
+.referrals-link-row {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+
+.referrals-link-row .referrals-link-input {
+  flex: 1;
+  min-width: 0;
+}
+
+.referrals-btn-copy {
+  flex-shrink: 0;
+}
+
+.referrals-link-label {
+  display: block;
+  font-size: 8px;
+  color: #e0e0e0;
+  margin-bottom: 6px;
+}
+
+.referrals-link-input {
+  width: 100%;
+  box-sizing: border-box;
+  font-family: "Press Start 2P", monospace;
+  font-size: 8px;
+  padding: 8px 10px;
+  border: 2px solid #444;
+  background: #1a1a1a;
+  color: #e0e0e0;
+}
+
+.referrals-actions {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.referrals-btn {
+  font-family: "Press Start 2P", monospace;
+  font-size: 8px;
+  padding: 10px 14px;
+  border: 2px solid #fbbf24;
+  background: #2d2d2d;
+  color: #fbbf24;
+  cursor: pointer;
+}
+
+.referrals-btn:hover {
+  background: #3d3d3d;
+  color: #e0e0e0;
+}
+
+.referrals-list-wrap {
+  margin-top: 16px;
+}
+
+.referrals-list-label {
+  font-size: 8px;
+  color: #e0e0e0;
+  margin-bottom: 8px;
+}
+
+.referrals-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  font-size: 8px;
+  color: #b0b0b0;
+  max-height: 120px;
+  overflow-y: auto;
+}
+
+.referrals-list-empty {
+  font-style: italic;
+  color: #666;
+}
+
+.referrals-list-item {
+  padding: 4px 0;
+  border-bottom: 1px solid #2a2a2a;
+  display: flex;
+  justify-content: space-between;
+  gap: 8px;
+}
+
+.referrals-list-user {
+  color: #fbbf24;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  text-decoration: none;
+}
+.referrals-list-user:hover {
+  text-decoration: underline;
+  color: #e0e0e0;
+}
+
+.referrals-list-date {
+  flex-shrink: 0;
+  color: #888;
+}
+

@@ -1,0 +1,102 @@
+/* Wallet picker modal — game style */
+.wallet-picker-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 10002;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "Press Start 2P", monospace;
+}
+.wallet-picker-overlay.hidden {
+  display: none !important;
+}
+.wallet-picker-backdrop {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.7);
+  cursor: pointer;
+}
+.wallet-picker-inner {
+  position: relative;
+  padding: 24px 28px 28px;
+  background: #1e1e1e;
+  border: 3px solid #fbbf24;
+  box-shadow: 0 0 0 2px #d4a014;
+  min-width: 280px;
+}
+.wallet-picker-close {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  width: 28px;
+  height: 28px;
+  padding: 0;
+  border: none;
+  background: transparent;
+  color: #e0e0e0;
+  font-size: 22px;
+  line-height: 1;
+  cursor: pointer;
+}
+.wallet-picker-close:hover {
+  color: #fff;
+}
+.wallet-picker-title {
+  font-size: 12px;
+  color: #fbbf24;
+  margin: 0 0 8px;
+}
+.wallet-picker-sub {
+  font-size: 7px;
+  color: #a0a0a0;
+  margin: 0 0 16px;
+}
+.wallet-picker-error {
+  font-size: 7px;
+  color: #ef4444;
+  margin-bottom: 12px;
+  line-height: 1.4;
+  word-break: break-word;
+}
+.wallet-picker-list {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-bottom: 16px;
+}
+.wallet-picker-item {
+  font-family: "Press Start 2P", monospace;
+  font-size: 8px;
+  padding: 12px 16px;
+  border: 2px solid #444;
+  background: #252525;
+  color: #e0e0e0;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  text-align: left;
+}
+.wallet-picker-item:hover {
+  border-color: #fbbf24;
+  background: #2d2d2d;
+  color: #fbbf24;
+}
+.wallet-picker-item-name {
+  flex: 1;
+}
+.wallet-picker-item-status {
+  font-size: 6px;
+  color: #22c55e;
+}
+.wallet-picker-item-status.unavailable {
+  color: #6b7280;
+}
+.wallet-picker-hint {
+  font-size: 6px;
+  color: #6b7280;
+  margin: 0;
+  line-height: 1.5;
+}

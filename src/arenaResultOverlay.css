@@ -1,0 +1,22 @@
+/* Arena result overlay — same design as mine window */
+.arena-result-overlay {
+  align-items: center;
+  justify-content: center;
+}
+
+.arena-result-window {
+  text-align: center;
+}
+
+.arena-result-title {
+  margin: 0;
+  font-size: 14px;
+}
+
+.arena-result-sub {
+  font-size: 10px;
+  color: #cececf;
+  margin: 12px 0 16px;
+  line-height: 1.6;
+  white-space: pre-line;
+}

@@ -1,0 +1,4433 @@
+{
+  "version": "1.0.0",
+  "totalObjects": 233,
+  "objects": [
+    {
+      "id": "27a7fbdb-a374-4cee-ab32-9deac0f6b840",
+      "name": "Home",
+      "filename": "27a7fbdb-a374-4cee-ab32-9deac0f6b840.png",
+      "boundingBox": {
+        "x": 1468.5,
+        "y": 78.5,
+        "width": 191,
+        "height": 171
+      },
+      "layer": 32,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: house.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T19:22:32.475Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "43511419-587f-4fe2-ad6c-f8fd779d6972",
+      "name": "Farm (Locked)",
+      "filename": "43511419-587f-4fe2-ad6c-f8fd779d6972.png",
+      "boundingBox": {
+        "x": 310,
+        "y": 424,
+        "width": 114,
+        "height": 161
+      },
+      "layer": 16,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: pixellab-Pixel-art-square-farm-plot-obj-1769801589414 (1).png",
+      "metadata": {
+        "generatedAt": "2026-01-30T19:35:16.941Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "e0ee0f22-0e35-4aef-b793-656c44539174",
+      "name": "Object 0",
+      "filename": "e0ee0f22-0e35-4aef-b793-656c44539174.png",
+      "boundingBox": {
+        "x": 1059,
+        "y": 922,
+        "width": 59,
+        "height": 43
+      },
+      "layer": 15,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: pixellab-Pixel-art-wooden-bridge-object-1769802934326\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T20:09:08.861Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "05ab727b-a63f-46b4-ad64-162c48875c78",
+      "name": "Object 0",
+      "filename": "05ab727b-a63f-46b4-ad64-162c48875c78.png",
+      "boundingBox": {
+        "x": 563.5,
+        "y": 372,
+        "width": 56,
+        "height": 45
+      },
+      "layer": 15,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: pixellab-Pixel-art-wooden-bridge-object-1769802934326\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f 2.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T20:10:58.284Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "c9f59527-ed16-404b-882b-648509362b17",
+      "name": "Market",
+      "filename": "c9f59527-ed16-404b-882b-648509362b17.png",
+      "boundingBox": {
+        "x": 660,
+        "y": 98,
+        "width": 187,
+        "height": 166
+      },
+      "layer": 15,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: pixellab-Pixel-art-trading-shop-object--1769802687861 (1)\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T20:33:37.097Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "c8686ee0-6813-44f7-a53a-0c8a9bf9d888",
+      "name": "Object 0",
+      "filename": "c8686ee0-6813-44f7-a53a-0c8a9bf9d888.png",
+      "boundingBox": {
+        "x": 1442.5,
+        "y": 138,
+        "width": 46,
+        "height": 37
+      },
+      "layer": 25,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: flower1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T21:13:29.333Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "a2a29e9d-550a-46ce-a19f-997cf6d4dd69",
+      "name": "Object 0",
+      "filename": "a2a29e9d-550a-46ce-a19f-997cf6d4dd69.png",
+      "boundingBox": {
+        "x": 1443.5,
+        "y": 216.5,
+        "width": 40,
+        "height": 24
+      },
+      "layer": 54,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: st3.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T21:13:30.951Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "e6e2219a-f403-47dd-a8a9-bbe8a073c283",
+      "name": "Object 0",
+      "filename": "e6e2219a-f403-47dd-a8a9-bbe8a073c283.png",
+      "boundingBox": {
+        "x": 536.5,
+        "y": 539.5,
+        "width": 41,
+        "height": 35
+      },
+      "layer": 27,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: st2.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T21:13:32.969Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "3a6cfe27-c84f-4bb9-ba9b-dd27dbe20a75",
+      "name": "Object 0",
+      "filename": "3a6cfe27-c84f-4bb9-ba9b-dd27dbe20a75.png",
+      "boundingBox": {
+        "x": 287.5,
+        "y": 433.5,
+        "width": 68,
+        "height": 32
+      },
+      "layer": 13,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: erth1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T21:13:34.749Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "2973e48d-890d-4444-a6b6-22cd2f59037d",
+      "name": "Object 0",
+      "filename": "2973e48d-890d-4444-a6b6-22cd2f59037d.png",
+      "boundingBox": {
+        "x": 1658.5,
+        "y": 605,
+        "width": 44,
+        "height": 65
+      },
+      "layer": 30,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: t2.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T21:13:40.714Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "738f7051-1eb8-45b6-86a8-05bdc4815975",
+      "name": "Object 0",
+      "filename": "738f7051-1eb8-45b6-86a8-05bdc4815975.png",
+      "boundingBox": {
+        "x": 286,
+        "y": 360,
+        "width": 29,
+        "height": 25
+      },
+      "layer": 34,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl3.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T21:16:22.136Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "b01f893a-849f-4151-afa3-6a9202a26b58",
+      "name": "Object 0",
+      "filename": "b01f893a-849f-4151-afa3-6a9202a26b58.png",
+      "boundingBox": {
+        "x": 1224,
+        "y": 364.5,
+        "width": 35,
+        "height": 30
+      },
+      "layer": 35,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl2.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T21:16:24.716Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "da9ca0d8-ebf8-4c8d-b1a1-d8d8b8f28833",
+      "name": "Object 0",
+      "filename": "da9ca0d8-ebf8-4c8d-b1a1-d8d8b8f28833.png",
+      "boundingBox": {
+        "x": 271.5,
+        "y": 48,
+        "width": 298,
+        "height": 248
+      },
+      "layer": 28,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: mountain (1).png",
+      "metadata": {
+        "generatedAt": "2026-01-30T21:37:37.257Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "15c8508c-82e1-4321-b8af-1c9fa87513d7",
+      "name": "Object 0 (Copy)",
+      "filename": "15c8508c-82e1-4321-b8af-1c9fa87513d7.png",
+      "boundingBox": {
+        "x": 742,
+        "y": 112.5,
+        "width": 72,
+        "height": 43
+      },
+      "layer": 11,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: st1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T21:56:16.159Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "a90bb668-07ce-482d-bad7-d127a3e80d7e",
+      "name": "Object 0 (Copy) (Copy)",
+      "filename": "a90bb668-07ce-482d-bad7-d127a3e80d7e.png",
+      "boundingBox": {
+        "x": 779.5,
+        "y": 129,
+        "width": 72,
+        "height": 43
+      },
+      "layer": 11,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: st1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T21:56:21.196Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "a382d45a-409f-4d35-b855-bc776152d396",
+      "name": "Object 0 (Copy) (Copy)",
+      "filename": "a382d45a-409f-4d35-b855-bc776152d396.png",
+      "boundingBox": {
+        "x": 627.5,
+        "y": 173.5,
+        "width": 72,
+        "height": 43
+      },
+      "layer": 13,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: st1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T21:56:56.225Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "805e4eba-69ef-4cb9-bb6b-899382821048",
+      "name": "Object 0 (Copy) (Copy) (Copy)",
+      "filename": "805e4eba-69ef-4cb9-bb6b-899382821048.png",
+      "boundingBox": {
+        "x": 613.5,
+        "y": 187,
+        "width": 72,
+        "height": 43
+      },
+      "layer": 13,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: st1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T21:57:10.655Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "7e9f6c75-26df-43f5-87f5-3c8f4ec6137f",
+      "name": "Object 0",
+      "filename": "7e9f6c75-26df-43f5-87f5-3c8f4ec6137f.png",
+      "boundingBox": {
+        "x": 1359,
+        "y": 48,
+        "width": 545,
+        "height": 309
+      },
+      "layer": 2,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: moun4 (1).png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:01:12.809Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "12f67628-29e0-4c98-914a-8ff5954bb8c7",
+      "name": "Object 0 (Copy)",
+      "filename": "12f67628-29e0-4c98-914a-8ff5954bb8c7.png",
+      "boundingBox": {
+        "x": 1252,
+        "y": 364.5,
+        "width": 35,
+        "height": 30
+      },
+      "layer": 35,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl2.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:11:05.856Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "d0a96a9b-aa90-4322-8f1b-1d4bc9273e45",
+      "name": "Object 0 (Copy) (Copy)",
+      "filename": "d0a96a9b-aa90-4322-8f1b-1d4bc9273e45.png",
+      "boundingBox": {
+        "x": 1276,
+        "y": 365.5,
+        "width": 35,
+        "height": 30
+      },
+      "layer": 35,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl2.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:11:07.529Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "4f5fc95d-e9f9-4812-86e6-b6bb9c379d19",
+      "name": "Object 0 (Copy) (Copy) (Copy)",
+      "filename": "4f5fc95d-e9f9-4812-86e6-b6bb9c379d19.png",
+      "boundingBox": {
+        "x": 1303,
+        "y": 365.5,
+        "width": 35,
+        "height": 30
+      },
+      "layer": 35,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl2.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:11:07.764Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "d1d3d742-7c00-4bae-99b1-7bff3d7d75f2",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy)",
+      "filename": "d1d3d742-7c00-4bae-99b1-7bff3d7d75f2.png",
+      "boundingBox": {
+        "x": 1331,
+        "y": 366.5,
+        "width": 35,
+        "height": 30
+      },
+      "layer": 35,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl2.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:11:07.952Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "6d98fe48-b723-4dd8-8dc2-061ded2811d9",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "6d98fe48-b723-4dd8-8dc2-061ded2811d9.png",
+      "boundingBox": {
+        "x": 1334,
+        "y": 377.5,
+        "width": 35,
+        "height": 30
+      },
+      "layer": 35,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl2.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:11:08.638Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "0d10fed4-ad71-4c97-89c0-fcb57f98ee90",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "0d10fed4-ad71-4c97-89c0-fcb57f98ee90.png",
+      "boundingBox": {
+        "x": 1223,
+        "y": 380.5,
+        "width": 35,
+        "height": 30
+      },
+      "layer": 35,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl2.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:11:09.057Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "c15d97bd-d582-48b9-b0ae-7f16d0873107",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "c15d97bd-d582-48b9-b0ae-7f16d0873107.png",
+      "boundingBox": {
+        "x": 1256,
+        "y": 381.5,
+        "width": 35,
+        "height": 30
+      },
+      "layer": 35,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl2.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:11:24.812Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "44667944-8e66-403c-b47d-26d6b07699a1",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "44667944-8e66-403c-b47d-26d6b07699a1.png",
+      "boundingBox": {
+        "x": 1286,
+        "y": 383.5,
+        "width": 35,
+        "height": 30
+      },
+      "layer": 35,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl2.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:11:25.201Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "62144765-864a-43f0-bd84-1f21efa32251",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "62144765-864a-43f0-bd84-1f21efa32251.png",
+      "boundingBox": {
+        "x": 1309,
+        "y": 382.5,
+        "width": 35,
+        "height": 30
+      },
+      "layer": 35,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl2.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:11:25.554Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "3b48bdff-b070-4f16-8902-41d312c999b2",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "3b48bdff-b070-4f16-8902-41d312c999b2.png",
+      "boundingBox": {
+        "x": 1334,
+        "y": 392.5,
+        "width": 35,
+        "height": 30
+      },
+      "layer": 35,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl2.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:11:25.887Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "7bc1ceea-4666-493b-a0e0-adc539446f71",
+      "name": "Object 0 (Copy)",
+      "filename": "7bc1ceea-4666-493b-a0e0-adc539446f71.png",
+      "boundingBox": {
+        "x": 315,
+        "y": 324,
+        "width": 29,
+        "height": 25
+      },
+      "layer": 34,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl3.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:11:41.759Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "6cc137d6-d7f4-474f-91b2-04f1244b75c6",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "6cc137d6-d7f4-474f-91b2-04f1244b75c6.png",
+      "boundingBox": {
+        "x": 1221,
+        "y": 393.5,
+        "width": 35,
+        "height": 30
+      },
+      "layer": 35,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl2.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:11:54.220Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "0aee4664-1736-4df7-94c1-0eed16639ffb",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "0aee4664-1736-4df7-94c1-0eed16639ffb.png",
+      "boundingBox": {
+        "x": 1251,
+        "y": 401.5,
+        "width": 35,
+        "height": 30
+      },
+      "layer": 35,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl2.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:11:54.938Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "bf915db9-55f0-49fc-a6bc-ab0e7b2fb612",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "bf915db9-55f0-49fc-a6bc-ab0e7b2fb612.png",
+      "boundingBox": {
+        "x": 1277,
+        "y": 401.5,
+        "width": 35,
+        "height": 30
+      },
+      "layer": 35,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl2.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:11:55.196Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "9bc736e5-3c2b-48b3-ba96-e8586dda7de9",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "9bc736e5-3c2b-48b3-ba96-e8586dda7de9.png",
+      "boundingBox": {
+        "x": 1311,
+        "y": 403.5,
+        "width": 35,
+        "height": 30
+      },
+      "layer": 35,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl2.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:11:55.388Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "2ae93498-159d-47e5-8ca4-664de882f34d",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "2ae93498-159d-47e5-8ca4-664de882f34d.png",
+      "boundingBox": {
+        "x": 1338,
+        "y": 402.5,
+        "width": 35,
+        "height": 30
+      },
+      "layer": 35,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl2.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:11:55.576Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "821dc9d4-c842-4531-8727-8a107ce273cc",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "821dc9d4-c842-4531-8727-8a107ce273cc.png",
+      "boundingBox": {
+        "x": 1224,
+        "y": 402.5,
+        "width": 35,
+        "height": 30
+      },
+      "layer": 35,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl2.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:11:55.778Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "e7a16b52-d459-42cb-b5e9-11ca4a4d5ef0",
+      "name": "Object 0 (Copy)",
+      "filename": "e7a16b52-d459-42cb-b5e9-11ca4a4d5ef0.png",
+      "boundingBox": {
+        "x": 1693,
+        "y": 323,
+        "width": 37,
+        "height": 23
+      },
+      "layer": 34,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: st8.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:13:02.815Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "5580e350-5377-4008-a158-6af0f745cb53",
+      "name": "Object 0 (Copy)",
+      "filename": "5580e350-5377-4008-a158-6af0f745cb53.png",
+      "boundingBox": {
+        "x": 1661,
+        "y": 386,
+        "width": 37,
+        "height": 23
+      },
+      "layer": 32,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: st8.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:13:08.756Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "9d2ff1bc-1ddd-4179-a498-d64a9e07f1eb",
+      "name": "Object 0 (Copy) (Copy)",
+      "filename": "9d2ff1bc-1ddd-4179-a498-d64a9e07f1eb.png",
+      "boundingBox": {
+        "x": 1789,
+        "y": 386,
+        "width": 37,
+        "height": 23
+      },
+      "layer": 32,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: st8.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:13:09.191Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "6c8e2899-9b90-4c26-91e5-deba95bc9d92",
+      "name": "Object 0 (Copy) (Copy) (Copy)",
+      "filename": "6c8e2899-9b90-4c26-91e5-deba95bc9d92.png",
+      "boundingBox": {
+        "x": 1789,
+        "y": 453,
+        "width": 37,
+        "height": 23
+      },
+      "layer": 32,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: st8.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:13:09.427Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "ea0e9b9e-e19c-4ffb-b725-958b4e859428",
+      "name": "Object 0 (Copy)",
+      "filename": "ea0e9b9e-e19c-4ffb-b725-958b4e859428.png",
+      "boundingBox": {
+        "x": 281.5,
+        "y": 453.5,
+        "width": 68,
+        "height": 32
+      },
+      "layer": 13,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: erth1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:13:49.864Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "5e40628a-0c36-496b-8b76-e188d3de934d",
+      "name": "Object 0 (Copy) (Copy)",
+      "filename": "5e40628a-0c36-496b-8b76-e188d3de934d.png",
+      "boundingBox": {
+        "x": 292.5,
+        "y": 475.5,
+        "width": 68,
+        "height": 32
+      },
+      "layer": 13,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: erth1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:13:50.275Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "58fd5761-dc8c-4dd0-993d-166341ec00da",
+      "name": "Object 0 (Copy) (Copy) (Copy)",
+      "filename": "58fd5761-dc8c-4dd0-993d-166341ec00da.png",
+      "boundingBox": {
+        "x": 288.5,
+        "y": 495.5,
+        "width": 68,
+        "height": 32
+      },
+      "layer": 13,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: erth1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:13:51.761Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "e893e958-9ec9-4239-b2c6-8ac3c194bd3c",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy)",
+      "filename": "e893e958-9ec9-4239-b2c6-8ac3c194bd3c.png",
+      "boundingBox": {
+        "x": 284.5,
+        "y": 517.5,
+        "width": 68,
+        "height": 32
+      },
+      "layer": 13,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: erth1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:13:51.979Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "df37d2fd-a5fd-4df6-8979-9bc53353e0a9",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "df37d2fd-a5fd-4df6-8979-9bc53353e0a9.png",
+      "boundingBox": {
+        "x": 299.5,
+        "y": 539.5,
+        "width": 68,
+        "height": 32
+      },
+      "layer": 13,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: erth1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:13:52.130Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "128231a5-adc5-480a-95e0-c66d0b955169",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "128231a5-adc5-480a-95e0-c66d0b955169.png",
+      "boundingBox": {
+        "x": 369.5,
+        "y": 434.5,
+        "width": 68,
+        "height": 32
+      },
+      "layer": 13,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: erth1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:13:52.318Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "f594b9b6-f6f8-4690-88e4-af150a0fb2fe",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "f594b9b6-f6f8-4690-88e4-af150a0fb2fe.png",
+      "boundingBox": {
+        "x": 374.5,
+        "y": 453.5,
+        "width": 68,
+        "height": 32
+      },
+      "layer": 13,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: erth1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:14:11.409Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "4e52e4c8-008f-4fe5-8fb2-25a3d5b33778",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "4e52e4c8-008f-4fe5-8fb2-25a3d5b33778.png",
+      "boundingBox": {
+        "x": 375.5,
+        "y": 470.5,
+        "width": 68,
+        "height": 32
+      },
+      "layer": 13,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: erth1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:14:11.573Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "74efaa93-e285-473f-8766-d60ac84e6f2f",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "74efaa93-e285-473f-8766-d60ac84e6f2f.png",
+      "boundingBox": {
+        "x": 382.5,
+        "y": 485.5,
+        "width": 68,
+        "height": 32
+      },
+      "layer": 13,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: erth1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:14:11.728Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "1facd9eb-a584-4241-830d-15b994504c40",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "1facd9eb-a584-4241-830d-15b994504c40.png",
+      "boundingBox": {
+        "x": 374.5,
+        "y": 504.5,
+        "width": 68,
+        "height": 32
+      },
+      "layer": 13,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: erth1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:14:11.881Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "c5e20dc1-6b3e-4153-b5fb-7939e5af308f",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "c5e20dc1-6b3e-4153-b5fb-7939e5af308f.png",
+      "boundingBox": {
+        "x": 367.5,
+        "y": 520.5,
+        "width": 68,
+        "height": 32
+      },
+      "layer": 13,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: erth1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:14:12.058Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "5c15ecb9-eb2a-4328-a2ca-c6359ef1e1f3",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "5c15ecb9-eb2a-4328-a2ca-c6359ef1e1f3.png",
+      "boundingBox": {
+        "x": 362.5,
+        "y": 534.5,
+        "width": 68,
+        "height": 32
+      },
+      "layer": 13,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: erth1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:14:12.201Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "eff8ac07-c561-44c4-80dd-ebf2f04fe32b",
+      "name": "Object 0 (Copy)",
+      "filename": "eff8ac07-c561-44c4-80dd-ebf2f04fe32b.png",
+      "boundingBox": {
+        "x": 311.5,
+        "y": 421.5,
+        "width": 68,
+        "height": 32
+      },
+      "layer": 13,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: erth1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:14:58.111Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "3e0c963f-125c-4aa1-b3f6-b84808a6ab20",
+      "name": "Object 0 (Copy) (Copy)",
+      "filename": "3e0c963f-125c-4aa1-b3f6-b84808a6ab20.png",
+      "boundingBox": {
+        "x": 336.5,
+        "y": 421.5,
+        "width": 68,
+        "height": 32
+      },
+      "layer": 13,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: erth1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:14:58.476Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "66d0a6c7-5d96-4270-84f2-cec83a00ecbd",
+      "name": "Object 0 (Copy) (Copy) (Copy)",
+      "filename": "66d0a6c7-5d96-4270-84f2-cec83a00ecbd.png",
+      "boundingBox": {
+        "x": 1693,
+        "y": 451,
+        "width": 37,
+        "height": 23
+      },
+      "layer": 30,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: st8.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:15:19.095Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "ffc9483f-a8f2-4e52-ac76-61e51876c01d",
+      "name": "Object 0 (Copy)",
+      "filename": "ffc9483f-a8f2-4e52-ac76-61e51876c01d.png",
+      "boundingBox": {
+        "x": 1582.5,
+        "y": 224.5,
+        "width": 40,
+        "height": 24
+      },
+      "layer": 53,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: st3.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:15:57.779Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "36258eac-053f-4784-b60e-7250d6585e1b",
+      "name": "Object 0 (Copy) (Copy)",
+      "filename": "36258eac-053f-4784-b60e-7250d6585e1b.png",
+      "boundingBox": {
+        "x": 1550.5,
+        "y": 246.5,
+        "width": 40,
+        "height": 24
+      },
+      "layer": 54,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: st3.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:15:57.985Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "e1503d36-d2dd-4159-9afe-f2527f5a55d6",
+      "name": "Object 0 (Copy) (Copy) (Copy)",
+      "filename": "e1503d36-d2dd-4159-9afe-f2527f5a55d6.png",
+      "boundingBox": {
+        "x": 1567.5,
+        "y": 237.5,
+        "width": 40,
+        "height": 24
+      },
+      "layer": 53,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: st3.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:15:58.165Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "a6caf617-8341-4b31-9d09-5bdbb33096dd",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy)",
+      "filename": "a6caf617-8341-4b31-9d09-5bdbb33096dd.png",
+      "boundingBox": {
+        "x": 1458.5,
+        "y": 163.5,
+        "width": 40,
+        "height": 24
+      },
+      "layer": 29,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: st3.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:15:58.337Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "c54c2e2a-0a9e-4409-8599-58207b321d69",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "c54c2e2a-0a9e-4409-8599-58207b321d69.png",
+      "boundingBox": {
+        "x": 1448.5,
+        "y": 178.5,
+        "width": 40,
+        "height": 24
+      },
+      "layer": 29,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: st3.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:16:35.727Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "89e76a5b-a9bc-49c3-80b7-538b2d8451f5",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "89e76a5b-a9bc-49c3-80b7-538b2d8451f5.png",
+      "boundingBox": {
+        "x": 1445.5,
+        "y": 193.5,
+        "width": 40,
+        "height": 24
+      },
+      "layer": 29,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: st3.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:16:36.859Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "84712331-f83b-46c2-9b6d-7ebf884c6d35",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "84712331-f83b-46c2-9b6d-7ebf884c6d35.png",
+      "boundingBox": {
+        "x": 1438.5,
+        "y": 204.5,
+        "width": 40,
+        "height": 24
+      },
+      "layer": 29,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: st3.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:16:37.429Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "98f43fa2-238a-4ef3-8385-41c7ad9f412d",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "98f43fa2-238a-4ef3-8385-41c7ad9f412d.png",
+      "boundingBox": {
+        "x": 1527.5,
+        "y": 243.5,
+        "width": 40,
+        "height": 24
+      },
+      "layer": 29,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: st3.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:16:37.785Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "72cf0177-c51f-4a39-8759-b817ae4fdc38",
+      "name": "Object 0 (Copy)",
+      "filename": "72cf0177-c51f-4a39-8759-b817ae4fdc38.png",
+      "boundingBox": {
+        "x": 1460.5,
+        "y": 228.5,
+        "width": 40,
+        "height": 24
+      },
+      "layer": 54,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: st3.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:17:13.143Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "16a0990e-1f64-4c29-9f58-7d70618f52fd",
+      "name": "Object 0 (Copy) (Copy)",
+      "filename": "16a0990e-1f64-4c29-9f58-7d70618f52fd.png",
+      "boundingBox": {
+        "x": 1609.5,
+        "y": 191.5,
+        "width": 40,
+        "height": 24
+      },
+      "layer": 30,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: st3.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:17:51.719Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "debd050e-56a2-4ec5-b979-4ec19291d456",
+      "name": "Object 0 (Copy) (Copy) (Copy)",
+      "filename": "debd050e-56a2-4ec5-b979-4ec19291d456.png",
+      "boundingBox": {
+        "x": 1613.5,
+        "y": 207.5,
+        "width": 40,
+        "height": 24
+      },
+      "layer": 30,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: st3.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:17:56.421Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "e55d94cb-1560-4dba-b9bb-d5c2ef02d144",
+      "name": "Object 0 (Copy)",
+      "filename": "e55d94cb-1560-4dba-b9bb-d5c2ef02d144.png",
+      "boundingBox": {
+        "x": 1723.5,
+        "y": 350,
+        "width": 44,
+        "height": 65
+      },
+      "layer": 30,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: t2.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:18:54.452Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "560e75c2-bc53-406f-b2d0-4e81e3a3c791",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "560e75c2-bc53-406f-b2d0-4e81e3a3c791.png",
+      "boundingBox": {
+        "x": 600.5,
+        "y": 773.5,
+        "width": 52,
+        "height": 34
+      },
+      "layer": 26,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: st6.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:20:27.987Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "606bb431-6292-439f-bfd2-47800e2fbff0",
+      "name": "Object 0 (Copy) (Copy)",
+      "filename": "606bb431-6292-439f-bfd2-47800e2fbff0.png",
+      "boundingBox": {
+        "x": 1047.5,
+        "y": 371.5,
+        "width": 41,
+        "height": 35
+      },
+      "layer": 27,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: st2.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:22:46.795Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "87cc939e-1bfd-4315-93bc-289dc7fbb7b2",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy)",
+      "filename": "87cc939e-1bfd-4315-93bc-289dc7fbb7b2.png",
+      "boundingBox": {
+        "x": 1556.5,
+        "y": 632.5,
+        "width": 41,
+        "height": 35
+      },
+      "layer": 27,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: st2.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:22:47.478Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "1f0eb306-2aa0-400f-abc8-6e33fb901628",
+      "name": "Object 0 (Copy) (Copy)",
+      "filename": "1f0eb306-2aa0-400f-abc8-6e33fb901628.png",
+      "boundingBox": {
+        "x": 1624.5,
+        "y": 414,
+        "width": 44,
+        "height": 65
+      },
+      "layer": 30,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: t2.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:29:16.179Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "6699c67d-e7c1-4625-970f-99f759badfa7",
+      "name": "Object 0 (Copy) (Copy) (Copy)",
+      "filename": "6699c67d-e7c1-4625-970f-99f759badfa7.png",
+      "boundingBox": {
+        "x": 1850.5,
+        "y": 383,
+        "width": 44,
+        "height": 65
+      },
+      "layer": 30,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: t2.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:29:19.929Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "2943cf12-bd6b-417f-b1a3-b28190056051",
+      "name": "Object 0 (Copy)",
+      "filename": "2943cf12-bd6b-417f-b1a3-b28190056051.png",
+      "boundingBox": {
+        "x": 1426.5,
+        "y": 156,
+        "width": 46,
+        "height": 37
+      },
+      "layer": 25,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: flower1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:30:03.422Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "7514d01d-2f9a-4d1a-b08a-49c3af4460ed",
+      "name": "Object 0 (Copy) (Copy)",
+      "filename": "7514d01d-2f9a-4d1a-b08a-49c3af4460ed.png",
+      "boundingBox": {
+        "x": 1416.5,
+        "y": 176,
+        "width": 46,
+        "height": 37
+      },
+      "layer": 25,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: flower1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:30:03.617Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "8d24eae2-dd0a-4477-a934-cf20ac65aacc",
+      "name": "Object 0 (Copy) (Copy) (Copy)",
+      "filename": "8d24eae2-dd0a-4477-a934-cf20ac65aacc.png",
+      "boundingBox": {
+        "x": 1417.5,
+        "y": 198,
+        "width": 46,
+        "height": 37
+      },
+      "layer": 25,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: flower1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:30:03.774Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "b15ddc48-e30e-4284-94de-0af61d511ea5",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy)",
+      "filename": "b15ddc48-e30e-4284-94de-0af61d511ea5.png",
+      "boundingBox": {
+        "x": 1433.5,
+        "y": 215,
+        "width": 46,
+        "height": 37
+      },
+      "layer": 58,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: flower1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:30:14.897Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "e18e05cf-2615-43e0-8463-cc1b13109d14",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "e18e05cf-2615-43e0-8463-cc1b13109d14.png",
+      "boundingBox": {
+        "x": 1591.5,
+        "y": 233,
+        "width": 46,
+        "height": 37
+      },
+      "layer": 58,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: flower1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:30:31.271Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "04addf21-4ca7-4b73-94e7-d59c56b506d7",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "04addf21-4ca7-4b73-94e7-d59c56b506d7.png",
+      "boundingBox": {
+        "x": 1570.5,
+        "y": 244,
+        "width": 46,
+        "height": 37
+      },
+      "layer": 58,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: flower1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:30:31.550Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "78d139a9-914c-4b20-b7ad-836c03d0d07e",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "78d139a9-914c-4b20-b7ad-836c03d0d07e.png",
+      "boundingBox": {
+        "x": 1543.5,
+        "y": 251,
+        "width": 46,
+        "height": 37
+      },
+      "layer": 58,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: flower1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:30:31.726Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "b7d5ea6c-4492-4f40-a2cf-003680cdaa1c",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "b7d5ea6c-4492-4f40-a2cf-003680cdaa1c.png",
+      "boundingBox": {
+        "x": 1618.5,
+        "y": 223,
+        "width": 46,
+        "height": 37
+      },
+      "layer": 58,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: flower1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:30:31.877Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "1a65ae61-49e0-4605-800b-fffb11940561",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "1a65ae61-49e0-4605-800b-fffb11940561.png",
+      "boundingBox": {
+        "x": 1622.5,
+        "y": 168,
+        "width": 46,
+        "height": 37
+      },
+      "layer": 29,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: flower1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:30:32.095Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "4221ae88-e3cc-449f-9557-c7d40dffb013",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "4221ae88-e3cc-449f-9557-c7d40dffb013.png",
+      "boundingBox": {
+        "x": 1645.5,
+        "y": 207,
+        "width": 46,
+        "height": 37
+      },
+      "layer": 58,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: flower1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:30:51.051Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "3f132187-2e3e-40b4-9b71-fc726a0f952d",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "3f132187-2e3e-40b4-9b71-fc726a0f952d.png",
+      "boundingBox": {
+        "x": 1642.5,
+        "y": 188,
+        "width": 46,
+        "height": 37
+      },
+      "layer": 29,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: flower1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:31:03.979Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "8f8df35c-3a29-4f86-b612-f3460d9b53df",
+      "name": "Object 0 (Copy)",
+      "filename": "8f8df35c-3a29-4f86-b612-f3460d9b53df.png",
+      "boundingBox": {
+        "x": 887.5,
+        "y": 190,
+        "width": 44,
+        "height": 65
+      },
+      "layer": 30,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: t2.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:32:12.464Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "2b3f6bb7-2560-4c54-8e0b-1784c89defb3",
+      "name": "Object 0 (Copy)",
+      "filename": "2b3f6bb7-2560-4c54-8e0b-1784c89defb3.png",
+      "boundingBox": {
+        "x": 313,
+        "y": 391,
+        "width": 29,
+        "height": 25
+      },
+      "layer": 34,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl3.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:32:50.460Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "427aeb54-f1f9-4ef0-afab-f0a65a87d6cb",
+      "name": "Object 0 (Copy) (Copy)",
+      "filename": "427aeb54-f1f9-4ef0-afab-f0a65a87d6cb.png",
+      "boundingBox": {
+        "x": 353,
+        "y": 366,
+        "width": 29,
+        "height": 25
+      },
+      "layer": 34,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl3.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:32:50.677Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "5d6e460b-db2d-4dcd-afe4-73360532db64",
+      "name": "Object 0 (Copy) (Copy) (Copy)",
+      "filename": "5d6e460b-db2d-4dcd-afe4-73360532db64.png",
+      "boundingBox": {
+        "x": 396,
+        "y": 331,
+        "width": 29,
+        "height": 25
+      },
+      "layer": 34,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl3.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:32:50.849Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "90c706d6-fbbf-4d7c-a27a-3256e34c4b24",
+      "name": "Object 0 (Copy) (Copy)",
+      "filename": "90c706d6-fbbf-4d7c-a27a-3256e34c4b24.png",
+      "boundingBox": {
+        "x": 398,
+        "y": 369,
+        "width": 29,
+        "height": 25
+      },
+      "layer": 34,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl3.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:34:54.986Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "809cd678-feba-480a-a4ad-a0d7f5dd870b",
+      "name": "Object 0 (Copy) (Copy)",
+      "filename": "809cd678-feba-480a-a4ad-a0d7f5dd870b.png",
+      "boundingBox": {
+        "x": 778.5,
+        "y": 931.5,
+        "width": 41,
+        "height": 35
+      },
+      "layer": 27,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: st2.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:35:08.568Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "07dc6d87-bd6c-46d6-ac34-d90565cbd8e7",
+      "name": "Object 0",
+      "filename": "07dc6d87-bd6c-46d6-ac34-d90565cbd8e7.png",
+      "boundingBox": {
+        "x": 1762,
+        "y": 573,
+        "width": 41,
+        "height": 35
+      },
+      "layer": 109,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: st2.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:36:06.132Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "4f482e20-5b4b-4d62-8194-ced74d8cb1fe",
+      "name": "Object 0 (Copy)",
+      "filename": "4f482e20-5b4b-4d62-8194-ced74d8cb1fe.png",
+      "boundingBox": {
+        "x": 1337,
+        "y": 824,
+        "width": 41,
+        "height": 35
+      },
+      "layer": 109,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: st2.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:36:10.843Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "c96fbf29-a639-454f-aa7f-2f7a4e3cd430",
+      "name": "Object 0 (Copy) (Copy)",
+      "filename": "c96fbf29-a639-454f-aa7f-2f7a4e3cd430.png",
+      "boundingBox": {
+        "x": 716,
+        "y": 696,
+        "width": 41,
+        "height": 35
+      },
+      "layer": 109,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: st2.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:36:26.278Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "2539d826-8654-42fa-bbdf-0fa92df11876",
+      "name": "Object 0",
+      "filename": "2539d826-8654-42fa-bbdf-0fa92df11876.png",
+      "boundingBox": {
+        "x": 724.5,
+        "y": 1005.5,
+        "width": 72,
+        "height": 43
+      },
+      "layer": 110,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: st1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:36:46.056Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "bc9da08c-7533-447a-b775-dab0bf86c3bd",
+      "name": "Object 0",
+      "filename": "bc9da08c-7533-447a-b775-dab0bf86c3bd.png",
+      "boundingBox": {
+        "x": 999.5,
+        "y": 879.5,
+        "width": 52,
+        "height": 34
+      },
+      "layer": 110,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: st6.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:37:16.403Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "a7ff3c17-de29-46df-98ff-1fcc8970ffd0",
+      "name": "Object 0 (Copy)",
+      "filename": "a7ff3c17-de29-46df-98ff-1fcc8970ffd0.png",
+      "boundingBox": {
+        "x": 631.5,
+        "y": 150.5,
+        "width": 72,
+        "height": 43
+      },
+      "layer": 12,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: st1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T21:55:42.145Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "0283114d-9581-43ab-8e0f-c9d4e18d857c",
+      "name": "Object 0",
+      "filename": "0283114d-9581-43ab-8e0f-c9d4e18d857c.png",
+      "boundingBox": {
+        "x": 420.5,
+        "y": 594.5,
+        "width": 40,
+        "height": 28
+      },
+      "layer": 109,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl7.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:42:49.974Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "296b016c-18bd-4441-b3ab-52d2204c3ca2",
+      "name": "Object 0",
+      "filename": "296b016c-18bd-4441-b3ab-52d2204c3ca2.png",
+      "boundingBox": {
+        "x": 276,
+        "y": 324.5,
+        "width": 177,
+        "height": 126
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl8.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:42:51.536Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "3d82c87b-0505-42bd-a53a-36b66f4df0fd",
+      "name": "Object 0",
+      "filename": "3d82c87b-0505-42bd-a53a-36b66f4df0fd.png",
+      "boundingBox": {
+        "x": 587,
+        "y": 932.5,
+        "width": 177,
+        "height": 126
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl8.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:46:06.326Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "79e3b8c7-8f67-4f1e-8c15-3a7ceeec0265",
+      "name": "Object 0 (Copy)",
+      "filename": "79e3b8c7-8f67-4f1e-8c15-3a7ceeec0265.png",
+      "boundingBox": {
+        "x": 410,
+        "y": 809.5,
+        "width": 177,
+        "height": 126
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl8.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:47:12.506Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "b1535d5f-ba95-4fb7-a02f-828453370ffd",
+      "name": "Object 0 (Copy)",
+      "filename": "b1535d5f-ba95-4fb7-a02f-828453370ffd.png",
+      "boundingBox": {
+        "x": 301,
+        "y": 889.5,
+        "width": 177,
+        "height": 126
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl8.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:47:19.259Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "f67dca62-88ec-497d-9a8b-5215387853a2",
+      "name": "Object 0 (Copy) (Copy)",
+      "filename": "f67dca62-88ec-497d-9a8b-5215387853a2.png",
+      "boundingBox": {
+        "x": 336,
+        "y": 779.5,
+        "width": 177,
+        "height": 126
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl8.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:47:52.090Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "1a432611-19b8-4c89-8e39-f0508fbf1036",
+      "name": "Object 0 (Copy)",
+      "filename": "1a432611-19b8-4c89-8e39-f0508fbf1036.png",
+      "boundingBox": {
+        "x": 832,
+        "y": 934,
+        "width": 177,
+        "height": 126
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl8.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:48:51.817Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "fb041707-ebad-4331-a74f-ef1f523f2061",
+      "name": "Object 0 (Copy) (Copy)",
+      "filename": "fb041707-ebad-4331-a74f-ef1f523f2061.png",
+      "boundingBox": {
+        "x": 1252,
+        "y": 941,
+        "width": 177,
+        "height": 126
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl8.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:49:53.574Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "8b871896-f026-47c7-b773-7361eab1fb12",
+      "name": "Object 0 (Copy) (Copy) (Copy)",
+      "filename": "8b871896-f026-47c7-b773-7361eab1fb12.png",
+      "boundingBox": {
+        "x": 1396,
+        "y": 809,
+        "width": 177,
+        "height": 126
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl8.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:50:01.763Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "e2a7c8ed-38bc-491f-9548-f8a7bac75ee1",
+      "name": "Object 0 (Copy) (Copy) (Copy)",
+      "filename": "e2a7c8ed-38bc-491f-9548-f8a7bac75ee1.png",
+      "boundingBox": {
+        "x": 1489,
+        "y": 710,
+        "width": 177,
+        "height": 126
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl8.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:50:11.189Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "97d2c619-6b78-46f5-b84c-524c8783f6c2",
+      "name": "Object 0 (Copy) (Copy) (Copy)",
+      "filename": "97d2c619-6b78-46f5-b84c-524c8783f6c2.png",
+      "boundingBox": {
+        "x": 1717,
+        "y": 614,
+        "width": 177,
+        "height": 126
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl8.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:50:19.036Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "c0f410df-11a8-4be4-921b-7e1d877e2df5",
+      "name": "Object 0 (Copy) (Copy) (Copy)",
+      "filename": "c0f410df-11a8-4be4-921b-7e1d877e2df5.png",
+      "boundingBox": {
+        "x": 1516,
+        "y": 578,
+        "width": 177,
+        "height": 126
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl8.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:50:26.326Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "cea72bce-1029-4c65-8f27-0658eb704de5",
+      "name": "Object 0 (Copy) (Copy)",
+      "filename": "cea72bce-1029-4c65-8f27-0658eb704de5.png",
+      "boundingBox": {
+        "x": 897,
+        "y": 94.5,
+        "width": 49,
+        "height": 46
+      },
+      "layer": 105,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: gr1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:51:23.958Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "194d4358-8011-49d3-a5d5-ffd01a88c4ce",
+      "name": "Object 0 (Copy) (Copy) (Copy)",
+      "filename": "194d4358-8011-49d3-a5d5-ffd01a88c4ce.png",
+      "boundingBox": {
+        "x": 873,
+        "y": 114.5,
+        "width": 49,
+        "height": 46
+      },
+      "layer": 105,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: gr1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:51:24.145Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "d687045b-b99e-426a-a385-ccff7c26eeea",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "d687045b-b99e-426a-a385-ccff7c26eeea.png",
+      "boundingBox": {
+        "x": 900,
+        "y": 51.5,
+        "width": 49,
+        "height": 46
+      },
+      "layer": 104,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: gr1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:51:30.399Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "55732e78-c3f2-4434-b284-4554dfe28852",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "55732e78-c3f2-4434-b284-4554dfe28852.png",
+      "boundingBox": {
+        "x": 920,
+        "y": 71.5,
+        "width": 49,
+        "height": 46
+      },
+      "layer": 104,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: gr1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:51:44.837Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "c57271db-c77a-418b-ba72-a07b2978585a",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "c57271db-c77a-418b-ba72-a07b2978585a.png",
+      "boundingBox": {
+        "x": 940,
+        "y": 91.5,
+        "width": 49,
+        "height": 46
+      },
+      "layer": 104,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: gr1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:51:45.369Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "d6a0bea8-7cd9-46ef-81ea-d9571e46a6db",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "d6a0bea8-7cd9-46ef-81ea-d9571e46a6db.png",
+      "boundingBox": {
+        "x": 960,
+        "y": 111.5,
+        "width": 49,
+        "height": 46
+      },
+      "layer": 104,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: gr1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:51:45.643Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "198ecafe-cc43-406b-a462-ec010a356056",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "198ecafe-cc43-406b-a462-ec010a356056.png",
+      "boundingBox": {
+        "x": 952,
+        "y": 69.5,
+        "width": 49,
+        "height": 46
+      },
+      "layer": 103,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: gr1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:51:46.705Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "358310a7-d299-46c8-9a83-e7a112d02095",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "358310a7-d299-46c8-9a83-e7a112d02095.png",
+      "boundingBox": {
+        "x": 982,
+        "y": 81.5,
+        "width": 49,
+        "height": 46
+      },
+      "layer": 103,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: gr1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:52:05.126Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "87dcab5b-b7c8-428b-b8b6-d2c887602408",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "87dcab5b-b7c8-428b-b8b6-d2c887602408.png",
+      "boundingBox": {
+        "x": 982,
+        "y": 51.5,
+        "width": 49,
+        "height": 46
+      },
+      "layer": 102,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: gr1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:52:19.218Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "5292e720-f29d-4a8e-a3aa-6829b814058d",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "5292e720-f29d-4a8e-a3aa-6829b814058d.png",
+      "boundingBox": {
+        "x": 939,
+        "y": 52.5,
+        "width": 49,
+        "height": 46
+      },
+      "layer": 102,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: gr1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:52:25.922Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "42f8e558-322e-4d1d-bbdc-0acd9e399282",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "42f8e558-322e-4d1d-bbdc-0acd9e399282.png",
+      "boundingBox": {
+        "x": 1014,
+        "y": 60.5,
+        "width": 49,
+        "height": 46
+      },
+      "layer": 102,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: gr1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:52:33.183Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "e84ad754-8a87-4899-bc36-5ca2fe65c579",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "e84ad754-8a87-4899-bc36-5ca2fe65c579.png",
+      "boundingBox": {
+        "x": 1034,
+        "y": 80.5,
+        "width": 49,
+        "height": 46
+      },
+      "layer": 102,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: gr1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:52:42.260Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "4d62ef29-c4f5-4b95-a028-774c6cba2f9b",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "4d62ef29-c4f5-4b95-a028-774c6cba2f9b.png",
+      "boundingBox": {
+        "x": 1055,
+        "y": 95.5,
+        "width": 49,
+        "height": 46
+      },
+      "layer": 102,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: gr1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:52:42.760Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "caebbd94-5b97-42f3-9c46-b55fda45eadb",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "caebbd94-5b97-42f3-9c46-b55fda45eadb.png",
+      "boundingBox": {
+        "x": 1065,
+        "y": 116.5,
+        "width": 49,
+        "height": 46
+      },
+      "layer": 102,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: gr1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:52:49.564Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "f059f0e8-3665-4e92-bd66-601cf5265ffe",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "f059f0e8-3665-4e92-bd66-601cf5265ffe.png",
+      "boundingBox": {
+        "x": 1002,
+        "y": 101.5,
+        "width": 49,
+        "height": 46
+      },
+      "layer": 103,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: gr1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:52:51.761Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "92cdb144-afd2-426e-99df-aad8679dfcba",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "92cdb144-afd2-426e-99df-aad8679dfcba.png",
+      "boundingBox": {
+        "x": 1025,
+        "y": 119.5,
+        "width": 49,
+        "height": 46
+      },
+      "layer": 103,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: gr1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:52:51.947Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "77cc800f-359d-4281-95d5-95417b785600",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "77cc800f-359d-4281-95d5-95417b785600.png",
+      "boundingBox": {
+        "x": 1044,
+        "y": 54.5,
+        "width": 49,
+        "height": 46
+      },
+      "layer": 101,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: gr1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:53:15.416Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "a801ded0-3377-4f6b-9eb6-99e69315576d",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "a801ded0-3377-4f6b-9eb6-99e69315576d.png",
+      "boundingBox": {
+        "x": 1064,
+        "y": 74.5,
+        "width": 49,
+        "height": 46
+      },
+      "layer": 101,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: gr1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:53:26.104Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "fc6a957b-2526-490b-8293-2ef950a6f7ad",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "fc6a957b-2526-490b-8293-2ef950a6f7ad.png",
+      "boundingBox": {
+        "x": 1084,
+        "y": 94.5,
+        "width": 49,
+        "height": 46
+      },
+      "layer": 101,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: gr1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:53:26.497Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "60d73731-b14e-4fba-b2c1-577e2cc97df4",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "60d73731-b14e-4fba-b2c1-577e2cc97df4.png",
+      "boundingBox": {
+        "x": 1104,
+        "y": 114.5,
+        "width": 49,
+        "height": 46
+      },
+      "layer": 101,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: gr1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:53:26.949Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "c8f5818c-4273-49d9-9759-3c2f7075aa8a",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "c8f5818c-4273-49d9-9759-3c2f7075aa8a.png",
+      "boundingBox": {
+        "x": 1141,
+        "y": 115.5,
+        "width": 49,
+        "height": 46
+      },
+      "layer": 100,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: gr1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:53:28.694Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "70665ff8-277d-4dfe-bb91-60bf142953d9",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "70665ff8-277d-4dfe-bb91-60bf142953d9.png",
+      "boundingBox": {
+        "x": 1086,
+        "y": 55.5,
+        "width": 49,
+        "height": 46
+      },
+      "layer": 99,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: gr1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:53:43.499Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "3f89a55f-7dc7-49e0-a66e-d6fa95a10c49",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "3f89a55f-7dc7-49e0-a66e-d6fa95a10c49.png",
+      "boundingBox": {
+        "x": 1106,
+        "y": 75.5,
+        "width": 49,
+        "height": 46
+      },
+      "layer": 99,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: gr1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:53:48.613Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "63e1d637-0cbd-4f1c-8c10-1472eb1c05bb",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "63e1d637-0cbd-4f1c-8c10-1472eb1c05bb.png",
+      "boundingBox": {
+        "x": 1126,
+        "y": 95.5,
+        "width": 49,
+        "height": 46
+      },
+      "layer": 99,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: gr1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:53:49.056Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "d0a60a0c-89d8-4fa4-9f1e-16e8f3175d09",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "d0a60a0c-89d8-4fa4-9f1e-16e8f3175d09.png",
+      "boundingBox": {
+        "x": 1126,
+        "y": 58.5,
+        "width": 49,
+        "height": 46
+      },
+      "layer": 98,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: gr1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:54:42.978Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "d9d66c88-1996-4ab9-b91a-0c8599526d14",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "d9d66c88-1996-4ab9-b91a-0c8599526d14.png",
+      "boundingBox": {
+        "x": 1146,
+        "y": 78.5,
+        "width": 49,
+        "height": 46
+      },
+      "layer": 98,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: gr1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:54:51.535Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "f5e1e315-701e-4279-a54c-b8b7affad223",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "f5e1e315-701e-4279-a54c-b8b7affad223.png",
+      "boundingBox": {
+        "x": 1166,
+        "y": 98.5,
+        "width": 49,
+        "height": 46
+      },
+      "layer": 98,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: gr1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:54:51.954Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "5e85dd3c-3c0a-4b99-96f1-5e5ba24d8691",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "5e85dd3c-3c0a-4b99-96f1-5e5ba24d8691.png",
+      "boundingBox": {
+        "x": 1186,
+        "y": 118.5,
+        "width": 49,
+        "height": 46
+      },
+      "layer": 98,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: gr1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:54:52.507Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "fd27dede-4bbf-4b3c-b215-b4a10edb4739",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "fd27dede-4bbf-4b3c-b215-b4a10edb4739.png",
+      "boundingBox": {
+        "x": 1168,
+        "y": 61.5,
+        "width": 49,
+        "height": 46
+      },
+      "layer": 97,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: gr1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:54:58.088Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "5d5d212f-17ae-478d-aa17-ee3e5bb74b06",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "5d5d212f-17ae-478d-aa17-ee3e5bb74b06.png",
+      "boundingBox": {
+        "x": 1188,
+        "y": 81.5,
+        "width": 49,
+        "height": 46
+      },
+      "layer": 97,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: gr1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:55:05.694Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "4e8e6e6b-47d3-403e-8565-bb02909795c1",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "4e8e6e6b-47d3-403e-8565-bb02909795c1.png",
+      "boundingBox": {
+        "x": 1208,
+        "y": 101.5,
+        "width": 49,
+        "height": 46
+      },
+      "layer": 97,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: gr1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:55:05.963Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "a7d97c09-8ed0-49d1-8415-e1c05e05a96f",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "a7d97c09-8ed0-49d1-8415-e1c05e05a96f.png",
+      "boundingBox": {
+        "x": 1228,
+        "y": 121.5,
+        "width": 49,
+        "height": 46
+      },
+      "layer": 97,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: gr1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:55:06.239Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "09b4517e-52c9-42fb-8096-bf05f52e8a26",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "09b4517e-52c9-42fb-8096-bf05f52e8a26.png",
+      "boundingBox": {
+        "x": 1261,
+        "y": 117.5,
+        "width": 49,
+        "height": 46
+      },
+      "layer": 96,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: gr1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:55:09.930Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "3c4f97d5-564f-46a7-8874-9783aaf0aefd",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "3c4f97d5-564f-46a7-8874-9783aaf0aefd.png",
+      "boundingBox": {
+        "x": 1288,
+        "y": 99.5,
+        "width": 49,
+        "height": 46
+      },
+      "layer": 95,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: gr1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:55:15.985Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "87814c72-d6e9-4b00-b6de-4a98a5c40688",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "87814c72-d6e9-4b00-b6de-4a98a5c40688.png",
+      "boundingBox": {
+        "x": 1303,
+        "y": 77.5,
+        "width": 49,
+        "height": 46
+      },
+      "layer": 94,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: gr1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:55:16.688Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "319acb03-e460-4351-8667-cff2a0dc6d17",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "319acb03-e460-4351-8667-cff2a0dc6d17.png",
+      "boundingBox": {
+        "x": 1202,
+        "y": 56.5,
+        "width": 49,
+        "height": 46
+      },
+      "layer": 93,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: gr1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:55:38.513Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "a798ebae-5fc8-43c5-ba63-ed88d8c3b00b",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "a798ebae-5fc8-43c5-ba63-ed88d8c3b00b.png",
+      "boundingBox": {
+        "x": 1222,
+        "y": 76.5,
+        "width": 49,
+        "height": 46
+      },
+      "layer": 93,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: gr1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:55:42.543Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "b95c5c5a-5b63-49f1-8255-a5134868c3ef",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "b95c5c5a-5b63-49f1-8255-a5134868c3ef.png",
+      "boundingBox": {
+        "x": 1242,
+        "y": 96.5,
+        "width": 49,
+        "height": 46
+      },
+      "layer": 93,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: gr1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:55:42.930Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "52412285-ec47-435c-acbc-092be771413f",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "52412285-ec47-435c-acbc-092be771413f.png",
+      "boundingBox": {
+        "x": 1242,
+        "y": 58.5,
+        "width": 49,
+        "height": 46
+      },
+      "layer": 92,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: gr1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:55:46.110Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "d8013642-f4db-4f4c-8d56-f7dbfef9f882",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "d8013642-f4db-4f4c-8d56-f7dbfef9f882.png",
+      "boundingBox": {
+        "x": 1262,
+        "y": 78.5,
+        "width": 49,
+        "height": 46
+      },
+      "layer": 92,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: gr1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:55:55.354Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "16b5901b-adf4-4702-a8ed-75216ea092e5",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "16b5901b-adf4-4702-a8ed-75216ea092e5.png",
+      "boundingBox": {
+        "x": 1281,
+        "y": 61.5,
+        "width": 49,
+        "height": 46
+      },
+      "layer": 92,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: gr1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:55:57.917Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "f97e1aff-44e8-4d0a-9dbc-5adc2d960933",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "f97e1aff-44e8-4d0a-9dbc-5adc2d960933.png",
+      "boundingBox": {
+        "x": 655,
+        "y": 65.5,
+        "width": 49,
+        "height": 46
+      },
+      "layer": 12,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: gr1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:56:48.245Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "d7bbd20d-8e33-4895-a042-d6d044858523",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "d7bbd20d-8e33-4895-a042-d6d044858523.png",
+      "boundingBox": {
+        "x": 690,
+        "y": 51.5,
+        "width": 49,
+        "height": 46
+      },
+      "layer": 12,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: gr1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:57:23.700Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "dab81923-d70c-4b2b-9352-f18fe0407a2b",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "dab81923-d70c-4b2b-9352-f18fe0407a2b.png",
+      "boundingBox": {
+        "x": 675,
+        "y": 81.5,
+        "width": 49,
+        "height": 46
+      },
+      "layer": 12,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: gr1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:57:33.457Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "939c7f7e-4502-4674-b76d-32ef6e324210",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "939c7f7e-4502-4674-b76d-32ef6e324210.png",
+      "boundingBox": {
+        "x": 715,
+        "y": 81.5,
+        "width": 49,
+        "height": 46
+      },
+      "layer": 12,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: gr1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:57:47.246Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "ae42de42-0e2c-4819-bb3a-e3f3f7481d1d",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "ae42de42-0e2c-4819-bb3a-e3f3f7481d1d.png",
+      "boundingBox": {
+        "x": 735,
+        "y": 52.5,
+        "width": 49,
+        "height": 46
+      },
+      "layer": 8,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: gr1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:57:48.507Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "d1711f16-5fee-4438-b5ac-a7811cd46cdf",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "d1711f16-5fee-4438-b5ac-a7811cd46cdf.png",
+      "boundingBox": {
+        "x": 641,
+        "y": 93.5,
+        "width": 49,
+        "height": 46
+      },
+      "layer": 11,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: gr1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:57:54.360Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "7a05a995-9c0b-4cbd-867b-ce5290945427",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "7a05a995-9c0b-4cbd-867b-ce5290945427.png",
+      "boundingBox": {
+        "x": 648,
+        "y": 105.5,
+        "width": 49,
+        "height": 46
+      },
+      "layer": 12,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: gr1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:57:59.457Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "ef60c492-2aeb-4feb-b4c2-2595ace786e3",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "ef60c492-2aeb-4feb-b4c2-2595ace786e3.png",
+      "boundingBox": {
+        "x": 766,
+        "y": 96.5,
+        "width": 49,
+        "height": 46
+      },
+      "layer": 9,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: gr1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:58:18.750Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "ccb2dc64-641b-4e8b-9538-c420f4fe97d7",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "ccb2dc64-641b-4e8b-9538-c420f4fe97d7.png",
+      "boundingBox": {
+        "x": 802,
+        "y": 100.5,
+        "width": 49,
+        "height": 46
+      },
+      "layer": 9,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: gr1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:58:25.320Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "c368afe6-fcfe-40cb-a9a3-b30bdfb6dde1",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "c368afe6-fcfe-40cb-a9a3-b30bdfb6dde1.png",
+      "boundingBox": {
+        "x": 822,
+        "y": 120.5,
+        "width": 49,
+        "height": 46
+      },
+      "layer": 9,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: gr1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:58:35.804Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "95a3109e-b652-4874-a426-f117b6bb676a",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "95a3109e-b652-4874-a426-f117b6bb676a.png",
+      "boundingBox": {
+        "x": 790,
+        "y": 64.5,
+        "width": 49,
+        "height": 46
+      },
+      "layer": 7,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: gr1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:58:40.088Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "dc60f2e5-f216-4979-8209-33cf37cf8dfb",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "dc60f2e5-f216-4979-8209-33cf37cf8dfb.png",
+      "boundingBox": {
+        "x": 822,
+        "y": 85.5,
+        "width": 49,
+        "height": 46
+      },
+      "layer": 7,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: gr1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:58:51.714Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "de40d72a-95c9-41b4-969f-635043acafa0",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "de40d72a-95c9-41b4-969f-635043acafa0.png",
+      "boundingBox": {
+        "x": 841,
+        "y": 60.5,
+        "width": 49,
+        "height": 46
+      },
+      "layer": 6,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: gr1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:58:53.114Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "4b4769e6-5a16-4289-ad93-27b183082f98",
+      "name": "Object 0 (Copy) (Copy) (Copy)",
+      "filename": "4b4769e6-5a16-4289-ad93-27b183082f98.png",
+      "boundingBox": {
+        "x": 917,
+        "y": 114.5,
+        "width": 49,
+        "height": 46
+      },
+      "layer": 105,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: gr1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:59:07.961Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "9fc946a3-f2a1-4e24-bb1a-6a2207112672",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "9fc946a3-f2a1-4e24-bb1a-6a2207112672.png",
+      "boundingBox": {
+        "x": 842,
+        "y": 105.5,
+        "width": 49,
+        "height": 46
+      },
+      "layer": 7,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: gr1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:59:24.241Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "462b9cef-5568-44ff-861e-64a59ce065c9",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "462b9cef-5568-44ff-861e-64a59ce065c9.png",
+      "boundingBox": {
+        "x": 870,
+        "y": 71.5,
+        "width": 49,
+        "height": 46
+      },
+      "layer": 7,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: gr1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:59:30.676Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "b5b94ead-7312-40e5-9359-d8c27cf66e30",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "b5b94ead-7312-40e5-9359-d8c27cf66e30.png",
+      "boundingBox": {
+        "x": 874,
+        "y": 96.5,
+        "width": 49,
+        "height": 46
+      },
+      "layer": 7,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: gr1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:59:32.690Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "323e1cba-d8a0-4f5b-8b41-d62595c59cd8",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "323e1cba-d8a0-4f5b-8b41-d62595c59cd8.png",
+      "boundingBox": {
+        "x": 610,
+        "y": 66.5,
+        "width": 49,
+        "height": 46
+      },
+      "layer": 11,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: gr1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:59:57.602Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "12180609-6bd1-441d-b338-3191523cc409",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "12180609-6bd1-441d-b338-3191523cc409.png",
+      "boundingBox": {
+        "x": 611,
+        "y": 94.5,
+        "width": 49,
+        "height": 46
+      },
+      "layer": 11,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: gr1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T23:00:08.205Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "5ec2659f-2162-42f8-92fd-9ae35e47661f",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "5ec2659f-2162-42f8-92fd-9ae35e47661f.png",
+      "boundingBox": {
+        "x": 754,
+        "y": 68.5,
+        "width": 49,
+        "height": 46
+      },
+      "layer": 8,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: gr1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T23:00:23.636Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "9685ec83-bebf-43da-b746-ee01533a2582",
+      "name": "Object 0 (Copy) (Copy) (Copy)",
+      "filename": "9685ec83-bebf-43da-b746-ee01533a2582.png",
+      "boundingBox": {
+        "x": 1016,
+        "y": 649.5,
+        "width": 30,
+        "height": 27
+      },
+      "layer": 33,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: st7.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T23:03:37.988Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "95400c94-0d2c-40cd-b9df-f6e3bb382338",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "95400c94-0d2c-40cd-b9df-f6e3bb382338.png",
+      "boundingBox": {
+        "x": 1034,
+        "y": 760.5,
+        "width": 30,
+        "height": 27
+      },
+      "layer": 33,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: st7.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T23:03:41.005Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "1e75d9cc-dad9-4ba3-bc0e-05afed26fff1",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "1e75d9cc-dad9-4ba3-bc0e-05afed26fff1.png",
+      "boundingBox": {
+        "x": 960,
+        "y": 826,
+        "width": 30,
+        "height": 27
+      },
+      "layer": 33,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: st7.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T23:03:41.176Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "66e20270-7451-4ee8-a348-a110f8e66a8e",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "66e20270-7451-4ee8-a348-a110f8e66a8e.png",
+      "boundingBox": {
+        "x": 935,
+        "y": 534.5,
+        "width": 30,
+        "height": 27
+      },
+      "layer": 33,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: st7.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T23:05:48.401Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "ff49f303-163e-40c6-98b8-f66b9b95a154",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "ff49f303-163e-40c6-98b8-f66b9b95a154.png",
+      "boundingBox": {
+        "x": 827,
+        "y": 509.5,
+        "width": 30,
+        "height": 27
+      },
+      "layer": 33,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: st7.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T23:05:53.171Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "26e0a97a-b6bd-4fc0-9b6c-1fc204a45326",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "26e0a97a-b6bd-4fc0-9b6c-1fc204a45326.png",
+      "boundingBox": {
+        "x": 865,
+        "y": 406.5,
+        "width": 30,
+        "height": 27
+      },
+      "layer": 33,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: st7.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T23:05:57.450Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "e073a010-f06b-4c05-8568-9c9e85fc0e35",
+      "name": "Object 0 (Copy) (Copy) (Copy)",
+      "filename": "e073a010-f06b-4c05-8568-9c9e85fc0e35.png",
+      "boundingBox": {
+        "x": 1278,
+        "y": 323.5,
+        "width": 177,
+        "height": 126
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl8.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T23:09:06.433Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "ecb1bebc-4724-4836-b127-b94806848edc",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "ecb1bebc-4724-4836-b127-b94806848edc.png",
+      "boundingBox": {
+        "x": 1136,
+        "y": 651.5,
+        "width": 177,
+        "height": 126
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl8.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T23:09:19.178Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "9ac2cc5e-beee-424b-90ff-15130ce3038f",
+      "name": "Object 0 (Copy)",
+      "filename": "9ac2cc5e-beee-424b-90ff-15130ce3038f.png",
+      "boundingBox": {
+        "x": 1383.5,
+        "y": 351.5,
+        "width": 72,
+        "height": 43
+      },
+      "layer": 110,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: st1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T23:10:27.757Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "b043495b-96ad-4e7f-ae92-c7e30ab22dc9",
+      "name": "Object 0 (Copy) (Copy)",
+      "filename": "b043495b-96ad-4e7f-ae92-c7e30ab22dc9.png",
+      "boundingBox": {
+        "x": 1542,
+        "y": 374.5,
+        "width": 177,
+        "height": 126
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl8.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T23:10:35.123Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "e03399da-8fab-4987-89c8-124c51c1b930",
+      "name": "Object 0 (Copy) (Copy) (Copy)",
+      "filename": "e03399da-8fab-4987-89c8-124c51c1b930.png",
+      "boundingBox": {
+        "x": 1723,
+        "y": 371.5,
+        "width": 177,
+        "height": 126
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl8.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T23:10:44.228Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "46b81456-1c27-4bdd-b388-d06a3adce468",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy)",
+      "filename": "46b81456-1c27-4bdd-b388-d06a3adce468.png",
+      "boundingBox": {
+        "x": 1630,
+        "y": 247.5,
+        "width": 177,
+        "height": 126
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl8.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T23:10:49.440Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "cc4c67b0-9d22-4188-a5a6-faafcf1c7a3a",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy)",
+      "filename": "cc4c67b0-9d22-4188-a5a6-faafcf1c7a3a.png",
+      "boundingBox": {
+        "x": 1091,
+        "y": 269.5,
+        "width": 177,
+        "height": 126
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl8.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T23:11:33.028Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "1503f15d-8e29-4009-80e0-9b8a910c17c6",
+      "name": "Object 0",
+      "filename": "1503f15d-8e29-4009-80e0-9b8a910c17c6.png",
+      "boundingBox": {
+        "x": 1287.5,
+        "y": 440,
+        "width": 177,
+        "height": 126
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl8.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T23:12:37.829Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "d59ee1ce-a2ee-444c-a651-d8e6451338dd",
+      "name": "Object 0 (Copy)",
+      "filename": "d59ee1ce-a2ee-444c-a651-d8e6451338dd.png",
+      "boundingBox": {
+        "x": 1252.5,
+        "y": 575,
+        "width": 177,
+        "height": 126
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl8.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T23:13:09.878Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "4044ca43-dce9-4482-adcf-f67ec6204388",
+      "name": "Object 0 (Copy) (Copy)",
+      "filename": "4044ca43-dce9-4482-adcf-f67ec6204388.png",
+      "boundingBox": {
+        "x": 1125.5,
+        "y": 764,
+        "width": 177,
+        "height": 126
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl8.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T23:13:14.803Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "b5d442a4-801e-4287-bee3-730175baee06",
+      "name": "Object 0 (Copy) (Copy) (Copy)",
+      "filename": "b5d442a4-801e-4287-bee3-730175baee06.png",
+      "boundingBox": {
+        "x": 939.5,
+        "y": 435,
+        "width": 177,
+        "height": 126
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl8.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T23:13:33.889Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "069340e7-279c-4651-8367-aab7b7471578",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy)",
+      "filename": "069340e7-279c-4651-8367-aab7b7471578.png",
+      "boundingBox": {
+        "x": 871.5,
+        "y": 305,
+        "width": 177,
+        "height": 126
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl8.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T23:13:40.318Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "9925c64c-1f77-463c-bbb9-7f81994d659d",
+      "name": "Object 0 (Copy) (Copy) (Copy)",
+      "filename": "9925c64c-1f77-463c-bbb9-7f81994d659d.png",
+      "boundingBox": {
+        "x": 1166.5,
+        "y": 938,
+        "width": 177,
+        "height": 126
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl8.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T23:13:53.288Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "94dc5252-0589-4e2f-8b82-e81a41f8f0b1",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy)",
+      "filename": "94dc5252-0589-4e2f-8b82-e81a41f8f0b1.png",
+      "boundingBox": {
+        "x": 780.5,
+        "y": 754,
+        "width": 177,
+        "height": 126
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl8.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T23:13:58.041Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "556399f3-54b0-4694-a3cc-2fdc61cbb4a4",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "556399f3-54b0-4694-a3cc-2fdc61cbb4a4.png",
+      "boundingBox": {
+        "x": 769.5,
+        "y": 649,
+        "width": 177,
+        "height": 126
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl8.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T23:14:04.059Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "f7d77697-770e-468d-a742-95469266ce90",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "f7d77697-770e-468d-a742-95469266ce90.png",
+      "boundingBox": {
+        "x": 679.5,
+        "y": 516,
+        "width": 177,
+        "height": 126
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl8.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T23:14:08.121Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "34fa11b7-797b-4b42-9d0a-c0f6a5b4b415",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "34fa11b7-797b-4b42-9d0a-c0f6a5b4b415.png",
+      "boundingBox": {
+        "x": 609.5,
+        "y": 451,
+        "width": 177,
+        "height": 126
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl8.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T23:14:13.920Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "f7190504-d81b-4acf-b87f-f2b10b782bfd",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "f7190504-d81b-4acf-b87f-f2b10b782bfd.png",
+      "boundingBox": {
+        "x": 527.5,
+        "y": 593,
+        "width": 177,
+        "height": 126
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl8.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T23:14:18.569Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "d44a1add-98e4-4d93-babc-7e15b91852a8",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "d44a1add-98e4-4d93-babc-7e15b91852a8.png",
+      "boundingBox": {
+        "x": 573.5,
+        "y": 751,
+        "width": 177,
+        "height": 126
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl8.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T23:14:24.817Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "cdd18507-20f6-4bf7-9b20-bd989c4f8bd0",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "cdd18507-20f6-4bf7-9b20-bd989c4f8bd0.png",
+      "boundingBox": {
+        "x": 284.5,
+        "y": 503,
+        "width": 177,
+        "height": 126
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl8.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T23:15:00.745Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "eaadae74-39fb-4bda-9fb2-3e5d4f955c6a",
+      "name": "market2",
+      "filename": "eaadae74-39fb-4bda-9fb2-3e5d4f955c6a.png",
+      "boundingBox": {
+        "x": 660.5,
+        "y": 246,
+        "width": 177,
+        "height": 126
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl8.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T23:16:09.606Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "800726dd-7e62-4681-959f-34953a4ee874",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "800726dd-7e62-4681-959f-34953a4ee874.png",
+      "boundingBox": {
+        "x": 842.5,
+        "y": 137,
+        "width": 177,
+        "height": 126
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl8.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T23:16:15.807Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "7a1740ef-f6aa-42ed-91dd-43a8843ebde5",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "7a1740ef-f6aa-42ed-91dd-43a8843ebde5.png",
+      "boundingBox": {
+        "x": 1321.5,
+        "y": 54,
+        "width": 177,
+        "height": 126
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl8.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T23:16:21.338Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "0d50b25c-dcd6-4848-8c20-aaad20c1d43b",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "0d50b25c-dcd6-4848-8c20-aaad20c1d43b.png",
+      "boundingBox": {
+        "x": 1322.5,
+        "y": 120,
+        "width": 177,
+        "height": 126
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl8.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T23:16:27.762Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "b1d2be13-9199-4a53-9949-8b5740e6941b",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "b1d2be13-9199-4a53-9949-8b5740e6941b.png",
+      "boundingBox": {
+        "x": 1081.5,
+        "y": 56,
+        "width": 177,
+        "height": 126
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl8.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T23:16:32.818Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "12723f17-603a-47bc-b29d-a057724001b2",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "12723f17-603a-47bc-b29d-a057724001b2.png",
+      "boundingBox": {
+        "x": 1549.5,
+        "y": 250,
+        "width": 177,
+        "height": 126
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl8.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T23:16:41.374Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "8049c949-c5a7-4810-a3e8-ab33e7756bb9",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "8049c949-c5a7-4810-a3e8-ab33e7756bb9.png",
+      "boundingBox": {
+        "x": 1096.5,
+        "y": 424,
+        "width": 177,
+        "height": 126
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl8.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T23:16:51.665Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "4ff69ffb-f615-43cd-b82f-9a1b06be7406",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "4ff69ffb-f615-43cd-b82f-9a1b06be7406.png",
+      "boundingBox": {
+        "x": 1177.5,
+        "y": 407,
+        "width": 177,
+        "height": 126
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl8.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T23:17:06.848Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "45a87f6b-e414-4f92-9598-d070ac9b3c40",
+      "name": "Object 0 (Copy)",
+      "filename": "45a87f6b-e414-4f92-9598-d070ac9b3c40.png",
+      "boundingBox": {
+        "x": 665.5,
+        "y": 450.5,
+        "width": 52,
+        "height": 34
+      },
+      "layer": 110,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: st6.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T23:17:44.758Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "c4556939-af5f-4a79-a012-9576c0f371e4",
+      "name": "Object 0 (Copy) (Copy)",
+      "filename": "c4556939-af5f-4a79-a012-9576c0f371e4.png",
+      "boundingBox": {
+        "x": 1149.5,
+        "y": 264.5,
+        "width": 52,
+        "height": 34
+      },
+      "layer": 110,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: st6.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T23:17:49.467Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "404e11bc-2cc9-4b3e-befc-24c7da73c884",
+      "name": "Object 0 (Copy)",
+      "filename": "404e11bc-2cc9-4b3e-befc-24c7da73c884.png",
+      "boundingBox": {
+        "x": 285.5,
+        "y": 594.5,
+        "width": 40,
+        "height": 28
+      },
+      "layer": 109,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl7.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T23:18:08.183Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "e5c7242e-e39d-4227-bcee-95b1c4c0a686",
+      "name": "Object 0 (Copy)",
+      "filename": "e5c7242e-e39d-4227-bcee-95b1c4c0a686.png",
+      "boundingBox": {
+        "x": 1180.5,
+        "y": 543,
+        "width": 44,
+        "height": 65
+      },
+      "layer": 30,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: t2.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T23:18:28.503Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "506a46a2-5402-4421-9d83-a8071a30287e",
+      "name": "Object 0 (Copy)",
+      "filename": "506a46a2-5402-4421-9d83-a8071a30287e.png",
+      "boundingBox": {
+        "x": 1336.5,
+        "y": 606,
+        "width": 44,
+        "height": 65
+      },
+      "layer": 30,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: t2.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T23:18:32.916Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "d069aac6-4072-4e76-b271-6b49395f2c72",
+      "name": "Object 0 (Copy) (Copy)",
+      "filename": "d069aac6-4072-4e76-b271-6b49395f2c72.png",
+      "boundingBox": {
+        "x": 1178.5,
+        "y": 704,
+        "width": 44,
+        "height": 65
+      },
+      "layer": 30,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: t2.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T23:18:36.114Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "a7f49e07-f5ff-45f9-b6e6-2116645b8817",
+      "name": "Object 0 (Copy) (Copy) (Copy)",
+      "filename": "a7f49e07-f5ff-45f9-b6e6-2116645b8817.png",
+      "boundingBox": {
+        "x": 794.5,
+        "y": 670,
+        "width": 44,
+        "height": 65
+      },
+      "layer": 30,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: t2.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T23:19:33.856Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "ad74b8e5-d5d4-4391-a6e7-cf5a96e2228b",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy)",
+      "filename": "ad74b8e5-d5d4-4391-a6e7-cf5a96e2228b.png",
+      "boundingBox": {
+        "x": 858.5,
+        "y": 765,
+        "width": 44,
+        "height": 65
+      },
+      "layer": 30,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: t2.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T23:19:40.509Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "51839f1d-e847-4f44-ada6-c504ab84df6b",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "51839f1d-e847-4f44-ada6-c504ab84df6b.png",
+      "boundingBox": {
+        "x": 922.5,
+        "y": 960,
+        "width": 44,
+        "height": 65
+      },
+      "layer": 30,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: t2.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T23:19:41.200Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "de2cd96f-65a2-4528-98b7-3eb42dddd010",
+      "name": "Object 0 (Copy) (Copy)",
+      "filename": "de2cd96f-65a2-4528-98b7-3eb42dddd010.png",
+      "boundingBox": {
+        "x": 1337.5,
+        "y": 155,
+        "width": 44,
+        "height": 65
+      },
+      "layer": 30,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: t2.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T23:19:55.631Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "d3caac93-79a8-4618-8da5-1b488b919916",
+      "name": "Object 0 (Copy) (Copy) (Copy)",
+      "filename": "d3caac93-79a8-4618-8da5-1b488b919916.png",
+      "boundingBox": {
+        "x": 1145.5,
+        "y": 320,
+        "width": 44,
+        "height": 65
+      },
+      "layer": 30,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: t2.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T23:19:55.870Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "2e3fd4cb-f216-4216-927d-45068ecc7951",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "2e3fd4cb-f216-4216-927d-45068ecc7951.png",
+      "boundingBox": {
+        "x": 1055,
+        "y": 1017.5,
+        "width": 30,
+        "height": 27
+      },
+      "layer": 33,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: st7.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T23:20:07.450Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "c80f73c6-20e6-44d9-a705-691129011ed7",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "c80f73c6-20e6-44d9-a705-691129011ed7.png",
+      "boundingBox": {
+        "x": 1117,
+        "y": 955.5,
+        "width": 30,
+        "height": 27
+      },
+      "layer": 33,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: st7.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T23:20:08.214Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "e06ea91b-118e-4fa4-ad1a-7b4bb373f7c1",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy)",
+      "filename": "e06ea91b-118e-4fa4-ad1a-7b4bb373f7c1.png",
+      "boundingBox": {
+        "x": 766,
+        "y": 440.5,
+        "width": 30,
+        "height": 27
+      },
+      "layer": 33,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: st7.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T23:20:15.926Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "e18c4a95-1563-4081-8562-2742ff3dc860",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "e18c4a95-1563-4081-8562-2742ff3dc860.png",
+      "boundingBox": {
+        "x": 513,
+        "y": 342.5,
+        "width": 30,
+        "height": 27
+      },
+      "layer": 33,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: st7.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T23:20:20.448Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "a26ec574-d075-4fd2-a82e-e793b95447ea",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "a26ec574-d075-4fd2-a82e-e793b95447ea.png",
+      "boundingBox": {
+        "x": 514,
+        "y": 249.5,
+        "width": 30,
+        "height": 27
+      },
+      "layer": 33,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: st7.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T23:20:24.415Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "4a576303-f0a6-4725-be4b-78a31426c838",
+      "name": "Object 0 (Copy) (Copy) (Copy)",
+      "filename": "4a576303-f0a6-4725-be4b-78a31426c838.png",
+      "boundingBox": {
+        "x": 1222.5,
+        "y": 998.5,
+        "width": 52,
+        "height": 34
+      },
+      "layer": 110,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: st6.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T23:20:53.702Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "ee0e9753-cf4f-4137-851f-caca4bb8578d",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy)",
+      "filename": "ee0e9753-cf4f-4137-851f-caca4bb8578d.png",
+      "boundingBox": {
+        "x": 730.5,
+        "y": 481,
+        "width": 44,
+        "height": 65
+      },
+      "layer": 30,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: t2.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T23:21:45.140Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "6c72c40d-bdd6-4fab-9d5c-8e2f86d1764c",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "6c72c40d-bdd6-4fab-9d5c-8e2f86d1764c.png",
+      "boundingBox": {
+        "x": 537.5,
+        "y": 607,
+        "width": 44,
+        "height": 65
+      },
+      "layer": 30,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: t2.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T23:21:45.529Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "512878e3-0768-4e98-9220-9b7c7a5b02ce",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "512878e3-0768-4e98-9220-9b7c7a5b02ce.png",
+      "boundingBox": {
+        "x": 601.5,
+        "y": 991,
+        "width": 44,
+        "height": 65
+      },
+      "layer": 30,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: t2.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T23:21:46.452Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "03484225-171b-4661-812f-c9ac96032895",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "03484225-171b-4661-812f-c9ac96032895.png",
+      "boundingBox": {
+        "x": 1306.5,
+        "y": 925,
+        "width": 44,
+        "height": 65
+      },
+      "layer": 230,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: t2.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T23:21:59.517Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "c6ce91ab-f00d-4361-ab83-aa154e3f69ef",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy)",
+      "filename": "c6ce91ab-f00d-4361-ab83-aa154e3f69ef.png",
+      "boundingBox": {
+        "x": 1423,
+        "y": 934,
+        "width": 177,
+        "height": 126
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl8.png",
+      "metadata": {
+        "generatedAt": "2026-02-12T17:59:05.988Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "7bade67a-6069-4dbd-aeb2-13722c0d67f0",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "7bade67a-6069-4dbd-aeb2-13722c0d67f0.png",
+      "boundingBox": {
+        "x": 1585,
+        "y": 810,
+        "width": 177,
+        "height": 126
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl8.png",
+      "metadata": {
+        "generatedAt": "2026-02-12T17:59:06.434Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "486af464-8b01-451f-a4c6-331c7b82629f",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "486af464-8b01-451f-a4c6-331c7b82629f.png",
+      "boundingBox": {
+        "x": 1711,
+        "y": 756,
+        "width": 177,
+        "height": 126
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl8.png",
+      "metadata": {
+        "generatedAt": "2026-02-12T17:59:07.785Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "a1f5845c-c7e4-4c5d-adad-2efa7dbc377e",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "a1f5845c-c7e4-4c5d-adad-2efa7dbc377e.png",
+      "boundingBox": {
+        "x": 1719,
+        "y": 941,
+        "width": 177,
+        "height": 126
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl8.png",
+      "metadata": {
+        "generatedAt": "2026-02-12T17:59:08.213Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "c5adc5b6-cd2e-467c-aa34-45c35ab6851c",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy)",
+      "filename": "c5adc5b6-cd2e-467c-aa34-45c35ab6851c.png",
+      "boundingBox": {
+        "x": 1589,
+        "y": 915,
+        "width": 177,
+        "height": 126
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: fl8.png",
+      "metadata": {
+        "generatedAt": "2026-02-12T17:59:22.928Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "0db1fd6e-7fcb-4603-8c1f-6b8098e6d4dd",
+      "name": "Arena",
+      "filename": "0db1fd6e-7fcb-4603-8c1f-6b8098e6d4dd.png",
+      "boundingBox": {
+        "x": 1497.6666666666665,
+        "y": 686,
+        "width": 400,
+        "height": 369
+      },
+      "layer": 233,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: Gemini_Generated_Image_vbz3r6vbz3r6vbz3 (\u0444\u043e\u043d \u0443\u0434\u0430\u043b\u0435\u043d)\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f.png",
+      "metadata": {
+        "generatedAt": "2026-02-12T18:02:10.023Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "c0aa6339-3b55-4a8b-99a4-5f442e5e29ef",
+      "name": "Mine",
+      "filename": "c0aa6339-3b55-4a8b-99a4-5f442e5e29ef.png",
+      "boundingBox": {
+        "x": 246.66666666666652,
+        "y": 729,
+        "width": 272,
+        "height": 343
+      },
+      "layer": 234,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: untitled (1).png",
+      "metadata": {
+        "generatedAt": "2026-02-12T18:07:43.461Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "bbbd15b3-ec26-4153-8224-65b09f1ae8be",
+      "name": "Object 0 (Copy)",
+      "filename": "bbbd15b3-ec26-4153-8224-65b09f1ae8be.png",
+      "boundingBox": {
+        "x": 788,
+        "y": 148,
+        "width": 72,
+        "height": 43
+      },
+      "layer": 11,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: st1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T21:57:25.857Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "7f359e39-e6b0-4e5c-8aad-1eaa68d0c30c",
+      "name": "Object 0",
+      "filename": "7f359e39-e6b0-4e5c-8aad-1eaa68d0c30c.png",
+      "boundingBox": {
+        "x": 802.5,
+        "y": 169,
+        "width": 72,
+        "height": 43
+      },
+      "layer": 11,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: st1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T21:13:38.723Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "ce26d8ea-3142-4712-b514-dea8d8a64333",
+      "name": "market3",
+      "filename": "ce26d8ea-3142-4712-b514-dea8d8a64333.png",
+      "boundingBox": {
+        "x": 618.5,
+        "y": 209,
+        "width": 72,
+        "height": 43
+      },
+      "layer": 15,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: st1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:22:18.184Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "1f314d7c-b467-4cdc-b3a2-4dfc12e94f34",
+      "name": "market2",
+      "filename": "1f314d7c-b467-4cdc-b3a2-4dfc12e94f34.png",
+      "boundingBox": {
+        "x": 652.5,
+        "y": 229,
+        "width": 72,
+        "height": 43
+      },
+      "layer": 17,
+      "visible": true,
+      "locked": false,
+      "description": "Imported: st1.png",
+      "metadata": {
+        "generatedAt": "2026-01-30T22:22:19.600Z"
+      },
+      "isProgress": false
+    }
+  ]
+}

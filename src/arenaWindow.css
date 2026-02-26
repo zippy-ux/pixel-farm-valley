@@ -1,0 +1,153 @@
+/* Arena window — pixel-art overlay */
+
+.arena-window-overlay {
+  display: none;
+  position: fixed;
+  inset: 0;
+  z-index: 10002;
+  align-items: center;
+  justify-content: center;
+  background: rgba(0, 0, 0, 0.6);
+  font-family: "Press Start 2P", monospace;
+}
+
+.arena-window {
+  width: min(420px, 90vw);
+  max-height: 85vh;
+  overflow-y: auto;
+  background: #1e1e1e;
+  color: #e0e0e0;
+  border: 2px solid #fbbf24;
+  outline: 2px solid #fbbf24;
+  outline-offset: -2px;
+  box-shadow: 0 0 0 1px #222;
+  padding: 0;
+}
+
+.arena-window-header {
+  padding: 12px 14px 8px;
+  border-bottom: 2px solid #333;
+}
+
+.arena-window-title-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+}
+
+.arena-window-title {
+  font-size: 12px;
+  font-weight: 400;
+  color: #fff;
+  margin: 0;
+}
+
+.arena-window-close {
+  font-size: 18px;
+  line-height: 1;
+  width: 28px;
+  height: 28px;
+  padding: 0;
+  border: 2px solid #fbbf24;
+  background: #2d2d2d;
+  color: #e0e0e0;
+  cursor: pointer;
+  font-family: inherit;
+}
+
+.arena-window-close:hover {
+  background: #3d3d3d;
+  color: #fff;
+}
+
+.arena-window-subtitle {
+  font-size: 8px;
+  color: #cececf;
+  margin: 6px 0 0;
+}
+
+.arena-window-desc {
+  font-size: 8px;
+  color: #cececf;
+  margin: 8px 0 0;
+  line-height: 1.6;
+}
+
+.arena-window-body {
+  padding: 12px 14px 14px;
+}
+
+.arena-block {
+  margin-bottom: 14px;
+}
+
+.arena-block:last-child {
+  margin-bottom: 0;
+}
+
+.arena-info-row {
+  font-size: 8px;
+  padding: 6px 0;
+  border-bottom: 1px solid #333;
+}
+
+.arena-info-row:last-child {
+  border-bottom: none;
+}
+
+.arena-cooldown-row:last-child {
+  border-bottom: none;
+}
+
+.arena-info-label {
+  color: #cececf;
+}
+
+.arena-info-value {
+  color: #22c55e;
+}
+
+.arena-buttons-row {
+  display: flex;
+  gap: 12px;
+}
+
+.arena-buttons-row .arena-btn-enter {
+  flex: 1;
+}
+
+.arena-btn-enter {
+  font-family: "Press Start 2P", monospace;
+  font-size: 10px;
+  padding: 12px 16px;
+  border: 2px solid #fbbf24;
+  background: #2d2d2d;
+  color: #e0e0e0;
+  cursor: pointer;
+  width: 100%;
+}
+
+.arena-btn-enter:hover:not(:disabled) {
+  background: #3d3d3d;
+  color: #fff;
+}
+
+.arena-btn-enter:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+/* PvP Arena (same overlay, extra blocks) */
+.pvp-arena-window .pvp-create-block { margin-bottom: 12px; }
+.pvp-arena-window .pvp-btn-create { flex: none; }
+.pvp-arena-window .pvp-form-block label { display: block; font-size: 8px; margin-bottom: 8px; }
+.pvp-arena-window .pvp-form-block input { margin-left: 8px; padding: 4px; font-family: inherit; }
+.pvp-arena-window .pvp-form-buttons { margin-top: 10px; display: flex; gap: 8px; }
+.pvp-arena-window .pvp-table-wrap { overflow-x: auto; margin-top: 8px; }
+.pvp-arena-window .pvp-battles-table { width: 100%; font-size: 8px; border-collapse: collapse; }
+.pvp-arena-window .pvp-battles-table th, .pvp-arena-window .pvp-battles-table td { padding: 6px 8px; text-align: left; border-bottom: 1px solid #333; }
+.pvp-arena-window .pvp-btn-enter { padding: 6px 10px; font-size: 8px; width: auto; }
+.pvp-arena-window .pvp-waiting-msg { font-size: 8px; color: #fbbf24; margin-top: 8px; }
+.arena-btn-pvp { flex: none; font-family: "Press Start 2P", monospace; font-size: 10px; padding: 12px 16px; border: 2px solid #a78bfa; background: #2d2d2d; color: #e0e0e0; cursor: pointer; }
+.arena-btn-pvp:hover { background: #3d3d3d; color: #fff; }

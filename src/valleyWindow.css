@@ -1,0 +1,88 @@
+/* Valley window — pixel-art overlay (map2 exit to farm) */
+
+.valley-window-overlay {
+  display: none;
+  position: fixed;
+  inset: 0;
+  z-index: 10002;
+  align-items: center;
+  justify-content: center;
+  background: rgba(0, 0, 0, 0.6);
+  font-family: "Press Start 2P", monospace;
+}
+
+.valley-window {
+  width: min(420px, 90vw);
+  max-height: 85vh;
+  overflow-y: auto;
+  background: #1e1e1e;
+  color: #e0e0e0;
+  border: 2px solid #fbbf24;
+  outline: 2px solid #fbbf24;
+  outline-offset: -2px;
+  box-shadow: 0 0 0 1px #222;
+  padding: 0;
+}
+
+.valley-window-header {
+  padding: 12px 14px 8px;
+  border-bottom: 2px solid #333;
+}
+
+.valley-window-title-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+}
+
+.valley-window-title {
+  font-size: 12px;
+  font-weight: 400;
+  color: #fff;
+  margin: 0;
+}
+
+.valley-window-close {
+  font-size: 18px;
+  line-height: 1;
+  width: 28px;
+  height: 28px;
+  padding: 0;
+  border: 2px solid #fbbf24;
+  background: #2d2d2d;
+  color: #e0e0e0;
+  cursor: pointer;
+  font-family: inherit;
+}
+
+.valley-window-close:hover {
+  background: #3d3d3d;
+  color: #fff;
+}
+
+.valley-window-subtitle {
+  font-size: 8px;
+  color: #cececf;
+  margin: 6px 0 0;
+}
+
+.valley-window-body {
+  padding: 12px 14px 14px;
+}
+
+.valley-btn-exit {
+  font-family: "Press Start 2P", monospace;
+  font-size: 10px;
+  padding: 12px 16px;
+  border: 2px solid #fbbf24;
+  background: #2d2d2d;
+  color: #e0e0e0;
+  cursor: pointer;
+  width: 100%;
+}
+
+.valley-btn-exit:hover {
+  background: #3d3d3d;
+  color: #fff;
+}
