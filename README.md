@@ -13,7 +13,8 @@
   <a href="https://pixelvalley.farm">Live Demo</a> •
   <a href="#quick-start">Quick Start</a> •
   <a href="#tech-stack">Tech Stack</a> •
-  <a href="docs/HACKATHON.md">Hackathon Guide</a>
+  <a href="docs/HACKATHON.md">Hackathon Guide</a> •
+  <a href="CONTRIBUTING.md">Contributing</a>
 </p>
 
 ---
@@ -23,6 +24,12 @@
 **Pixel Farm Valley** is a resource-driven Play-to-Earn game built on Solana. Players mine gold, silver, and bronze in the mine, sell them for points in the market, and withdraw $PFV tokens to their Solana wallet.
 
 This repository contains the **frontend only** — the game client that connects to the public Pixel Valley Farm API. No backend code is included; the app runs against the production API by default.
+
+### Why it matters
+
+- **Player-driven economy** — Mine raw materials, sell at market, claim $PFV to your wallet
+- **End-to-end flow** — In-game actions → points → token withdrawal to Solana
+- **Trust design** — Burn mechanics and certificates to reduce fraud and sybil attacks
 
 ## Quick Start
 
@@ -105,6 +112,10 @@ Get a WalletConnect project ID at [cloud.reown.com](https://cloud.reown.com).
 pnpm build
 # Output: dist/
 ```
+
+**How to verify:**
+- **Deploy Preview (Vercel URL)** — Landing page; LAUNCH button redirects to [pixelvalley.farm](https://pixelvalley.farm)
+- **Local** — `pnpm dev` — full client at [localhost:5173](http://localhost:5173)
 
 **Landing-only deploy (Vercel, GitHub Pages, etc.):** when hosting on a different domain, login won't work (API CORS, OAuth redirects). Use `build:landing` so LAUNCH GAME redirects to the live game:
 

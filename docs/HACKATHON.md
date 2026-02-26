@@ -52,6 +52,14 @@ Set environment variables in your host's dashboard if needed (`VITE_API_URL`, `V
 | Wallet connect fails | Set `VITE_WALLETCONNECT_PROJECT_ID`. |
 | CORS errors | The API allows the origin. For custom domains, ensure the API CORS config includes your domain. |
 
+## Pre-submission checklist
+
+Before submitting to judges:
+
+- [ ] No real keys in the repo (including git history — use `git log -p` to verify)
+- [ ] `pnpm install && pnpm dev` starts without errors
+- [ ] `pnpm build:landing` produces a build where LAUNCH button redirects to pixelvalley.farm
+
 ## Links
 
 - [Live game](https://pixelvalley.farm)
