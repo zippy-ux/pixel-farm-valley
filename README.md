@@ -43,6 +43,7 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 |----------|-------------|----------|
 | `VITE_API_URL` | API base URL. Default: `https://pixelvalley.farm` (empty = same origin) | No |
 | `VITE_WALLETCONNECT_PROJECT_ID` | [Reown AppKit](https://cloud.reown.com) project ID for wallet connect | **Yes** (for wallet features) |
+| `VITE_REDIRECT_LAUNCH_TO_LIVE` | When `true`, LAUNCH GAME redirects to pixelvalley.farm (for landing-only deploy) | No |
 
 Create a `.env` file:
 
@@ -89,6 +90,12 @@ Get a WalletConnect project ID at [cloud.reown.com](https://cloud.reown.com).
 ```bash
 pnpm build
 # Output: dist/
+```
+
+**Landing-only deploy (e.g. GitHub Pages):** when hosting on a different domain, login won't work (API CORS, OAuth redirects). Use `build:landing` so LAUNCH GAME redirects to the live game:
+
+```bash
+pnpm build:landing
 ```
 
 Preview production build:

@@ -280,9 +280,15 @@ function getOrCreateOverlay(): HTMLDivElement {
 
   const LAUNCH_PRELOADER_MS = 1000;
 
+  const redirectLaunchToLive = (import.meta.env?.VITE_REDIRECT_LAUNCH_TO_LIVE as string) === "true";
+
   if (launchBtn) {
     launchBtn.addEventListener("click", async (e) => {
       e.preventDefault();
+      if (redirectLaunchToLive) {
+        window.location.href = "https://pixelvalley.farm";
+        return;
+      }
       const token = getToken();
       if (token) {
         const meRes = await getMe(token);

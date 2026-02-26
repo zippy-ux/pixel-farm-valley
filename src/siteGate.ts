@@ -1,18 +1,17 @@
 /**
- * Site gate — password screen before the game login.
- * Temporary: remove before launch.
- * Password: VITE_SITE_GATE_PASSWORD in build env, or default below.
+ * Site gate — optional password screen before the main login.
+ * Used for private betas: set VITE_SITE_GATE_PASSWORD in .env to enable.
+ * When disabled (default), users go straight to the login overlay.
  */
 
-const GATE_STORAGE_KEY = "pixelvalley_site_gate";
-const DEFAULT_GATE_PASSWORD = "pixelvalley";
+const GATE_STORAGE_KEY = "site_gate_passed";
 
 function getGatePassword(): string {
   if (typeof import.meta !== "undefined" && import.meta.env?.VITE_SITE_GATE_PASSWORD) {
     const v = (import.meta.env.VITE_SITE_GATE_PASSWORD as string).trim();
     if (v.length > 0) return v;
   }
-  return DEFAULT_GATE_PASSWORD;
+  return ""; // Gate effectively disabled when no env var set
 }
 
 export function isGatePassed(): boolean {
@@ -61,7 +60,7 @@ function getOrCreateOverlay(): HTMLDivElement {
     }
     errorEl.textContent = "";
     submitBtn.disabled = true;
-    if (password !== expected) {
+    if (!expected || password !== expected) {
       errorEl.textContent = "Wrong password";
       submitBtn.disabled = false;
       return;

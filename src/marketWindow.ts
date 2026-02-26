@@ -393,7 +393,7 @@ function createWindow(): HTMLDivElement {
               </div>
               <div class="market-withdraw-field">
                 <span class="market-withdraw-field-label">Amount $PFV</span>
-                <input type="number" min="1000" step="0.001" data-withdraw-amount placeholder="Min 1000" class="market-withdraw-input" />
+                <input type="number" min="5000" step="0.001" data-withdraw-amount placeholder="Min 5000" class="market-withdraw-input" />
                 <span class="market-withdraw-available-hint" data-withdraw-available-hint>Available: <span class="market-withdraw-available-value">0</span></span>
               </div>
             </div>
@@ -723,8 +723,8 @@ function createWindow(): HTMLDivElement {
       return;
     }
     const amount = parseFloat(amountInput?.value ?? "0");
-    if (!Number.isFinite(amount) || amount < 1000) {
-      showToast("Min 1000 $PFV", true);
+    if (!Number.isFinite(amount) || amount < 5000) {
+      showToast("Min 5000 $PFV", true);
       return;
     }
     const st = mockState.withdrawStatus;
