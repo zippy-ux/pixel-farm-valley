@@ -11,11 +11,22 @@
 
 <p align="center">
   <a href="https://pixelvalley.farm">Live Demo</a> •
+  <a href="#demo-videos">Demo Videos</a> •
   <a href="#quick-start">Quick Start</a> •
   <a href="#tech-stack">Tech Stack</a> •
   <a href="docs/HACKATHON.md">Hackathon Guide</a> •
   <a href="CONTRIBUTING.md">Contributing</a>
 </p>
+
+---
+
+## Demo Videos
+
+| Video | Description |
+|-------|-------------|
+| [Game Process](https://www.youtube.com/watch?v=D_gAxl8Tkrw) | Gameplay walkthrough |
+| [Mobile Version & Solana Mobile](https://www.youtube.com/watch?v=gjZP0tor8k4) | Mobile presentation and Solana Mobile demo |
+| [NPC Toly](https://www.youtube.com/watch?v=_ofrXLZXUgI) | NPC Toly demonstration |
 
 ---
 
